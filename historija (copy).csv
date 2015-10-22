@@ -1,0 +1,1006 @@
+Rb;Istraživači;Predmet;NPP;Razred;Udžbenik;Lekcija;Negativni oblici ponašanja;Navedite šta;Univerzalne vrijednosti;Navedite šta;Partikularizacija;Sadržaji;Načini;Indikator 1;Aktivno učenje;Ne nudi se mogućnost diskusije;Indikator 2;Rješavanje problema;Puko pamćenje činjenica;Indikator 3;Mutiperspektivni pristup;Pristup jedne perspektive;Indikator 4 ;Diferencirani prikazi;Stereotipni prikazi
+1;SB/MF;Historija;B;8;HIP8;Humanizam i renesansa;Ne;;Da;život MF-8-1;Ne;;;2;;;2;;;0;;;0;;
+2;SB/MF;Historija;B;8;HIP8;Velika geografska otkrića;Ne;;Ne;;Ne;;;0;MF-18-1, MF-18-2;;2;;;0;;;1;SB-16-1, SB-16-2, MF-16-1, MF-17-1 ;
+3;SB/MF;Historija;B;8;HIP8;Reformacija i protureformacija;Ne;;Da;mir MF-21-1, MF-21-2;Ne;;;0;SB-23, MF-23-1;;2;;;0;;;0;;
+4;SB/MF;Historija;B;8;HIP8;Oblici vladavine: apsolutizam i parlamentarizam;Ne;;Ne;;Ne;;;0;MF-26-1;;2;;;0;;;0;;
+5;SB/MF;Historija;B;8;HIP8;Privredni razvoj Zapadne Evrope, Osmanskog carstva i Rusije;Ne;;Da;saradnja MF-30-1;Ne;;;2;;;2;;;0;;;0;;
+6;SB/MF;Historija;B;8;HIP8;Kapitalizam i kapitalističko društvo, industrijska revolucija, gradovi;Ne;;Ne;;Ne;;;1;MF-37-1 ;;2;;;0;;;1;SB-33, SB-34, SB-37 ;
+7;SB/MF;Historija;B;8;HIP8;Nauka, tehnika, kultura i umjetnost u Novom vijeku;Ne;;Da;sloboda MF-41-1;Ne;;;2;;;2;;;0;;;0;;
+8;SB/MF;Historija;B;8;HIP8;Južnoslavenske zemlje od 16. do kraja 18. stoljeća;Ne;;Ne;;Ne;;;0;MF-48-1;;2;;;0;;;0;;
+9;SB/MF;Historija;B;8;HIP8;Nacionalno buđenje u susjednim zemljama;Ne;;Da;saradnja, jedinstvo, sloboda MF-49-1, MF-50-1, odgovornost MF-52-1 ;Da;tradicija, teritorij MF-50-2, MF-51-1;insinuacija MF-50-2, MF-51-1 ;0;;MF-53-1, MF-53-2;2;;;0;;;0;;
+10;SB/MF;Historija;B;8;HIP8;Nastanak i razvoj Sjedinjenih Američkih Država;Ne;;Da;sloboda, jednakost MF-56-1;Ne;;;0;MF-60-1;;2;;;0;;;0;;
+11;SB/MF;Historija;B;8;HIP8;Francuska građanska revolucija 1789.;Ne;;Da;sloboda SB-66-2, jednakost MF-61-2, MF-61-3, MF-63-1, MF-63-2, odgovornost MF-62-1;Ne;;;1;SB-66-1, MF-66-1, MF-66-2 ;;1;MF-66-2;;0;;;0;;MF-65-1 
+12;SB/MF;Historija;B;8;HIP8;Francuska u doba Napoleona;Ne;;Ne;;Ne;;;0;MF-71-1, MF-71-2;;2;MF-71-3;;0;;SB-71 ;0;MF-70-1, MF-70-2;
+13;SB/MF;Historija;B;8;HIP8;Revolucije u Evropi 1848/1849. godine;Ne;;Ne;;Ne;;;1;MF-76-1, MF-76-2;;2;;;0;;;0;;
+14;SB/MF;Historija;B;8;HIP8;Ujedinjenje Italije i ujedinjenje Njemačke i Austro-Ugarska nagodba;Ne;;Ne;;Ne;;;0;SB-81;;2;;;0;;;0;;
+15;SB/MF;Historija;B;8;HIP8;Građanski rat u SAD;Ne;;Da;mir MF-84-2;Ne;;;2;;;2;;;0;;;1;SB-83, SB-84, MF-83-1 ;"
+"
+16;SB/MF;Historija;B;8;HIP8;Monopolistički kapitalizam, imperijalizam i spolne ravnopravnosti;Ne;;Da;sloboda, jednakost MF-87-1;Ne;;;1;SB-87-3;;0;MF-87-2;;0;;;1;SB-87-1, SB-87-2; 
+17;SB/MF;Historija;B;8;HIP8;Reforme u Osmanskog carstvu i Bosanskom ejaletu, Hatti Šerif od Gilhane;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+18;SB/MF;Historija;B;8;HIP8;Husein-kapetan Gradaščević i pokret za autonomiju Bosne;Ne;;Da;saradnja SB-97-1;Ne;;;1;SB-97-2, MF- 97-1;;2;;;0;;;0;;
+19;SB/MF;Historija;B;8;HIP8;Promjene u uređenju Bosanskog ejaleta u 19. stoljeću;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+20;SB/MF;Historija;B;8;HIP8;Društvo, privreda i kultura i prosvjeta u Bosni pod osmanskom vlašću u 19. stoljeću;Ne;;Ne;;Ne;;;0;MF-106-1;;2;;;0;;;0;MF-105;
+21;SB/MF;Historija;B;8;HIP8;Velika istočna kriza, Berlinski kongres i okupacija BiH;Ne;;Ne;;Ne;;;2;MF-109-1;;2;;;0;;;0;;
+22;SB/MF;Historija;B;8;HIP8;Bosna i Hercegovina u vrijeme austrougarske uprave;Ne;;Da;sloboda MF-112-1, MF-112-2, odgovornost MF-113-1;Da;pobožnost, tradicija MF-112-1, MF-112-2;relativizacija;0;MF-114-1 ;;2;;;0;;;0;;
+23;SB/MF;Historija;B;8;HIP8;Privreda, društvo, kultura i prosvjeta u Bosni i Hercegovini za vrijeme austrougarske uprave;Ne;;Ne;;Ne;;;0;MF-116-1;;0;MF-118-1;;0;;;0;MF-116-2;
+1;ER/SB;Historija;H;7;HIP21;SVIJET I HRVATSKA U OSVIT MODERNOG DOBA;Ne;;Da;jednakost ER-9-1, ER-9-2, ER-15-2, ER-17-4, ER-17-5, ER-19-2,ER-21-2, ER-22-1, ER-23-2, ER-23-3, SB-21-1, sloboda ER-17-3, ER-19-1, ER-22-1, ER-23-2, ER-24-1;Ne;;;1;ER-9-4, ER-9-5, ER-11-1, ER-17-2, ER-18-2, ER-21-4, ER-23-3, ER-25-2, ER-26-2, ER-26-3, ER-28-4,  SB-7, SB-26, SB-29-1, SB-29-2;"
+";0;ER-11-1, ER-13-2, ER-12-1, ER-16-1, ER-23-4, ER-29-1;;0;ER-8-1, ER-17-1, ER-20-3, ER-26-1;;1;ER-8-1, ER-10-1, ER-10-2, ER-13-3, ER-14-1, ER-16-2, ER-18-1, ER-19-2, ER-20-1, ER-20-2, ER-20-4, ER-21-1, ER-21-2, ER-21-3, ER-23-2, ER-25-1, ER-26-1, ER-27-1, ER-27-2 ER-28-2, SB-21-1, SB-21-2, SB-23;
+2;ER/SB;Historija;H;7;HIP21;OBLIKOVANJE NOVOG DRUŠTVA – ZNANOST I TEHNOLOGIJA, INDUSTRIJSKA REVOLUCIJA;Ne;;Da;solidarnost ER-42-3, ER-47-2;Ne;;;1;ER-31-1, ER-32-1, ER-34-2, ER-36-1, ER-42-2, ER-46-1, ER-47-2, ER-47-3, SB-35, SB-37, SB-42-1, SB-47-1, SB-47-2;;0;ER-34-1, ER-34-2, ER-36-2, ER-42-2, ER-45-1, ER-46-1, ER-47-2, ER-47-3;;0;ER-37-1, ER-38-1, ER-42-1;;1;ER-35-1, ER-42-1, ER-42-2, ER-43-2, SB-41, SB-42-2;"
+"
+3;ER/SB;Historija;H;7;HIP21;EUROPA U PROMJENAMA: OD FRANCUSKE REVOLUCIJE DO BEČKOG KONGRESA;Ne;;Da;jednakost ER-50-1, ER-52-1, ER-52-2, ER-53-4, ER-53-6, ER-63-1;Ne;;;1;ER-48-2, ER-49-1, ER-53-2, ER-54-1, ER-54-2, ER-56-1, ER-56-2, ER-57-2, ER-59-1, ER-61-2, ER-62-1, ER-65-2, ER-66-1, ER-68-1, ER-69-2, SB-69-1, SB-69-2;"
+";0;ER-48-2, ER-49-1, ER-53-2, ER-53-3, ER-53-7, ER-56-3, ER-58-1, ER-62-2, ER-65-2, ER-69-1;;0;ER-54-1, ER-56-2, ER-61-1, ER-68-1, ER-65-1 ;ER-60-1, ER-69-2;0;ER-35-5, ER-55-1, SB-53;"ER-60-1, ER-61-1, ER-63-2, ER-67-2
+
+"
+4;ER/SB;Historija;H;7;HIP21;HRVATSKI NARODNI PREPOROD I POJAVA MODERTNIH NACIJA U EUROPI;Ne;;Ne;;Ne;;;1;ER-73-2, ER-76-3, ER-77-1, ER-79-1, ER-80-2, ER-85-2, ER-90-2, ER-93-2, ER-94-2, SB-84, SB-93, SB-95-1, SB-95-2;"
+";0;ER-72-5, ER-76-3, ER-89-1, ER-90-2, ER-95-1, ER-95-2;;0;ER-73-1, ER-74-1, ER-80-1, ER-84,85-1;;2;ER-72-2, ER-72-3, ER-72-4, ER-76-1, ER-80-1, ER-83-1, ER-86-1, ER-86-2, ER-91-3, ER-93-1, ER-94-1, SB-72-2, SB-79;ER-72-1, ER-76-2, ER-91-4, SB-72-1, SB-72-4
+5;ER/SB;Historija;H;7;HIP21;REVOLUCIJA 1848. U EUROPI I HRVATSKOJ;Ne;;Da;"sloboda ER-98-1, ER-98-2, ER-99-2, ER-101-2, ER-104-1, ER-105-3, ER-108-3, ER-114-1, jednakost ER-98-2, ER-98-4, ER-100-1, ER-101-2, ER-105-1, ER-105-3, ER-108-2, ER-108-4
+";Ne;;;1;ER-100-3, ER-101-1, ER-102-1, ER-104-1, ER-108-1, ER-112-1, SB-115 ;;0;ER-99-1, ER-101-1, ER-106-1, ER-109-1, ER-101-1, ER-115-1;;1;ER-107-1, ER-110-1, ER-113-2, SB-110, SB-113;"
+";1;ER-98, ER-99, ER-100-2, ER-106-2, ER-107-3, ER-108-2, ER-114-1, SB-100, SB-101;"
+"
+6;ER/SB;Historija;H;7;HIP21;DRUŠTVO, KULTURA I PROMJENE U SVAKODNEVNOM ŽIVOTU U PRVOJ POLOVICI 19. STOLJEĆA;Ne;;Da;solidarnost ER-118-2, ER-119-1, ER-121-1, ER-122-2, jednakost ER-121-2, SB-119-1;Ne;;;1;ER-116-1, ER-117-2, ER-118-3, ER-125-1, ER-125-3, SB-119-2, SB-129;"
+";0;ER-117-2, ER-119-2, ER-121-4, ER-122-3;;1;ER-117-1, ER-121-3, ER-122-1, SB-117-1;"ER-128-1
+";1;ER-118-1, ER-120-2, ER-125-2, SB-116, SB-121, SB-122;
+7;ER/SB;Historija;H;7;HIP21;EUROPA  NA VRHUNCU MOĆI;Ne;;Da;solidarnost ER-132-1, ER-124-1, jednakost ER-140-1, ER-141-1;Ne;;;1;ER-130-1, SB-141 ;;0;ER-134-2, ER-142-2;;0;;;1;ER-139-1, ER-139-2, ER-140-2, ER-141-1, SB-132, SB-134 ;"
+"
+8;ER/SB;Historija;H;7;HIP21;HRVATSKA U SKLOPU HABSBURŠKE MONARHIJE U DRUGOJ POLOVICI 19. I NA POČETKU 20. STOLJEĆA;Ne;;Da;"jednakost ER-146-1, ER-148-1, ER-159-3, ER-160-1, sloboda ER-146-1, ER-152-1
+";Ne;;;1;ER-142-1, ER-145-1, ER-145-2, ER-146-2, ER-153-3, ER-154-1, SB-157, SB-163-1, SB-163-2;;0;ER-147-2, ER-153-2, ER-159-2, ER-163-1;;0;ER-153-1, ER-157-1;;1;ER-147-1, ER-149-1, ER-155-1, ER-157-1, SB-153 ;
+9;ER/SB;Historija;H;7;HIP21;BOSNA I HERCEGOVINA U SASTAVU HABSBURŠKE MONARHIJE;Ne;;Ne;;Ne;;;0;ER-166-1, ER-166-2, ER-173-3, ER-178-2;;2;;;0;ER-166-3;;2;"ER-171-1
+";
+10;ER/SB;Historija;H;7;HIP21;SVIJET U DOBA EUROPSKE DOMINACIJE U 19. STOLJEĆU;Ne;;Da;"sloboda ER-181-2, ER-184-2, ER-184-3, solidarnost ER-181-3, ER-182-1, ER-184-1, ER-186-1, ER-186-2
+";Ne;;;1;ER-175-2, ER-176-2, ER-183-2, ER-187-4, SB-187-3, SB-187-4;;0;ER-178-3, ER-187-2, ER-187-3;;1;ER-176-1, ER-177-1, ER-178-1, ER-178-4, ER-179-1, ER-181-1, ER-181-4, ER-187-3, SB-178-1;;1;ER-176-1, ER-176-4, ER-179-1, ER-181-3, ER-187-1, SB-178-2, SB-182, SB-187-1, SB-187-2;
+11;ER/SB;Historija;H;7;HIP21;DRUŠTVO, KULTURA I PROMJENE U SVAKODNEVNOM ŽIVOTU U DRUGOJ POLOVICI 19. I NA POČETKU 20. STOLJEĆA;Ne;;Da;solidarnost ER-189-1, ER-190-1, ER-192, ER-193-1, ER-194-1, ER-194-2, ER-195-1, ER-198-1, ER-198-2;Ne;;;1;ER-188-1, ER-190-2, ER-199-1, ER-199-2, SB-203-1, SB-203-2;;0;ER-193-1, ER-203-1;;1;ER-190-2, ER-191-1, ER-192-1, ER-193-1, SB-199;;1;ER-189-1, ER-191-1, ER-193-1, ER-194-1, ER-194-3, ER-195-1, ER-197-1, ER-198-2, SB-193, SB-194, SB-197, SB-198;
+12;ER/SB;Historija;H;7;HIP21;SVJETSKE KRIZE I PRVI SVJETSKI RAT;Ne;;Da;život ER-204-1, ER-214-2, ER-215-1;Ne;;;1;ER-207-1, ER-207-2, ER-214-1, ER-222-2, ER-223-2, SB-213, SB-223;;0;ER-210-2, ER-211-1, ER-211-2, ER-223-1;;0;ER- 213-1;;0;ER-210-1, ER-218-2, SB-221;ER-220-2
+1;MF/ER;Historija;H;7;HIP18;Bizantsko carstvo;Ne;;Ne;;Ne;;;2;;;0;;;2;;ER-10-1, ER-11-1;0;;
+2;MF/ER;Historija;H;7;HIP18;Europski zapad u ranom srednjem vijeku;Ne;"
+";Ne;;Ne;;;0;ER-14-2, ER-15-1;;2;;;0;;;0;;
+3;MF/ER;Historija;H;7;HIP18;Kršćanstvo u ranom srednjem vijeku;Ne;;Da;saradnja MF-21-1;Ne;;;2;;;2;"MF-21-2 
+";;2;ER-19-2;ER-18-2;2;;ER-18-4
+4;MF/ER;Historija;H;7;HIP18;Osnove feudalnog društva;Ne;;Da;jednakost MF-24-1, sloboda MF-24-2, ER-24-1, ER-24-2, solidarnost ER-25-1, ER-25-2;Ne;;;0;;;2;"MF-26-1
+";;0;;;0;;
+5;MF/ER;Historija;H;7;HIP18;Obrt, trgovina i novac u srednjem vijeku;Ne;;Da;"saradnja MF-27-1, život MF-28-1, solidarnost ER-27-1
+";Ne;;;0;"ER-31-1
+";;2;;;0;;;0;;
+6;MF/ER;Historija;H;7;HIP18;Život srednjovjekovnog društva;Ne;;Da;solidarnost ER-33-2, ER-35-1, jednakost ER-34-1;Ne;;;0;;;2;;;0;;;1;"ER-32-1, ER-33-1, ER-35-2
+";
+7;MF/ER;Historija;H;7;HIP18;Izborna tema – srednjovjekovni vitezovi;Ne;;Ne;;Ne;;;0;;;2;MF-43-1;;1;ER-38-1;;1;MF-38-1;
+8;MF/ER;Historija;H;7;HIP18;Doseljavanje i pokrštavanje Hrvata;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;"ER-45-1, ER-46-1, ER-48-1 
+";ER-45-2
+9;MF/ER;Historija;H;7;HIP18;Hrvatska u IX stoljeću;Ne;;Ne;;Ne;;;2;;;2;;ER-51-1;2;;ER-49-1;0;;
+10;MF/ER;Historija;H;7;HIP18;Postanak hrvatskog kraljevstva;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-53-1, ER-54-1;
+11;MF/ER;Historija;H;7;HIP18;Uspon hrvatskog kraljevstva u XI stoljeću;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-60-1;
+12;MF/ER;Historija;H;7;HIP18;Dolazak nove vladarske dinastije;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-63-1, ER-63-2;2;;ER-63-1
+13;MF/ER;Historija;H;7;HIP18;Umjetnost i kultura u doba narodne dinastije;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+14;MF/ER;Historija;H;7;HIP18;Porast pučanstva i razvoj gradova;Ne;;Da;život MF-70-1, MF-71-1, ER-70-3, ER-72-3, sloboda MF-72-1, odgovornost MF-72-2, mir ER-70-1;Ne;;;0;;;2;;;0;;;0;ER-72-4;
+15;MF/ER;Historija;H;7;HIP18;Crkva u feudalnom društvu;Ne;;Da;saradnja MF-74-1, MF-75,1, solidarnost MF-74-2, ER-74-1, ER-74-2, ER-75-1;Ne;;;0;;ER-75-4;2;;;2;;;0;ER-74-3;
+16;MF/ER;Historija;H;7;HIP18;Razvoj tehnike znanosti i sveučilišta;Ne;;Da;saradnja ER-75-2, ER-75-3;Ne;;;2;ER-76-2;;2;;;0;;;0;;
+17;MF/ER;Historija;H;7;HIP18;Kultura srednjovjekovnog društva;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+18;MF/ER;Historija;H;7;HIP18;Izborna tema: Srednjovjekovne utvrde;Ne;;Ne;;Ne;;;0;MF-88-1, MF-89-1 ;;2;;;0;;;0;;
+19;MF/ER;Historija;H;7;HIP18;Arapi i širenje Islama;Ne;;Da;saradnja ER-91-2, ER-95-2;Ne;;;2;;;2;;;2;;ER-91-1, ER-92-1, ER-93-1, ER-93-2, ER-93-3, ER-94-1;2;;
+20;MF/ER;Historija;H;7;HIP18;Križarski ratovi;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-96-1, ER-96-2, ER-98-1, ER-99-2;0;;ER-96-1, ER-96-2, ER-98-1, ER-99-2
+21;MF/ER;Historija;H;7;HIP18;Arpadovići na hrvatskom prijestolju;Ne;;Da;saradnja, sloboda MF-104-1;Ne;;;2;;;2;;;2;;ER-101-1;0;;
+22;MF/ER;Historija;H;7;HIP18;Anžuvinci na hrvatskom prijestolju;Ne;;Ne;;Ne;;;2;;;2;;ER-107-2, ER-108-1 ;2;;ER-107-1, ER-109-1;0;;
+23;MF/ER;Historija;H;7;HIP18;Dubrovnik i Istra;Ne;;Da;saradnja MF-110-2, odgovornost MF-110-3, sloboda MF-111-1;Ne;;;2;;ER-112-2;2;;;2;;ER-112-1;1;MF-110-1, ER-110-1;
+24;MF/ER;Historija;H;7;HIP18;Hrvatska kultura od XII di XV stoljeća;Ne;;Ne;;Ne;;;2;;ER-113-1, ER-114-2;2;;ER-113-1, ER-114-2;0;;;0;;
+25;MF/ER;Historija;H;7;HIP18;Srednjovjekovna Bosna i Hum;Ne;;Ne;;Ne;;;0;MF-121-1;;2;;;2;;ER-117-2, ER-118-1, ER-118-3;2;"
+";ER-117-1, ER-118-2, ER-122-2, ER-121-1
+26;MF/ER;Historija;H;7;HIP18;Kultura srednjovjekovne Bosne i Hercegovine;Ne;;Da;sloboda, život MF-123-1;Da;tradicija, pobožnost MF-123-2;insinuacija MF-123-2;2;;ER-124-2, ER-124-4;2;;;0;;ER-123-1, ER-123-2;0;;ER-124-1
+27;MF/ER;Historija;H;7;HIP18;Humanizam u Europi i Hrvatskoj;Ne;;Da;život MF-128-1, ER-128-1, ER-128-2;Ne;;;0;ER-131-3;;2;;;0;;;0;;
+28;MF/ER;Historija;H;7;HIP18;Velika geografska otkrića;Ne;;Da;solidarnost ER-138-2;Ne;;;0;;;2;;;0;;ER-136-1;2;MF-139-1, MF-139-2;
+29;MF/ER;Historija;H;7;HIP18;Društveni i gospodarski razvoj nakon otkrića;Ne;;Da;život MF-140-1;Ne;;;0;ER-141-2;;2;;;2;ER-141-3;;0;;
+30;MF/ER;Historija;H;7;HIP18;Osmanlijsko carstvo i njegovo širenje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+31;MF/ER;Historija;H;7;HIP18;Hrvatsko-turski sukobi do bitke na Mohačkom polju;Ne;;Da;sloboda, saradnja MF-146-1, solidarnost ER-146-1;Ne;;;2;;;2;;;2;;;0;;
+32;MF/ER;Historija;H;7;HIP18;Izbor Hasburgovaca i tursko osvajanje Hrvatske;Ne;;Da;sloboda MF-151-1, ER-153-1;Ne;;;2;;;2;;;2;;;0;;
+33;MF/ER;Historija;H;7;HIP18;Hrvatski krajevi pod Turcima Osmanlijama;Ne;;Da;tolerancija MF-156-1, sloboda MF-156-2, MF-156-3, solidarnost ER-154-1;Ne;;;0;MF-155-2;;2;;;2;;ER-154-2, ER-154-3, ER-156-1, ER-156-2;0;;ER-155-1, ER-155-2
+34;MF/ER;Historija;H;7;HIP18;Oslobađanje hrvatskih zemalja od Turaka;Ne;;Da;saradnja MF-158-1, MF-160-1, solidarnost ER-158-1;Ne;;;2;;ER-158-3;2;;;2;"
+";ER-158-2 ;0;;
+35;MF/ER;Historija;H;7;HIP18;Reformacija i širenje protestantizma;Ne;;Da;saradnja, odgovornost MF-164-1, MF-165-1, ER-167-1, jednakost ER-165-1, mir ER-166-1, ER-167-1, život ER-166-2;Ne;;;2;;;2;;;0;ER-164-1, ER-165-2, ER-166-2;;0;;
+36;MF/ER;Historija;H;7;HIP18;Katolička obnova – protureformacija;Ne;;Ne;;Ne;;;2;;ER-168-2, ER-169-1;2;;;2;;ER-168-1;0;;
+37;MF/ER;Historija;H;7;HIP18;Apsolutne i parlamentarne monarhije;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+38;MF/ER;Historija;H;7;HIP18;Umjetnost baroka;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+39;MF/ER;Historija;H;7;HIP18;Društveni sukobi u Hrvatskoj;Da;pobunakaooblikborbezaprava MF-180-2;Da;jednakost MF-180-1, solidarnost ER-180-1, ER-180-2;Ne;;;0;ER-180-4;;2;;;0;;;0;;
+40;MF/ER;Historija;H;7;HIP18;Dalmacija i Istra pod Mletačkom vlašću;Da;pobunakaooblikborbezaprava MF-182-1;Da;saradnja, odgovornost MF-182-2, mir MF-182-3, MF-184-1;Ne;;;2;;;2;;;2;;;0;;
+41;MF/ER;Historija;H;7;HIP18;Uspon i slabljenje Dubrovačke republike;Ne;;Da;saradnja MF-184-1;Ne;;;2;;;2;;;2;;ER-186-1;0;;
+42;MF/ER;Historija;H;7;HIP18;Zrinsko Frankopanski otpor Bečkom dvoru;Da;pobunakaooblikborbezaprava MF-187-1;Da;sloboda;Ne;;;2;;;2;;;2;;ER-189-3;0;;
+1;MF/SB;Historija;H;7;HIP20;Europa i Sredozemlje nakon seobe naroda;Ne;;Ne;;Ne;;;1;MF-14-1, MF-20-1, MF-29-1, SB-17, SB-20, SB-29 ;;2;SB-10-1;;0;;SB-26;0;"MF-22-1, SB-14-1
+";"SB-10-3, SB-14-2, SB-22-1, SB-22-2
+"
+2;MF/SB;Historija;H;7;HIP20;Feudalno društvo;Ne;;Da;"saradnja MF-32-2, jednakost MF-32-1, MF-32-3, MF-38-1, sloboda MF-39-1
+";Ne;;;1;"MF-30-1, MF-31-1, MF-31-2, MF-41-1, SB-37-3, SB-41 
+";;2;;;0;;;0;SB-40-2;
+3;MF/SB;Historija;H;7;HIP20;Hrvatska, Bosna i Hum u ranom srednjem vijeku;Ne;;Da;saradnja MF-46-1;Da;porijeklo MF-44-1, MF-46-1, MF-46-2, MF-43-1, tradicija, jezik MF-59-1, MF-60-1;ignorancija, relativizacija;2;MF-54-1, SB-52, SB-59;;2;;;0;;;0;MF-60;"SB-43-2, SB-44, SB-45-1, SB-46
+"
+4;MF/SB;Historija;H;7;HIP20;Europa i islamski svijet: dodiri i suprotnosti;Ne;;Da;"saradnja MF-65-1, solidarnost  MF-66-2, MF-67-1, SB-66, mir MF-74-2, MF-76-2
+";Ne;;;1;MF-66-2, MF-77-1, MF-77-2, SB-73, SB-77;;2;;;0;;;0;MF-66-1, SB-74, SB-75;SB-65-2
+5;MF/SB;Historija;H;7;HIP20;Uzlet srednjovjekovne Europe (11-14. stoljeće);Ne;;Da;"mir, saradnja MF-80-1, MF-80-2, MF-81-1, MF-95-1, MF-95-2, solidarnost SB-95
+";Ne;;;1;MF-79-1, MF-89-1, MF-92-1, MF-93-1, MF-94-2, MF-105, SB-78, SB-82-2, SB-87, SB-94, SB-98, SB-103, SB-105-1;;1;SB-78, SB-82-2;;0;;;1;"SB-81, SB-86, SB-104 
+
+
+";
+6;MF/SB;Historija;H;7;HIP20;Hrvatska, Bosna i Hum u doba Arpadovića i Anžuvinaca;Ne;;Da;"mir MF-108-1, saradnja MF-116-1, MF-117-1
+";Ne;;;0;SB-109, SB-129;;2;SB-129;;0;;;0;"
+";SB-116-1, SB-124-1, SB-124-2 
+7;MF/SB;Historija;H;7;HIP20;Humanizam i renesansa;Ne;;Da;"život MF-132-1, MF-133-1, MF-134-1, MF-135-1, MF-138-1, MF-140-1 
+
+";Ne;;;1;MF-146, MF-147, SB-131, SB-145-1, SB-145-2;;2;;;0;;;0;SB-132;
+8;MF/SB;Historija;H;7;HIP20;Velika Geografska Otkrića;Ne;;Ne;;Ne;;;1;MF-151-1, MF-161-2, SB-161-2;;2;;;0;;;1;MF-161-1, MF-158-1, MF-159-1, MF-159-2, MF-161;
+9;MF/SB;Historija;H;7;HIP20;Osmansko carstvo prema hrvatskom etničkom prostoru i Europi;Ne;;Da;"sloboda MF-167-1, MF-175-2 
+";Ne;;;1;MF-179-1, MF-179-2, SB-179;;2;SB-179;;0;;;0;;
+10;MF/SB;Historija;H;7;HIP20;Reformacija i katolička obnova;Ne;;Da;odgovornost MF-182-1, jednakost MF-184-1, MF-184-2, solidarnost MF-184-3;Ne;;;1;"MF-190-1, MF-191-1, MF-191-2, MF-190-1, SB-190, SB-191 
+";;0;;;0;;;0;;
+11;MF/SB;Historija;H;7;HIP20;Europa u doba baroka;Ne;;Da;"život MF-194-1, jednakost MF-195-1, MF-198-1, odgovornost, saradnja MF-203-1, MF-204-1
+";Ne;;;1;MF-193-1, MF-193-2, MF-209-1, MF-209-2, SB-195, SB-199, SB-209-1, SB-209-2 ;;1;SB-209;;0;;;1;"MF-200-1, MF-200-2, SB-194, SB-200, SB-206
+";
+12;MF/SB;Historija;H;7;HIP20;Hrvatski i bosansko-hercegovački prostori u novome vijeku (16-18. stoljeće);Ne;;Da;sloboda, saradnja, život MF-213-1, MF-214-1, MF-219, MF-220;Ne;;;0;"MF-214-1, MF-215-1, MF-229-1
+";;2;;;0;;;0;;
+1;MF/ER;Historija;H;7;HIP22;Europa sredinom 18. stoljeća;Ne;;Da;"jednakost MF-8-1, MF-8-2, ER-8-1, sloboda ER-8-1
+";Ne;;;0;MF-9-1;;2;;;0;;;0;;
+2;MF/ER;Historija;H;7;HIP22;"Posljedice ""novih ideja"" u hrvatskim zemljama";Ne;;Da;"odgovornost MF-10-1, mir, jednakost MF-12-1,  ER-13-1, solidarnost ER-11-2, sloboda ER-12-1, ER-13-1
+";Ne;;;0;MF-13-1, ER-13-2;;2;;;0;;ER-11-1 ;0;;
+3;MF/ER;Historija;H;7;HIP22;Nastanak Sjedinjenih Američkih Država;Ne;;Da;"jednakost MF-15-1, ER-15-1, ER-16-3, ER-17-1, solidarnost ER-14-2, ER-16-3, sloboda ER-14-3, ER-15-1, ER-16-2
+";Ne;;;0;;;2;;;0;"ER-16-3
+";ER-14-1 ;1;ER-16-3;
+4;MF/ER;Historija;H;7;HIP22;Prva industrijska revolucija;Ne;;Da;solidarnost ER-22-2, ER-22-3, ER-22-4;Ne;;;0;ER-22-5;;2;;;0;ER-22-2, ER-22-3, ER-22-4;;1;ER-22-2, ER-22-3, ER-22-4;
+5;MF/ER;Historija;H;7;HIP22;Život u hrvatskim zemljama prije parnog stroja;Ne;;Da;saradnja MF-26-1 ;Ne;;;2;;;0;;;0;;;1;;
+6;MF/ER;Historija;H;7;HIP22;Francuska građanska revolucija;Ne;;Da;"jednakost, sloboda MF-32-1, ER-30-1, ER-32-1, ER-32-2, ER-33-1, ER-33-3, ER-33-4, ER-32-1, ER-32-2, ER-33-1, ER-33-3, ER-33-4, solidarnost ER-33-2
+";Ne;;;0;;;2;;;0;ER-33-2;;0;;
+7;MF/ER;Historija;H;7;HIP22;Francuska u doba Napoleona ;Ne;;Da;"jednakost MF-37-1, MF-39-1, ER-37-1, ER-39-1, sloboda ER-37-1, solidarnost ER-37-1
+";Ne;;;2;"
+";;2;;;0;"ER-37-1
+
+";ER-38-1 ;0;;
+8;MF/ER;Historija;H;7;HIP22;Hrvatske zemlje u Napoleonovo doba;Ne;;Da;"jednakost MF-41-1, ER-41-1, solidarnost ER-41-2, ER-42-1
+";Ne;;;0;MF-43-1, ER-43-1;;2;;;0;;;0;;
+9;MF/ER;Historija;H;7;HIP22;Nacionalne težnje europskih naroda;Ne;;Ne;;Ne;;;2;;;2;;;0;;ER-47-1;0;;
+10;MF/ER;Historija;H;7;HIP22;Bosna i Hercegovina u prvoj polovini 19. stoljeća;Ne;;Da;mir, sloboda MF-48-1, MF-48-2;Da;"pobožnost MF-48-1, MF-48-2, porijeklo, tradicija MF-49-1, MF-49-2
+";"relativizacija  MF-48-1, imputacija MF-48-2, MF-48-3, redukcija MF-49-2
+";2;;;2;;;2;;ER-48-1;2;;
+11;MF/ER;Historija;H;7;HIP22;Hrvatski narodni preporod;Ne;;Da;"sloboda, jedinstvo MF-50-1
+";Da;"jezik MF-51-1, MF-51-2, porijeklo MF-52-1
+";imputacija MF-51-1, MF-51-2;2;;;2;;;0;;;0;;
+12;MF/ER;Historija;H;7;HIP22;Kulturna djelatnost preporoditelja;Ne;;Da;sloboda MF-55-1, MF-55-2, ER-55-1;Da;jezik MF-55-1, MF-55-2, teritorij;ignorancija MF-55-1, MF-55-2, redukcija;2;;;2;;;0;;;0;;
+13;MF/ER;Historija;H;7;HIP22;Preporodni valovi „zapljuskuju“ sve Hrvate;Ne;;Da;saradnja, sloboda MF-56;Da;porijeklo, tradicija, jezik MF-56, MF-57-1, pobožnost MF-58-1;ignorancija MF-56, MF-57 ;2;;;2;;;2;;;0;MF-59-1;
+14;MF/ER;Historija;H;7;HIP22;Revolucionarna zbivanja u Europi 1848. godine;Ne;;Da;sloboda MF-64-1, MF-65-1, jednakost ER-63-1, ER-64-1;Ne;;;0;MF-65-2;;2;;;0;ER-64-1;;0;;
+15;MF/ER;Historija;H;7;HIP22;Revolucionarna zbivanja u Hrvatskoj;Ne;;Da;jednakost MF-66-1, odgovornost MF-69-2, sloboda ER-66-1, ER-66-2, ER-67-1, ER-69-1, ER-69-2;Ne;;;2;;;2; ;;2;;ER-66-3;0;;
+16;MF/ER;Historija;H;7;HIP22;Hrvatsko-ugarski rat;Ne;;Ne;;Ne;;;2;;;2;;;2;;;2;;
+17;MF/ER;Historija;H;7;HIP22;Europa u prvoj polovici 19. stoljeća ;Ne;;Da;"jednakost MF-79-1, MF-79-2, solidarnost ER-76-1, ER-78-1, ER-79-2
+";Ne;;;2;;;2;;;0;;;0;;
+18;MF/ER;Historija;H;7;HIP22;Romantičarski duh Europe;Ne;;Da;sloboda ER-81-1, ER-81-2, ER-82-1;Ne;;;0;MF-85-1, ER-85-1;;2;;;0;;;0;;
+19;MF/ER;Historija;H;7;HIP22;Doba izuma i otkrića;Ne;;Da;"život ER-91-1, ER-91-2, solidarnost ER-92-2
+";Ne;;;0;ER-92-1;;2;;;0;;ER-89-1, ER-92-3;0;;
+20;MF/ER;Historija;H;7;HIP22;Nastanak modernih država u Europi;Ne;;Da;"saradnja MF-93-1, solidarnost ER-93-1, odgovornost ER-93-1
+";Ne;;;1;MF-96-1, ER-96-2;;0;MF-96-1 ;;0;;;0;;
+21;MF/ER;Historija;H;7;HIP22;Građanski rat u SAD-u i ukidanje ropstva;Ne;;Da;"sloboda MF-97-1, ER-97-1, ER-97-2, ER-98-1, ER-99-1, jednakost ER-97-2
+";Ne;;;2;;;2;;;0;;;0;;
+22;MF/ER;Historija;H;7;HIP22;Bosna i Hercegovina pod austro-ugarskom vlašću;Ne;;Da;saradnja, jednakost ER-102-1;Da;porijeklo MF-102-1;imputacija MF-102-1;0;;;2; ;;2;;ER-101, ER-102-3;0;;
+23;MF/ER;Historija;H;7;HIP22;Politički pokret Hrvata u Bosni i Hercegovini;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-105-1, ER-106-1;0;;
+24;MF/ER;Historija;H;7;HIP22;Novi apsolutizam Franje Josipa I;Ne;;Da;"jednakost MF-112-1, ER-112-1, sloboda MF-116-1, MF-118-1, ER-110-1, ER-112-1, MF-110-1, MF-110-2
+
+";Ne;;;2;;;2;;;2;;;0;;
+25;MF/ER;Historija;H;7;HIP22;Modernizacija Hrvatske u vrijeme „bana pučanina“;Ne;;Da;sloboda MF-119-1, ER- 119-1, saradnja MF-119-2;Ne;;;0;MF-121-1, MF-121-2, MF-121-3;;2;;;2;;;0;;
+26;MF/ER;Historija;H;7;HIP22;Hrvatski narodni preporod u Dalmaciji i Istri;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+27;MF/ER;Historija;H;7;HIP22;Narodni preporod Hrvata izvan Hrvatske;Ne;;Da;sloboda MF-125-1, MF-125-2, jednakost ER-125-1;Da;tradicija, porijeklo MF-125-1, MF-125-2;imputacija MF-125-1;2;;;2;;;2;;;0;;
+28;MF/ER;Historija;H;7;HIP22;Ponovni pokušaj Mađarizacije;Ne;;Da;sloboda ER-128-1;Ne;;;2;MF-128-1;;2;;;0;;;0;;
+29;MF/ER;Historija;H;7;HIP22;Protumađarski pokret i nastanak HPSS-a;Ne;;Da;"sloboda ER-131-1, jednakost ER-131-2
+";Ne;;;2;;;2;;;2;;;0;;
+30;MF/ER;Historija;H;7;HIP22;Gospodarske prilike u hrvatskim zemljama;Ne;;Da;jednakost MF-135-1, solidarnost ER-133-1, ER-135-1, sloboda ER-135-2;Ne;;;0;;;2;;;0;;;0;;
+31;MF/ER;Historija;H;7;HIP22;Politika „novog kursa“;Ne;;Da;saradnja MF-137-1;Ne;;;2;;;2;;;0;;;0;;
+32;MF/ER;Historija;H;7;HIP22;Svijet pred kraj 19. stoljeća;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+33;MF/ER;Historija;H;7;HIP22;Društvene promjene;Ne;;Da;"sloboda, jednakost MF-144-1, MF-145-1, MF-147-1, ER-144-2, ER-144-1, solidarnost ER-144-1, ER-146-1, ER-146-2, ER-147-1, saradnja MF-146-1
+";Ne;;;0;;;2;;;0;;;0;;
+34;MF/ER;Historija;H;7;HIP22;Balkanski ratovi ;Ne;;Da;solidarnost ER-152-2;Ne;;;2;MF-153-1;;2;;;0;;;0;;MF-153-1
+35;MF/ER;Historija;H;7;HIP22;Početak Prvoga svjetskoga rata;Da;rat ER-154-1;Da;mir MF-157;Ne;;;0;;;2;;;2;;ER-154-2;0;;
+36;MF/ER;Historija;H;7;HIP22;Posljednje godine Prvoga svjetskoga rata;Ne;;Da;"mir MF-158, MF-159, MF-163, solidarnost ER-160-1, ER-163-1, život ER-163-1
+";Ne;;;0;;;2;;;0;ER-158-1;;0;;
+37;MF/ER;Historija;H;7;HIP22;Rusko carstvo na početku 20. stoljeća;Ne;;Da;"solidarnost ER-164-1, ER-166-1, jednakost ER-165-1
+";Ne;;;2;;;2;;;0;;;0;;
+38;MF/ER;Historija;H;7;HIP22;Hrvatske zemlje uoči Prvoga svjetskoga rata;Ne;;Da;"solidarnost ER-167-1, ER-171-1, saradnja ER-170-1
+";Ne;;;0;;;2;;;0;ER-171-1;;0;;
+1;MF/SB;Historija;S;7;HIP11;Osnovne odlike srednjeg vijeka;Ne;;Da;jednakost MF-6-1;Ne;;;0;SB-7;;2;;;0;;;2;;SB-6 
+2;MF/SB;Historija;S;7;HIP11;Države u Zapadnoj Evropu u ranom srednjem vijeku;Ne;;Da;mir MF-11-1, MF-11-2 ;Ne;;;1;MF-11-3, MF-16-1, MF-17-1, MF-17-2, SB-16-2;;2;;;0;;;2;"
+";SB-12, SB-13-1, SB-13-2 
+3;MF/SB;Historija;S;7;HIP11;Vizantija od V do XII vijeka;Ne;;Da;"sloboda MF-22-1, saradnja, solidarnost MF-27-1
+";Ne;;;2;;;2;;;0;MF-19-1;;0;;
+4;MF/SB;Historija;S;7;HIP11;Islamski svijet u srednjem vijeku;Ne;"
+";Da;"jednakost MF-29-1, MF-30-1, saradnja MF-32-1, MF-33-1, solidarnost, sloboda MF-35-1
+";Ne;;;2;;;2;;;0;;;2;;MF-33-2, SB-31, SB-33-2, SB-33-3
+5;MF/SB;Historija;S;7;HIP11;Južni Sloveni u ranom srednjem vijeku;Ne;;Ne;;Ne;;;2;;;2;;;0;;;2;;SB-39-1
+6;MF/SB;Historija;S;7;HIP11;Naseljavanje Slovena na Balkansko poluostrvo i istočne Alpe.;Ne;;Ne;;Ne;;;2;"
+";;2;"MF-45-1
+";;0;;;0;"MF-47-2
+";"SB-46, SB-47-1, SB-47-2
+"
+7;MF/SB;Historija;S;7;HIP11;Srpske zemlje od VII do XII vijeka;Ne;;Da;sloboda MF-52-1, MF-53-1;Ne;;;2;;;2;;;0;;;2;;
+8;MF/SB;Historija;S;7;HIP11;Makedonski Sloveni, Hrvatska i Slovenija;Ne;;Da;"sloboda MF-57-1, MF-58-1, MF-59-1, MF-61-1, saradnja MF-60-1
+";Ne;;;2;;;2;;;0;;;0;;
+9;MF/SB;Historija;S;7;HIP11;Pokrštavanje Južnih Slovena i njihova rana kultura;Ne;;Ne;;Ne;;;2;"
+";;2;;;0;"MF-68-1, MF-69-1
+";;0;;
+10;MF/SB;Historija;S;7;HIP11;EVROPA U POZNOM SREDNJEM VIJEKU - Nastanak i razvoj srednjovjekovnih gradova;Ne;;Da;saradnja MF-78-1, MF-80-1, MF-81-1, jednakost MF-82-1, sloboda, odgovornost MF-82-2, MF-83-1, MF-84-1;Ne;;;0;"78. 2.  81. 2.
+
+
+";;2;;;0;;;0;;SB-77
+11;MF/SB;Historija;S;7;HIP11;Krstaški ratovi;Ne;;Da;mir MF-90-1;Ne;;;0;MF-91-3, MF-91-4, SB-91;;0;;;0;MF-91-1, MF-91-2;;1;MF-86-2, MF-87-1, MF-87-2, MF-90-1, MF-90-2, SB-90;
+12;MF/SB;Historija;S;7;HIP11;Društveni sukobi u feudalnom društvu;Da;pobunakaooblikborbezaprava MF-95-2;Da;"jednakost, saradnja MF-93-1, MF-93-2, MF-97-1, MF-97-2, SB-97, MF-99-2, solidarnost MF-95-1, život MF-100-1
+
+";Ne;;;0;MF-99-1, MF-99-2, MF-100-1;;0;;;1;SB-99-1, SB-99-2 ;;0;;
+13;MF/SB;Historija;S;7;HIP11;Srpske zemlje i susjedi u poznom srednjem vijeku;Ne;;Da;sloboda MF-103-2, MF-104-1;Ne;;;2;;;2;;;0;;;0;;
+14;MF/SB;Historija;S;7;HIP11;Učvršćivanje međunarodnog položaja srpske kraljevine i crkve;Ne;;Da;sloboda MF-109-1 ;Da;tradicija, pobožnost, simboli MF-113-2, MF-113-3;mistifikacija MF-113-3 ;2;"
+";MF-115-1, MF-116-1;2;;;0;;;0;MF-113-2, SB-115 ;
+15;MF/SB;Historija;S;7;HIP11;Srbija u doba Stefana Dušana;Ne;;Da;"odgovornost MF-120-1, MF-122-1, MF-123-1, jednakost MF-121-1, saradnja MF-125-1 
+";Ne;;;0;"MF-122-2, MF-126-1, MF-127-1, MF-127-2 
+";;2;;;0;;;1;SB-121, SB-123 ;
+16;MF/SB;Historija;S;7;HIP11;Kraj srpskog carstva;Ne;;Ne;;Ne;;;2;"
+";;2;;;0;;;0;;
+17;MF/SB;Historija;S;7;HIP11;POSTANAK I RAZVOJ BOSANSKE DRŽAVE - Bosna do XII vijeka;Ne;;Da;"saradnja MF-138-1, MF-139-2 
+";Ne;;;2;;;2;;;0;;;0;;
+18;MF/SB;Historija;S;7;HIP11;Bosna u doba Kotromanića;Ne;;Ne;;Ne;;;2;"
+";;2;;;0;;;0;;
+19;MF/SB;Historija;S;7;HIP11;Odnosi sa Vizantijom, Ugarskom, Hrvatskom i Srbijom;Ne;;Da;"sloboda MF-147-2, saradnja MF-148-2 
+";Ne;;;2;;;2;;;0;;;0;;
+20;MF/SB;Historija;S;7;HIP11;Okolne južnoslavenske zemlje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+21;MF/SB;Historija;S;7;HIP11;Dubrovnik u srednjem vijeku ;Ne;;Da;"sloboda MF-157-1, odgovornost, saradnja MF-158-1, MF-159-1
+";Ne;;;2;MF-161-2;;2;;;0;;;0;;
+22;MF/SB;Historija;S;7;HIP11;SREDNJOVJEKOVNA KULTURA - Život u feudalnom društvu;Ne;;Ne;;Ne;;;0;;;2;;;0;;;1;"SB-166, SB-167-1, SB-167-2, SB-167-3, SB-168-1, SB-168-2 
+";
+23;MF/SB;Historija;S;7;HIP11;Opšte odlike srednjovjekovne kulture u Evropi;Ne;;Da;saradnja MF-173-1, MF-173-2, MF-173-3, MF-174-1 ;Ne;;;2;;;2;;;0;;;0;;
+24;MF/SB;Historija;S;7;HIP11;Srednjovjekovna kultura kod Srba;Ne;;Da;saradnja MF-180-2;Da;teritorij MF-180-1;imputacija MF-180-2, MF-183-1;0;MF-185-1;;2;;;0;;;0;;
+25;MF/SB;Historija;S;7;HIP11;BALKANSKE ZEMLJE U DOBA OSMANLIJSKIH OSVAJANJA - Osmanlijsko carstvo u XIV i XV vijeku;Ne;;Da;saradnja MF-189-1;Ne;;;2;;MF-192-2;2;;;0;;;0;;
+26;MF/SB;Historija;S;7;HIP11;Moravska Srbija;Ne;;Ne;;Ne;;;0;"MF-194-1
+
+"; MF-199-2;2;;;0;MF-197-2, MF-197-3 ;;0;;
+27;MF/SB;Historija;S;7;HIP11;Srpska despotovina;Ne;;Da;mir MF-202-1;Ne;;;2;;MF-208;2;;;0;;;0;;
+28;MF/SB;Historija;S;7;HIP11;Slabljenje i pad Bosne pod Tursku vlast;Ne;;Da;saradnja MF-211-1;Ne;;;2;"
+";;2;;;0;;;0;;
+29;MF/SB;Historija;S;7;HIP11;Zeta za vrijeme Balšića i Crnojevića;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+30;MF/SB;Historija;S;7;HIP11;Seoba Srba u XV i XVI vijeku;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+1;ER/SB;Historija;B;8;HIP6;EVROPA U NOVOM VIJEKU OD KRAJA XV DO KRAJA XVII STOLJEĆA;Ne;;Da;jednakost ER-14-3, sloboda ER-14-4;Ne;;;2;;;2;;ER-15-1;2;;ER-14-1, ER-14-2, ER-14-9, ER-14-10;2;;ER-14-1, ER-14-2, ER-14-7, SB-14-1, SB-14-2
+2;ER/SB;Historija;B;8;HIP6;"MEĐAŠI NOVOG VIJEKA; VELIKA GEOGRAFSKA OTKRIĆA (TEHNIČKI IZUMI I VELIKA GEOGRAFSKA OTKRIĆA)";Ne;;Ne;;Ne;;;2;;;2;;;0;"
+";;2;"
+";ER-16-1, ER-16-2
+3;ER/SB;Historija;B;8;HIP6;HUMANIZAM I RENESANSA;Ne;;Ne;;Ne; ;;2;;;2;ER-20-2;;0;;;2;;SB-21
+4;ER/SB;Historija;B;8;HIP6;VJERSKA SLIKA EVROPE (EVROPSKE REFORMACIJE);Ne;;Da;"sloboda ER-23-1, jednakost, solidarnost ER-24-1
+";Ne;;;2;"ER-24-2
+
+
+";;2;;;0;;SB-25-1, SB-25-2;0;;
+5;ER/SB;Historija;B;8;HIP6;SELJAČKI RAT U NJEMAČKOJ I KATOLIČKA REAKCIJA;Ne;;Ne;;Ne;;;2;;;2;;;0;;ER-26-2;0;;
+6;ER/SB;Historija;B;8;HIP6;OBLICI VLADAVINE U EVROPI, APSOLUTISTIČKE MONARHIJE U EVROPI;Ne;;Da;"mir ER-28-2, solidarnost ER-28-1, ER-29-3
+";Ne;;;2;;;2;;;0;;;0;;
+7;ER/SB;Historija;B;8;HIP6;PARLAMENTARIZAM I USTAVNA MONARHIJA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+8;ER/SB;Historija;B;8;HIP6;APSOLUTIZAM U NJEMAčKIM ZEMLJAMA;Ne;;Da;mir ER-33-2;Ne;;;2;;;2;;;2;;;0;;ER-33-1 
+9;ER/SB;Historija;B;8;HIP6;PRIVREDA ZAPADNE EVROPE, OSMANSKOG CARSTVA I RUSIJE;Ne;;Da;solidarnost ER-35-2, ER-36-2;Ne;;;2;ER-35-2;;2;;;0;;;0;ER-35-1, SB-35-1;
+10;ER/SB;Historija;B;8;HIP6;INDUSTRIJSKA REVOLUCIJA;Ne;;Da;"solidarnost ER-39-1, ER-40-2, sloboda ER-39-2  
+";Ne;;;2;;;2;;ER-40-1 ;2;;;0;SB-40;
+11;ER/SB;Historija;B;8;HIP6;JUŽNOSLOVENSKE ZEMLJE U SKLOPU HABSBURŠKE MONARHIJE;Ne;;Da;"mir ER-43-1, saradnja ER-43-3
+";Ne;;;2;;;2;;;0;;;0;;ER-42-1
+12;ER/SB;Historija;B;8;HIP6;SRBIJA I CRNA GORA POD VLAŠĆU OSMANLIJA OD XVI DO XVIII STOLJEĆA;Ne;;Da;"solidarnost ER-46-5, sloboda ER-47-4
+";Da;pobožnost, porijeklo;ignorancija ER-47-4;2;;;2;;;2;;;2;;
+13;ER/SB;Historija;B;8;HIP6;NACIONALNO BUĐENJE U SUSJEDNIM ZEMLJAMA;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-50-1, ER-52-1;0;;
+14;ER/SB;Historija;B;8;HIP6;RAT ZA NEZAVISNOST I NASTANAK SJEDINJENIH AMERIČKIH DRŽAVA;Ne;;Da;"sloboda ER-58-1, jednakost ER-57-1, ER-59-1, ER-59-2, ER-59-3, solidarnost ER-59-1
+";Ne;;;2;;;2;;;0;;;1;SB-59-1, SB-59-2;
+15;ER/SB;Historija;B;8;HIP6;FRANCUSKA REVOLUCIJA;Ne;;Da;"sloboda ER-62-1, ER-63-1, ER-63-2, jednakost ER-60-1, ER-60-2, ER-60-3, ER-61-1, ER-61-2, ER-61-4, ER-62-1, ER-62-2, ER-63-1, ER-63-2, solidarnost ER-60-4, ER-62-2, odgovornost ER-60-5, ER-61-3
+";Ne;;;0;ER-62-3, ER-63-2;;2;;;0;;;1;SB-61, SB-62;
+16;ER/SB;Historija;B;8;HIP6;PAD MONARHIJE I DALJI TOK REVOLUCIJE;Ne;;Da;jednakost ER-64-1, ER-65-3, sloboda ER-65-3, mir ER-64-2;Da;teritorij;redukcija;2;;;2;;;0;;;0;SB-65;
+17;ER/SB;Historija;B;8;HIP6;NAPOLEONOVI RATOVI;Ne;;Da;"sloboda ER-66-3, ER-68-1, jednakost ER-66-4, mir ER-67-3, ER-68-2, ER-68-4, ER-69-2, solidarnost ER-67-3, život ER-68-2, odgovornost ER-68-3, ER-69-3, ER-66-5
+";Da;teritorij ER-68-2;redukcija ER-68-2;2;;;2;;;2;;;0;SB-69-1, SB-69-2;ER-66-2
+18;ER/SB;Historija;B;8;HIP6;EVROPA IZMEĐU 1815. I 1848. GODINE;Ne;;Da;"mir ER-70-1, jednakost, solidarnost ER-70-3, ER-71-1
+
+";Ne;;;2;;;2;;;0;;;2;;ER-71-4, ER-71-6, SB-71
+19;ER/SB;Historija;B;8;HIP6;EVROPSKE ZEMLJE U 1848. GODINI;Ne;;Da;"sloboda ER-72-1, ER-71-4, ER-73-1, ER-75-1, jednakost ER-72-3, ER-72-4, ER-74-1
+";Ne;;;2;"
+";ER-73-3;2;;;0;;;0;;
+20;ER/SB;Historija;B;8;HIP6;DRUGO CARSTVO U FRANCUSKOJ;Ne;;Da;"jednakost ER-76-1, ER-76-3, ER-78-2, sloboda ER-76-4, ER-77-1, ER-77-3, mir ER-77-4, život ER-78-3, ER-76-5
+";Ne;;;2;;;2;;;0;;;0;SB-78, SB-79;
+21;ER/SB;Historija;B;8;HIP6;ITALIJA, NJEMAČKA I HABSBURŠKO CARSTVO U DRUGOJ POLOVINI XIX STOLJEĆA;Ne;"
+";Da;"jednakost ER-82-3, saradnja ER-81-1, ER-82-4
+";Ne;;;2;;;2;;;2;;;0;;
+22;ER/SB;Historija;B;8;HIP6;STVARANJE AUSTRO-UGARSKE MONARHIJE;Ne;;Da;jednakost ER-84-1, ER-85-1, ER-85-2;Ne;;;2;;;2;;;0;;;0;;
+23;ER/SB;Historija;B;8;HIP6;RAZVOJ SJEDINJENIH AMERIČKIH DRŽAVA I REZULTATI GRAĐANSKOG  RATA;Da;rat ER-86-4, ER-87-5, SB-86;Ne;;Ne;;;2;;;2;;;0;;;0;;
+24;ER/SB;Historija;B;8;HIP6;POLOŽAJ ŽENE U NOVOM VIJEKU;Ne ;;Da;solidarnost ER-90-1, ER-90-2, jednakost ER-90-3, ER-90-4, ER-91-3, SB-90, SB-91-1, saradnja ER-91-1;Ne;;;2;;;2;;;0;;;1;ER-91-3, ER-91-4, ER-92-2, ER-93-3;
+25;ER/SB;Historija;B;8;HIP6;BOSANSKI EJALET/VILAJET U XIX STOLJEĆU;Ne;;Da;solidarnost ER-95-1;Da;porijeklo, teritorij ER-95-1 ;redukcija;2;;;2;;;2;;;0;;
+26;ER/SB;Historija;B;8;HIP6;POKRET HUSEIN KAPETANA GRADAŠČEVIĆA;Ne;;Da;"solidarnost ER-96-1, sloboda ER-96-2
+";Da;teritorij, jezik ER-96-4, ER-96-5, ER-97-2, ER-98-2;mistifikacija ER-97-3, redukcija ER-96-3;2;;;2;;;0;;;0;;
+27;ER/SB;Historija;B;8;HIP6;POSLJEDNJI PERIOD OSMANSKE VLADAVINE;Ne;;Da;"život ER-99-2, jednakost ER-100-2, ER-100-3, ER-100-5, solidarnost ER-100-5
+";Ne;;;2;;ER-99-4;2;;;0;;;0;;
+28;ER/SB;Historija;B;8;HIP6;OMER-PAŠA LATAS U BOSNI;Ne;;Da;"solidarnost ER-101-1, ER-101-2, sloboda ER-101-3
+";Ne;;;2;;;2;;;2;;;0;;
+29;ER/SB;Historija;B;8;HIP6;PRIVREDA, DRUŠTVO I KULTURA;Ne;;Da;"solidarnost ER-103-1, ER-103-3, jednakost ER-103-6, ER-104-1, ER-104-2
+";Ne;;;2;;;2;;;0;;;0;;
+30;ER/SB;Historija;B;8;HIP6;KULTURNO-PROSVJETNE PRILIKE I NAUKA;Ne;;Da;"saradnja ER-107-1
+
+";Ne;;;2;;;2;;;0;"
+
+";;0;;
+31;ER/SB;Historija;B;8;HIP6;VELIKA ISTOČNA KRIZA, BERLINSKI KONGRES I OKUPACIJA BOSNE I HERCEGOVINE;Ne;;Da;"sloboda ER-109-1, ER-110-2, jednakost ER-110-1, saradnja SB-110-1
+";Ne;;;2;"ER-110-5, ER-111-3
+";ER-111-4;2;"SB-110-2
+";;0;ER-108-1, ER-111-2, SB-111-2;;0;"ER-108-1
+";ER-110-3
+32;ER/SB;Historija;B;8;HIP6;BOSNA I HERCEGOVINA U VRIJEME AUSTROUGARSKE UPRAVE;Ne;;Da;"solidarnost ER-113-1, jednakost ER-112-1, ER-113-3, sloboda ER-112-1, život ER-113-3
+";Ne;;;2;ER-114-3;;2;;;2;;ER-113-2, ER-113-4;0;;SB-114-1, SB-114-2
+33;ER/SB;Historija;B;8;HIP6;BORBA ZA CRKVENO ŠKOLSKU I VAKUFSKO-MEARIFSKU AUTONOMIJU;Ne;"
+";Da;"sloboda ER-118-2, ER-115-1, ER-115-2, ER-116-1, jednakost ER-118-1, ER-118-3
+";Ne;;;2;;;2;;;2;;;0;ER-117-1, ER-117-3;
+34;ER/SB;Historija;B;8;HIP6;PRIVREDA, KULTURA I PROSVJETA;Ne;;Da;saradnja SB-120;Ne;;;2;;ER-121-1;2;;;0;;;0;;ER-119-1
+1;MF/ER;Historija;B;7;HIP4;Periodizacija srednjeg vijeka;Ne;;Ne;;Ne;;;2;;;2;;;2; ;ER-8-1;0;;
+2;MF/ER;Historija;B;7;HIP4;Feudalizam – privredni i društveni poredak;Ne;;Da;sloboda ER-12-1, ER-12-2, ER-14-1, jednakost ER-11-1;Ne;;;1;ER-15-1, ER-14-3;;0;;;2;;;0;;
+3;MF/ER;Historija;B;7;HIP4;Feudalini posjed – baština, pronija;Ne;;Da;"jednakost ER-11-1
+";Ne;;;0;ER-15-1, ER-14-3;;2;;;0;ER-16-1, ER-19-1;;0;;
+4;MF/ER;Historija;B;7;HIP4;Velika seoba naroda;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-25-2;0;ER-24-1, ER-25-2;
+5;MF/ER;Historija;B;7;HIP4;Franačka država;Ne;;Ne;;Ne;;;2;;ER-29-2, ER-29-1;2;;;0;;;0;;
+6;MF/ER;Historija;B;7;HIP4;Bizantija;Ne;;Ne;;Ne;;;2;;ER-33-2;2;;;0;;;0;;
+7;MF/ER;Historija;B;7;HIP4;Arapi i uspon islama;Ne;;Da;"sloboda MF-34-2, ER-34-1, ER-35-1, solidarnost ER-35-2
+";Da;"tradicija, prošlost MF-34-1, teritorij MF-34-2
+";redukcija MF-36 ;0;ER-38-1;;2;;;0;ER-36-1;;0;;
+8;MF/ER;Historija;B;7;HIP4;Susret Istoka i Zapada;Ne;;Ne;;Ne;;;2;;ER-40-3;2;;;2;;;0;;
+9;MF/ER;Historija;B;7;HIP4;Kršćanstvo i islam;Ne;;Da;"jednakost MF-42, ER-42-2, sloboda ER-43-1
+
+";Ne;;;0;MF-45, ER-45-1;;2;;;0;ER-42-4, ER-42-5, ER-43-3, ER-43-4, ;ER-43-5, ER-45-2, ER-44-1;0;;
+10;MF/ER;Historija;B;7;HIP4;Kultura Srednjeg vijeka;Ne;;Ne;;Ne;;;2;;;2;;;0;;;2;;
+11;MF/ER;Historija;B;7;HIP4;Život ljudi u srednjem vijeku;Ne;;Da;"solidarnost ER-53-1, ER-53-2, ER-53-3, ER-53-4, ER-55-2, jednakost ER-54-1, ER-55-1
+";Ne;;;0;;;2;"
+";;1;"MF-55
+";;0;;
+12;MF/ER;Historija;B;7;HIP4;Položaj i uloga crkve u srednjem vijeku;Ne;;Ne;;Ne;;;2;;;2;;;2;"
+";;0;;
+13;MF/ER;Historija;B;7;HIP4;Krstaški ratovi;Ne;;Ne;;Ne;;;2;MF-61;;2;"
+";;2;;ER-62-3;0;;
+14;MF/ER;Historija;B;7;HIP4;Sukob Carstva i Papstva;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+15;MF/ER;Historija;B;7;HIP4;Privredni razvoj i obnavljanje gradova;Ne;;Da;"solidarnost ER-69-1, život ER-71-1
+";Ne;;;0;ER-68-4, ER-71-2, ER-72-1;;2;"
+";;0;;;0;;
+16;MF/ER;Historija;B;7;HIP4;Heretički pokreti i metode borbe protiv njih;Ne;;Da;"solidarnost ER-73-1, jednakost ER-74-1
+";Ne;;;2;;ER-76-1;2;;;0;;;0;;
+17;MF/ER;Historija;B;7;HIP4;Nastanak Staleških monarhija i njihovo uređenje;Ne;;Ne;;Ne;;;2;;ER-79-1;2;"
+";;0;;;0;;
+18;MF/ER;Historija;B;7;HIP4;Suprotnosti srednjovjekovnog društva;Ne;;Da;saradnja MF-82, MF-83, jednakost ER-81-1, ER-83-3, solidarnost ER-81-2, ER-83-1, ER-83-2, život ER-82-2;Ne;;;0;ER-81-3;;2;;;0;;;0;;
+19;MF/ER;Historija;B;7;HIP4;Stari Slaveni i doseljavanje na Balkan;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-86-1;0;;
+20;MF/ER;Historija;B;7;HIP4;Južnoslavenske države u Srednjem vijeku;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-93-1;0;;
+21;MF/ER;Historija;B;7;HIP4;Prvi podaci o srednjovjekovnoj Bosni;Ne;;Da;sloboda ER-95-1, ER-97-1;Da;tradicija, prošlost MF-95-1, teritorij ER-95-1, ER-97-1;imputacija MF-96-1, MF-97-3, insinuacija MF-96-2, MF-97-2;2;;;2;;;0;"MF-95-2, ER-95-2
+";ER-95-1, ER-96-1, ER-97-1, ER-97-2;2;;MF-96-3
+22;MF/ER;Historija;B;7;HIP4;Društveni odnosi i državna organizacija u srednjovjekovnoj Bosni;Ne;;Da;"jednakost ER-98-2, sloboda ER-98-3
+";Ne;;;2;;ER-100-1;2;;;0;;;0;ER-98-1;
+23;MF/ER;Historija;B;7;HIP4;Bosna u vrijeme prvih banova;Ne;;Da;"sloboda MF-101-1, ER-101-1
+
+";Da;tradicija MF-101-2;mistifikacija MF-102-1 ;2;;ER-102;2;;;2;;ER-102-3, ER-103-1;0;;
+24;MF/ER;Historija;B;7;HIP4;Vjerski život u srednjovjekovnoj Bosni;Ne;;Da;saradnja ER-104-1;Ne;;;2;;ER-108-1;2;;;2;;;0;;MF-106-1
+25;MF/ER;Historija;B;7;HIP4;Bosna u XIII stoljeću;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-109-2, ER-111-1;0;;
+26;MF/ER;Historija;B;7;HIP4;Jačanje i teritorijalno širenje Bosne u XIV stoljeću;Da;rat ER-113-1;Da;saradnja, sloboda MF-115-2;Da;teritorij MF-15-1;redukcija MF-115-1, MF-115-2;2;;;2;;;0;MF-114-2, ER-114-2;;0;;
+27;MF/ER;Historija;B;7;HIP4;Privredni razvoj Bosne u Srednjem vijeku;Ne;;Da;saradnja ER-116-1, ER-116-2, ER-117-1;Ne;;;2;;ER-119-1, ER-119-2;2;;;0;;;0;;
+28;MF/ER;Historija;B;7;HIP4;Kultura i umjetnost srednjovjekovne Bosne;Ne;;Da;saradnja ER-120-1, ER-120-2, ER-120-3, ER-121-1;Ne;;;0;"MF-124
+";;2;;;0;;;0;;
+29;MF/ER;Historija;B;7;HIP4;Slabljenje Bosne i gubitak državne samostalnosti;Ne;;Ne;;Ne;;;2;ER-128-1;;2;;;2;;ER-125-1;0;;
+30;MF/ER;Historija;B;7;HIP4;Nastanak Osmanske države;Ne;;Ne;;Ne;;;2;;ER-131-1;2;;;0;;;0;;
+31;MF/ER;Historija;B;7;HIP4;Vojno uređenje Osmanskog carstva;Ne;;Ne;mir ER-133-1;Ne;;;2;;ER-135-1;2;;;0;;;0;;
+32;MF/ER;Historija;B;7;HIP4;Osmanska osvajanja balkanskih zemalja;Ne;;Ne;;Ne;;;2;;ER-139-1;2;;;2;"
+
+";ER-138-1;0;;
+33;MF/ER;Historija;B;7;HIP4;Osmansko carstvo u doba najvećeg uspona;Ne;;Ne;;Ne;;;2;;ER-143-3;2;;;2;;ER-142-1, ER-142-2;0;;
+34;MF/ER;Historija;B;7;HIP4;Uspostava i organizacija osmanske vlasti u Bosni;Ne;;Da;saradnja ER-148-1;Ne;;;2;;;2;;;2;;ER-146-1;0;;
+35;MF/ER;Historija;B;7;HIP4;Širenje islama i vjerska tolerancija u Bosanskom ejaletu;Ne;;Da;"tolerancija, pluralizam MF-151-2, MF-151-3. MF-152-1, saradnja ER-150-1, ER-150-2, ER-150-1, ER-152-1, sloboda ER-151-2, ER-153-1
+";Ne;;;0;"
+";;2;;;0;ER-150-3;;0;MF-150;MF-152-4
+36;MF/ER;Historija;B;7;HIP4;Odbrambeni sistem Bosanskog ejaleta;Ne;;Ne;;Ne;;;2;;ER-156-2;2;;;2;;ER-157-1, ER-156-1;0;;
+37;MF/ER;Historija;B;7;HIP4;Bosna od ejaleta do Kandijskog rata;Ne;;Da;solidarnost ER-159-2, ER-159-3, ER-159-4;Ne;;;2;;;2;;;0;;;0;;
+38;MF/ER;Historija;B;7;HIP4;Bosanski ejalet od Kandijskog rata do Karlovačkog mira;Ne;;Ne;;Ne;;;2;;;2;;;0;;ER-165-2;0;;
+39;MF/ER;Historija;B;7;HIP4;Bosanski ejalet od karlovačkog do beogradskog mira;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+40;MF/ER;Historija;B;7;HIP4;Ratovi i njihove posljedice na tlu Bosanskog ejaleta u drugoj polovini XVIII stoljeća ;Ne;;Da;solidarnost ER-170-4;Ne;;;2;;;2;;;0;"ER-170-4
+
+";;0;;
+41;MF/ER;Historija;B;7;HIP4;Kulturno-obrazovne prilike u Bosni i Hercegovini pod osmanskom vlašću;Ne;;Da;saradnja ER-174-1, ER-175-2, ER-175-3;Ne;;;2;;ER-175-3;0;;;0;;;0;;
+1;MF/SB;Historija;B;6;HIP2;"Uvod u Historiju – prošlost i sadašnjost
+Pojam zadaci i podjela historije
+Historijski povijesni izvori";Ne;;Ne;;Ne;;;1;MF-11-1, MF-11-2, SB-11 ;;0;;;0;;;0;;
+2;MF/SB;Historija;B;6;HIP2;"Računanje vremena
+Podjela prošlosti";Ne;;Ne;;Ne;;;0;MF-14-1;;2;MF-14-2;;1;MF-13, SB-13, SB-14;;0;;
+3;MF/SB;Historija;B;6;HIP2;"Prethistorija
+Nastanak čovjeka";Ne;;Ne;;Ne;;;1;MF-16-1, MF-17-1, MF-18-1, SB-19;;1;MF-19-1;;1;MF-19-2, SB-19;;1;MF-17-2;
+4;MF/SB;Historija;B;6;HIP2;Starije kameno doba –Paleolit;Ne;;Ne;;Ne;;;1;MF-20-1, MF-21-1, MF-22-1, SB-21-2;;0;;;0;;;0;;
+5;MF/SB;Historija;B;6;HIP2;Mlađe kameno doba – neolit;Ne;;Ne;;Ne;;;1;MF-26-1, MF-26-2, SB-25-1 ;;0;;;0;;;2;"
+";SB-25-2, SB-25-3
+6;MF/SB;Historija;B;6;HIP2;Metalno doba;Ne;;Ne;;Ne;;;1;MF-27-1, SB-27;;0;;;0;;;2;;SB-29-2
+7;MF/SB;Historija;B;6;HIP2;Kultura ljudi prethistorijskog doba;Ne;;Ne;;Ne;;;1;"MF-31-1, MF-31-2, MF-33-1, SB-31-1, SB-31-2, SB-33 
+
+";;0;;;0;;;0;;
+8;MF/SB;Historija;B;6;HIP2;Prethistorija na tlu današnje Bosne i Hercegovine;Ne;;Ne;;Ne;;;1;"MF-34-2, SB-35-1
+";;0;;;0;;;0;;
+9;MF/SB;Historija;B;6;HIP2;"Historijsko doba
+Razvoj robovlasničkog društva
+";Ne;;Da;"saradnja MF-38-1
+";Ne;;;1;SB-38;;0;MF-38-1;;0;;;2;;SB-39
+10;MF/SB;Historija;B;6;HIP2;"Narodi i države Starog Istoka
+Egipat";Ne;;Da;saradnja MF-41-1;Ne;;;1;MF-42-1, MF-43-1, MF-44-1, MF-46-1, MF-47-1, MF-47-2, SB-42, SB-43, SB-45, SB-47;;0;MF-42-2, MF-45-1, SB-44;;0;;;0;;
+11;MF/SB;Historija;B;6;HIP2;Mezopotamija;Ne;;Da;"saradnja MF-48-1, odgovornost MF-55-1
+";Ne;;;1;"MF-50-1, MF-52-1, MF-52-2, MF-54-1, MF-55-1, SB-50, SB-53
+";;0;MF-49-1, MF-53-1, MF-51-1;;0;;;0;;
+12;MF/SB;Historija;B;6;HIP2;Fenikija i Palestina;Ne;;Ne;;Ne;;;1;SB-57;;0;;;0;;;0;;
+13;MF/SB;Historija;B;6;HIP2;Perzija;Ne;;Ne;;Ne;;;1;MF-59-1, MF-60-1, SB-59;;0;;;0;;;0;;
+14;MF/SB;Historija;B;6;HIP2;"Stara Grčka
+Geografski položaj i stanovništvo Stare Grčke
+";Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+15;MF/SB;Historija;B;6;HIP2;Kretsko-mikenska kultura;Ne;;Ne;;Ne;;;1;"MF-64-1, MF-65-1, MF-67-1, SB-64-2, SB-65, SB-66
+";;0;MF-64-1, MF-66-1 ;;0;;;0;;
+16;MF/SB;Historija;B;6;HIP2;Homerski svijet bogova i ljudi;Ne;;Ne;;Ne;;;1;MF-69-1, MF-71-2, SB-68, SB-71;;0;MF-71-1;;0;;;0;;
+17;MF/SB;Historija;B;6;HIP2;Velika grčka kolonizacija;Ne;;Da;saradnja, život MF-72-1 ;Ne;;;0;;;0;MF-72-2;;0;;;0;;
+18;MF/SB;Historija;B;6;HIP2;Grčki polisi;Ne;;Da;sloboda, saradnja MF-74-1, odgovornost MF-77-2;Ne;;;1;MF-78-1 ;;0;;;0;;;0;;
+19;MF/SB;Historija;B;6;HIP2;Grčko-perzijski ratovi;Ne;;Da;sloboda, saradnja MF-79-1, MF-80-1;Ne;;;1;MF-80-2, SB-80;;0;;;0;;;0;;
+20;MF/SB;Historija;B;6;HIP2;Peloponeski rat;Ne;;Da;saradnja MF-81-1;Ne;;;1;MF-83-1, SB-83;;0;;;0;;;0;;
+21;MF/SB;Historija;B;6;HIP2;Život i kultura Starih Grka;Ne;;Ne;;Ne;;;1;MF-87-1, SB-85;;0;MF-85-1;;0;;;0;;
+22;MF/SB;Historija;B;6;HIP2;Grčka pod makedonskom vlašću;Ne;;Ne;;Ne;;;1;MF-91-1, SB-89;;0;MF-89-1;;0;;;0;;
+23;MF/SB;Historija;B;6;HIP2;"Stari Rim
+Zemlja i stanovništvo
+Osnivanje Rima i prvobitno državno uređenje";Ne;;Ne;;Ne;;;0;;;0;;;1;MF-95-1, MF-95-2;;0;;
+24;MF/SB;Historija;B;6;HIP2;Postanak republike;Ne;;Ne;;Ne;;;0;;;2;MF-89-1;;0;;;0;;
+25;MF/SB;Historija;B;6;HIP2;Širenje Rima;Ne;;Ne;;Ne;;;1;SB-100;;2;;;0;;;0;;
+26;MF/SB;Historija;B;6;HIP2;Život i vjerovanje Starih Rimljana;Ne;;Ne;;Ne;;;1;SB-104-3;;0;;;0;;;1;MF-104-1, MF-104-2, SB-104-1, SB-104-2, SB-106;
+27;MF/SB;Historija;B;6;HIP2;Kraj Rimske republike;Ne;;Ne;;Ne;;;1;MF-111-1, SB-108;;0;MF-108-1;;0;;;0;;
+28;MF/SB;Historija;B;6;HIP2;Rimsko carstvo;Ne;;Ne;;Ne;;;1;"MF-112-1, MF-112-2, MF-116-1, MF-117-1, MF-117-2, SB-112, SB-113, SB-115
+";;0;MF-113-1 ;;1;SB-117;;0;;
+29;MF/SB;Historija;B;6;HIP2;Privreda i kultura Rimskog carstva;Ne;;Ne;;Ne;;;1;SB-119;;0;MF-118-1, MF-119-1;;0;;;0;;
+30;MF/SB;Historija;B;6;HIP2;"Antičko doba na prostorima današnje Bosne i Hercegovine, Hrvatske, Srbije i Crne Gore
+Iliri na Balkanskom poluotoku
+";Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+31;MF/SB;Historija;B;6;HIP2;Pojava Rimljana na Balkanu;Ne;;Ne;;Ne;;;1;MF-127-1, MF-127-2;;0;;;0;;;0;;
+32;MF/SB;Historija;B;6;HIP2;Kraj antičkog doba i dolazak Slavena;Ne;;Ne;;Ne;;;2;;;2;;;0;;;2;;MF-129-1
+1;ER/SB;Historija;B;6;HIP3;PROŠLOST I SADAŠNJOST;Ne;;Ne;;Ne;;;1;ER-8-1, ER-10-1, ER-10-2, ER-10-3, ER-12-1, SB-8, SB-12;;0;;;0;;;0;ER-8-1, ER-11-1;
+2;ER/SB;Historija;B;6;HIP3;PRETHISTORIJA  - PORIJEKLO ČOVJEKA;Ne;;Ne;;Ne;;;0;SB-14;;0;;;1;SB-15;;0;ER-14-2, ER-15-1;
+3;ER/SB;Historija;B;6;HIP3;STARIJE KAMENO DOBA – PALEOLIT;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+4;ER/SB;Historija;B;6;HIP3;MLAĐE KAMENO DOBA – NEOLIT;Ne;;Ne;;Ne;;;1;ER-20-1, ER-21-1, SB-20-1, SB-20-2, SB-20-4;;0;;;0;;;2;"
+";SB-21-1, SB-21-2
+5;ER/SB;Historija;B;6;HIP3;VJEROVANJE LJUDI KAMENOG DOBA ;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+6;ER/SB;Historija;B;6;HIP3;LJUDI METALNOG DOBA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+7;ER/SB;Historija;B;6;HIP3;PODRUČJE DANAŠNJE BOSNE I HERCEGOVINE U PRETHISTORIJI;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;SB-30-2 
+8;ER/SB;Historija;B;6;HIP3;STARI ISTOK;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+9;ER/SB;Historija;B;6;HIP3;EGIPAT;Ne;;Ne;;Ne;;;0;SB-35;ER-37-1, ER-38-1;2;;;0;;;1;ER-36-1, SB-36;
+10;ER/SB;Historija;B;6;HIP3;VJEROVANJE I KULTURA STARIH EGIPĆANA;Ne;;Ne;;Ne;;;0;ER-39-1, ER-41-1;;2;;;0;;;0;;
+11;ER/SB;Historija;B;6;HIP3;CIVILIZACIJA STARE MESOPOTAMIJE;Ne;;Ne;;Ne;;;1;"SB-43, SB-46-1, SB-46-2 
+";;2;;;0;;;0;;
+12;ER/SB;Historija;B;6;HIP3;KULTURA MESOPOTAMIJE;Ne;;Ne;;Ne;;;0;;ER-48-1, ER-49-1;2;;;0;;;0;;
+13;ER/SB;Historija;B;6;HIP3;POSREDNICI IZMEĐU ISTOKA I ZAPADA;Ne;;Da;saradnja ER-50-1, ER-54-1;Ne;;;0;;;2;;;0;;;0;;
+14;ER/SB;Historija;B;6;HIP3;GRČKA – ZEMLJA I MORE;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+15;ER/SB;Historija;B;6;HIP3;HOMERSKI SVIJET BOGOVA I LJUDI;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+16;ER/SB;Historija;B;6;HIP3;GRČKA RELIGIJA I MITOLOGIJA;Ne;;Ne;;Ne;;;1;SB-64;;2;;;0;;;0;;
+17;ER/SB;Historija;B;6;HIP3;GRČKI POLIS;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+18;ER/SB;Historija;B;6;HIP3;VELIKA GRČKA KOLONIZACIJA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+19;ER/SB;Historija;B;6;HIP3;OLIMPIJSKE IGRE;Ne;;Da;mir ER-67-1, ER-67-2;Ne;;;0;;;2;;;0;;;0;;
+20;ER/SB;Historija;B;6;HIP3;ATENA;Ne;;Da;jednakost ER-70-2, ER-70-3;Ne;;;0;;;2;;;0;;;1;ER-69-3, ER-70-1, ER-70-4;
+21;ER/SB;Historija;B;6;HIP3;GRČKO-PERZIJSKI RATOVI;Ne;;Ne;;Ne;;;0;ER-71-2, ER-73-2;;2;;;0;;;0;;ER-71-1
+22;ER/SB;Historija;B;6;HIP3;ŽIVOT I KULTURA STARIH GRKA;Ne;;Ne;;Ne;;;1;"ER-75-1, ER-77-1, SB-77, SB-78-3 
+";;0;;;0;;;1;ER-77-2, ER-78-1, ER-78-2, ER-78-3, SB-78-1, SB-78-2;
+23;ER/SB;Historija;B;6;HIP3;GRČKA POD MAKEDONSKOM VLAŠĆU;Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-80-2, ER- 81-1;0;;
+24;ER/SB;Historija;B;6;HIP3;STARI RIM  (ZEMLJA I STANOVNIŠTVO, DOBA KRALJEVA);Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-85-1;
+25;ER/SB;Historija;B;6;HIP3;DOBA REPUBLIKE;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+26;ER/SB;Historija;B;6;HIP3;PRODOR RIMA NA SREDOZEMNO MORE;Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-90-1;0;;
+27;ER/SB;Historija;B;6;HIP3;PUNSKI RATOVI;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-92-2, ER-92-4;
+28;ER/SB;Historija;B;6;HIP3;ŽIVOT I VJEROVANJE STARIH RIMLJANA;Ne;;Ne;;Ne;;;0;ER-96-1, ER-98-1;;0;;;0;ER-94-2;;1;ER-94-2, ER-95-1, SB-97, SB-98;
+29;ER/SB;Historija;B;6;HIP3;KRAJ RIMSKE REPUBLIKE;Ne;;Da;sloboda SB-101;Ne;;;1;ER-98-2, ER-101-1, ER-101-2, ER-102-1, SB-101;;0;;;0;;;1;SB-101;
+30;ER/SB;Historija;B;6;HIP3;RIMSKO CARSTVO;Ne;;Ne;;Ne;;;0;;;2;;ER-103-1;0;;;0;;
+31;ER/SB;Historija;B;6;HIP3;KRŠĆANSTVO;Ne;;Da;jednakost SB-106;Ne;;;0;;;2;;;0;;;0;ER-106-1;
+32;ER/SB;Historija;B;6;HIP3;USPON I PAD RIMSKOG CARSTVA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;ER-110-2
+33;ER/SB;Historija;B;6;HIP3;RIMSKA KULTURA;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+34;ER/SB;Historija;B;6;HIP3;ANTIČKA KULTURA NA PODRUČJU DANAŠNJE BIH;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-116-4;
+1;ER/SB;Historija;B;9;HIP9;BORBA ZA KOLONIJE I VOJNOPOLITIČKI SAVEZI U EVROPI;Ne;;Ne;;Ne;;;1;"ER-9-1, ER-10-2, ER-12-1, ER-13-2, ER-13-3, ER-13-4, SB-13-1, SB-13-2 
+";;0;ER-13-2, ER-13-4;;0;SB-9;;1;SB-10;
+2;ER/SB;Historija;B;9;HIP9;MEĐUNARODNE KRIZE I REGIONALNI SUKOBI PRED PRVI SVJETSKI RAT;Ne;;Ne;;Ne;;;0;"ER-15-1, ER-16-1, ER-17-1 
+";;2;;;0;"SB-15, SB-16 
+";;0;;
+3;ER/SB;Historija;B;9;HIP9;NAUKA, TEHNIKA I KULTURA NA PRIJELAZU IZ 19. U 20. STOLJEĆE;Ne;;Da;život ER-19-2;Ne;;;1;ER-18-1, ER-20-1, ER-20-2, ER-20-3, ER-21-1, ER-22-1, ER-22-2, ER-22-3, SB-18;;1;ER-18-1, ER-20-1, SB-20-2, SB-22-1;;1;ER-20-2, SB-20-2, SB-22-2;;1;;
+4;ER/SB;Historija;B;9;HIP9;POČETAK PRVOG SVJETSKOG RATA I FORMIRANJE FRONTOVA U EVROPI;Ne;;Ne;;Ne;;;0;ER-25-1, ER-26-2, ER-27-1, ER-27-2, ER-28-2;;0;SB-28-2;;1;"ER-26-2, ER-26, ER-27-2, ER-28-1
+";;1;ER-26, ER-27-2, SB-27-1;
+5;ER/SB;Historija;B;9;HIP9;RATNE OPERACIJE I PRILIKE U ZARAĆENIM STRANAMA;Ne;;Da;mir ER-30-1, ER-30-2, ER-31-1, ER-31-3, ER-30;Ne;;;0;ER-29-1, ER-31-1, ER-31-2, ER-31-4, SB-29;;0;;;1;SB-31-1;;1;ER-31-1, SB-31-2, SB-32;
+6;ER/SB;Historija;B;9;HIP9;REVOLUCIJE U RUSIJI, SLOM CENTRALNIH SILA I REZULTATI PRVOG SVJETSKOG RATA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;1;SB-34;
+7;ER/SB;Historija;B;9;HIP9;VERSAJSKI MIROVNI UGOVOR I DRUŠTVO NARODA;Ne;;Ne;;Ne;;;0;ER-41-1, ER-42-1, ER-42-2, ER-42-3;;2;;;1;SB-42-1, SB-42-2;;0;ER-41-3;
+8;ER/SB;Historija;B;9;HIP9;SVJETSKA EKONOMSKA KRIZA;Ne;;Da;solidarnost ER-43-1, ER-44-2, ER-46-3;Ne;;;1;ER-44-1, ER-45-1, ER-46-3, SB-46-2;;0;SB-46-2;;1;SB-44;;1;SB-46-1;
+9;ER/SB;Historija;B;9;HIP9;IZVANEVROPSKE ZEMLJE IZMEĐU DVA SVJETSKA RATA;Ne;;Ne;;Ne;;;1;"ER-48-2, ER-49-2, ER-50, ER-49-1, SB-48
+";;0;;;1;SB-51;;1;ER-48-1, SB-47;
+10;ER/SB;Historija;B;9;HIP9;ZEMLJE LIBERALNE DEMOKRACIJE I SOCIJALIZAM U RUSIJI;Ne;;Da;"sloboda ER-52-1, jednakost ER-52-1, ER-53-1, ER-54-1
+";Ne;;;0;ER-52-2, ER-53-3, ER-54-2, ER-56-1, ER-56-2, ER-56-3 ;;2;;;0;;;0;ER-53-2;
+11;ER/SB;Historija;B;9;HIP9;FAŠIZAM U ITALIJI I NACIZAM U NJEMAČKOJ;Ne;;Da;odgovornost ER-60-3, ER-60-4;Ne;;;0;;;0;;;1;SB-59;;1;ER-60-2, SB-60-1;
+12;ER/SB;Historija;B;9;HIP9;"MEĐUNARODNE SUPROTNOSTI I SUKOBI; PUT U DRUGI SVJETSKI RAT";Ne;;Ne;;Ne;;;0;ER-63-1, ER-63-3, ER-65-2, ER-66-2;;2;;;1;SB-65, SB-66-1, SB-66-2 ;;0;ER-66-1, ER-66-3;
+13;ER/SB;Historija;B;9;HIP9;NAUKA, TEHNIKA I KULTURA IZMEĐU DVA SVJETSKA RATA;Ne;;Da;saradnja ER-67-1;Ne;;;0;ER-68-2, ER-69-1, ER-71-2;;2;;;0;;;0;;
+14;ER/SB;Historija;B;9;HIP9;POČETAK I TOK DRUGOG SVJETSKOG RATA DO 1941. GODINE;Ne;;Ne;;Ne;;;0;;;2;;;1;SB-77-1, SB-80;;0;ER-77-1;
+15;ER/SB;Historija;B;9;HIP9;PROŠIRENJE RATA I FORMIRANJE ANTIFAŠISTIČKE KOALICIJE;Ne;;Da;solidarnost SB-82;Ne;;;0;;;2;;;0;SB-82;;1;ER-83-1, SB-83;
+16;ER/SB;Historija;B;9;HIP9;VELIKE BITKE – PREKRETNICE U RATU I KAPITULACIJE ITALIJE;Ne;;Ne;;Ne;;;1;SB-86-1 ;;0;SB-86-1 ;;0;SB-86-1, SB-86-2;;1;;
+17;ER/SB;Historija;B;9;HIP9;"ZAVRŠNA FAZA RATA; KAPITULACIJA NJEMAČKE I JAPANA";Ne;;Da;odgovornost ER-89-2, ER-89-3, ER-90-2, ER-91-1, ER-91-2;Ne;;;1;SB-89, SB-90, SB-91;;0;;;1;ER-91-1, ER-91-2, SB-89, SB-90, SB-91;;0;ER-89-2, ER-89-3, ER-91-1, ER-91-2;
+18;ER/SB;Historija;B;9;HIP9;REZULTATI I POSLJEDICE DRUGOG SVJETSKOG RATA;Ne;;Da;solidarnost ER-92-1, ER-93-1, ER-93-2, ER-93-3, ER-94-1, ER-94-2, ER-95-1;Ne;;;0;ER-93-4, ER-94-2, ER-95-3, ER-96-1;;0;ER-96-1;;1;"SB-93-1, SB-94, SB-96
+";;1;SB-93-2;
+19;ER/SB;Historija;B;9;HIP9;MEĐUNARODNI ODNOSI NAKON DRUGOG SVJETSKOG RATA;Ne;;Da;mir ER-99-1, ER-99-2;Ne;;;0;;;2;;;0;;;0;ER-100-1, ER-102-1;
+20;ER/SB;Historija;B;9;HIP9;LOKALNI RATOVI I POLITIČKE KRIZE U SVIJETU;Ne;;Ne;;Ne;;;0;;;2;;;0;SB-107;ER-104-2, ER-105-2, ER-105-3, SB-105-4;0;ER-107-2;ER-104-2, ER-105-2, ER-105-3, SB-104
+21;ER/SB;Historija;B;9;HIP9;NASTANAK BLOKA ZEMALJA „TREĆEG SVIJETA“ I NJIHOVA POLITIKA;Ne;;Da;mir ER-110-1, ER-110-2;Ne;;;0;;;0;;;0;;;0;;
+22;ER/SB;Historija;B;9;HIP9;INTEGRACIJSKI PROCESI U EVROPI;Ne;;Ne;;Ne;;;0;"
+";;2;;;0;;;0;;
+23;ER/SB;Historija;B;9;HIP9;SLOM SOCIJALISTIČKOG SISTEMA U EVROPI;Ne;;Ne;;Ne;;;0;;;2;;;0;SB-118;;0;;
+24;ER/SB;Historija;B;9;HIP9;NAUKA, TEHNIKA I KULTURA SAVREMENOG DOBA;Ne;;Ne;;Ne;;;0;SB 120;ER-120-2 ;2;;;0;;;0;;
+25;ER/SB;Historija;B;9;HIP9;BOSNA I HERCEGOVINA U PRVOM SVJETSKOM RATU;Ne;;Da;odgovornost ER-125-3;Ne;;;1;SB-128-3;;2;;;0;SB-128-3;ER-125-3;1;ER-125-2, ER-126-1, SB-125-1, SB-125-2;
+26;ER/SB;Historija;B;9;HIP9;"BOSNA I HERCEGOVINA I JUGOSLAVENSKO PITANJE; FORMIRANJE DRŽAVE SLOVENACA, HRVATA I SRBA (DSHS)";Ne;;Ne;;Ne;;;0;SB-130;;0;;;0;;;0;ER-130-2, ER-131-1 ;
+27;ER/SB;Historija;B;9;HIP9;FORMIRANJE KRALJEVINE SRBA, HRVATA I SLOVENACA I POLOŽAJ BOSNE I HERCEGOVINE DO 1929. GODINE;Ne;;Ne;;Ne;;;0;;;2;;;0;SB-137;ER-134-1, ER-137-1, ER-137-2;0;;
+28;ER/SB;Historija;B;9;HIP9;BOSNA I HERCEGOVINA U VRIJEME ŠESTOJANUARSKE DIKTATURE;Ne;;Ne;;Ne;;;0;"SB-142, SB-141
+";;2;;;0;SB-142;ER-140-1, ER-142-1;0;;
+29;ER/SB;Historija;B;9;HIP9;KRAJ ŠESTOJANUARSKE DIKTATURE I SPORAZUM CVETKOVIĆ – MAČEK;Ne;;Ne;;Ne;;;0;SB-146-2;;2;;;0;;ER-144-1;0;;
+30;ER/SB;Historija;B;9;HIP9;PRIVREDNI I KULTURNO-OBRAZOVNI ŽIVOT IZMEĐU DVA RATA;Ne;;Ne;;Ne;;;1;SB-150-1, SB-150-2;;2;;;0;;;0;;
+31;ER/SB;Historija;B;9;HIP9;BOSNA I HERCEGOVINA U DRUGOM SVJETSKOM RATU;Ne;;Da;odgovornost ER-156-1, ER-156-3;Ne;;;1;SB-155, SB-156;;2;;;2;"
+
+";ER-155-3 ;0;;
+32;ER/SB;Historija;B;9;HIP9;NARODNOOSLOBODILAČKI POKRET U BOSNI I HERCEGOVINI;Ne;;Ne;;Ne;;;1;SB-160-2;;2;;;0;;;1;SB-158, SB-160-1 ;
+33;ER/SB;Historija;B;9;HIP9;"OBNOVA BOSANSKOHERCEGOVAČKE DRŽAVNOSTI; AVNOJ I ZAVNOBiH";Ne;;Da;jednakost ER-162-2, sloboda ER-164-1, ER-164-2;Ne;;;1;ER-164-3, ER-165-1, SB-164, SB-165;;0;SB-165;;0;;;1;SB-161;
+34;ER/SB;Historija;B;9;HIP9;BOSNA I HERCEGOVINA U SOCIJALISTIČKOJ JUGOSLAVIJI;Ne;;Ne;;Ne;;;1;SB-169;;2;;;0;;;0;;
+35;ER/SB;Historija;B;9;HIP9;SUKOB TITO – STALJIN I PERIOD SAMOUPRAVLJANJA;Ne;;Ne;;Ne;;;0;SB-174;;2;;;0;"SB-172
+";ER-173-2;1;"ER-170-1, SB-171-1, SB-171-2
+";
+36;ER/SB;Historija;B;9;HIP9;RAZVOJ BOSNE I HERCEGOVINE U OKVIRU SFRJ;Ne;;Ne;;Ne;;;0;SB-178-1, SB-178-2;;2;;;0;;;0;ER-175-1 ;
+37;ER/SB;Historija;B;9;HIP9;RASPAD SFRJ I MEĐUNARODNO PRIZNANJE BOSNE I HERCEGOVINE;Ne;;Ne;;Ne;;;0;SB-181;;2;;;2;SB-183, SB-182;ER-179-1, ER-180-1, ER-181-1, ER-182-1, ER-182-2 ;0;;
+38;ER/SB;Historija;B;9;HIP9;RATNI I POSTRATNI PERIOD U BOSNI I HERCEGOVINI (1992-2000);Ne;;Da;solidarnost ER-185-3, ER-185-4, ER-186-1, ER-187-1;Da;teritorij, pobožnost;redukcija, ignorancija;0;"SB-185-1, SB-187
+";;2;;;2;;ER-184-1, ER-185-3, ER-185-4, ER-186-1, ER-187-1;2;;SB-184, SB-185, SB-186, SB-187
+1;MF/ER;Historija;B;8;HIP7;Periodizacija Novog vijeka;Ne;;Da;saradnja ER-7-2, solidarnost ER-8-1, jednakost ER-8-1;Ne;;;1;MF-6-1, MF-6-2, MF-9-1, ER-6-2, ER-9-1, ER-9-2;;0;ER-9-1, ER-9-2, ER-6-2;;1;ER-6-2, ER-7-3, ER-8-1, ER-9-2;;0;MF-6-2, ER-6-1, ER-6-3, ER-8-1;
+2;MF/ER;Historija;B;8;HIP7;Humanizam i renesansa;Ne;;Da;"život MF-10-1, sloboda MF-12-2  
+";Ne;;;1;"MF-13-1, ER-10-2, ER-13-2, ER-13-3
+";;0;;;0;"ER-13-3
+";ER-10-1;0;;
+3;MF/ER;Historija;B;8;HIP7;Velika geografska otkrića;Ne;;Da;"saradnja ER-17-1 
+";Ne;;;1;MF-18-1, ER-18-1;;0;ER-18-2;;0;MF-18-1, ER-18-1;;1;;
+4;MF/ER;Historija;B;8;HIP7;Reformacija i protivreformacija;Ne;;Da;"mir ER-22-1, ER-22-2, ER-22-3, saradnja ER-22-3 
+
+";Ne;;;0;;;0;;;2;"
+";;0;;
+5;MF/ER;Historija;B;8;HIP7;Oblici vladavine u Novom vijeku – apsolutizam i parlamentarizam;Ne;;Ne;;Ne;;;2;;;2;;;0;ER-26-1, ER-27-1;;0;;
+6;MF/ER;Historija;B;8;HIP7;Privredni razvoj u Novom vijeku;Ne;;Da;"život ER-28-1 
+";Ne;;;2;ER-32-1;;0;;;0;;;0;;
+7;MF/ER;Historija;B;8;HIP7;Kapitalizam i kapitalističko društvo;Ne;;Da;jednakost MF-33-1, MF-33-2, MF-35-1, život MF-33-1, MF-33-2;Ne;;;1;MF-36-1, ER-36-1, ER-36-2, ER-36-5, ER-34-1;;0;;;1;;;1;;
+8;MF/ER;Historija;B;8;HIP7;Industrijska revolucija;Ne;;Da;život MF-39-1, MF-39-2  ;Ne;;;0;MF-41-1, MF-41-2, ER-41-2, ER-41-3;;0;;;0;;;0;;
+9;MF/ER;Historija;B;8;HIP7;Razvoj nauke, tehnike, kulture i umjetnosti u Novom vijeku;Ne;;Ne;;Ne;;;0;MF-46-1;;2;;;0;"ER-42-1, ER-46-1
+";;0;;
+10;MF/ER;Historija;B;8;HIP7;Nacionalno buđenje u zemljama jugoistočne Evrope;Ne;;Da;sloboda MF-48-1, solidarnost MF-49-1, MF-49-2, saradnja MF-49-3, MF-50-1, MF-50-2, MF-50-3, MF-30-4 ;Ne;;;0;;;2;;;2;;;0;;
+11;MF/ER;Historija;B;8;HIP7;Osobenosti nacionalnih pokreta u zemljama jugoistočne Evrope;Ne;;Da;saradnja MF-55-1, MF-57-1, MF-57-2, saradnja MF-56-1 ;Ne;;;1;"MF-58-2, ER-58-2
+";;0;;;2;;;0;MF-58-2, ER-55-1;
+12;MF/ER;Historija;B;8;HIP7;Nastanak i razvoj Sjedinjenih Američkih Država;Ne;;Da;"sloboda, jednakost MF-60-2, MF-61-1, MF-61-2, MF-62-1, MF-64-1, mir MF-62-2
+";Ne;;;1;"MF-64-1, MF-64-2, ER-64-1, ER-64-2
+";;0;"
+";;0;ER-64-2;;1;;
+13;MF/ER;Historija;B;8;HIP7;Francuska revolucija;Ne;;Da;"sloboda, jednakost MF-65-1, MF-67-1, saradnja MF-66-1 
+
+";Ne;;;1;MF-69-1, MF-69-2, ER-69-1, ER-69-2, ER-65-3;;0;ER-69-2;;0;ER-67-3, ER-68-1;;1;;
+14;MF/ER;Historija;B;8;HIP7;Napoleon Bonaparta;Ne;;Da;"sloboda,  jednakost MF-72-1, MF-74-1, saradnja, život MF-73-1, mir MF-74-3 
+";Ne;;;0;MF-74-2, ER-74-2, ER-74-3;;0;"
+";;0;ER-74-2;;1;MF-74-3;
+15;MF/ER;Historija;B;8;HIP7;Bečki kongres i revolucionarna Evropa;Ne;;Da;saradnja, jednakost MF-78-1, MF-78-2 ;Ne;;;1;MF-79-1, ER-79-2, ER-79-3;;0;;;0;;;0;ER-77-2;
+16;MF/ER;Historija;B;8;HIP7;Ujedinjenje Italije i ujedinjenje Njemačke;Ne;;Da;saradnja, sloboda MF-80-1, MF-81-2 ;Ne;;;1;MF-84-1, ER-84-1, ER-84-2;;0;;;0;;;0;ER-81-1;
+17;MF/ER;Historija;B;8;HIP7;Monopolistički kapitalizam;Ne;;Da;"sloboda MF-87-1, MF-88-1 
+";Ne;;;1;MF-89-1, ER-86-3, ER-87-4, ER-87-5, ER-88-4;;0;;;0;;;0;;
+18;MF/ER;Historija;B;8;HIP7;Nauka, tehnika i kultura u XIX stoljeću;Ne;;Da;"jednakost MF-91-1, život MF-91-2, 
+
+";Ne;;;0;MF-94-1, MF-94-2;;2;;;0;MF-92-1;;1;ER-92-1;
+19;MF/ER;Historija;B;8;HIP7;Osmansko carstvo i Bosanski ejalet na početku XIX stoljeća;Ne;;Ne;;Ne;;;0;MF-100-1;;1;MF-100-2;;0;ER-99-2;;0;ER-99-2;
+20;MF/ER;Historija;B;8;HIP7;Pokret za autonomiju Bosne;Ne;;Da;sloboda, saradnja MF-101-1;Ne;;;0;ER-105-1, ER-105-2;;2;;;2;"ER-102-3, ER-105-1, ER-105-2
+
+";ER-102, ER-103-2;0;;
+21;MF/ER;Historija;B;8;HIP7;Provođenje reformi u Bosanskom ejaletu;Ne;;Ne;;Ne;;;1;MF-110-1, MF-110-2, ER-110-1, ER-110-2;;0;ER-110-1;;0;;;0;;
+22;MF/ER;Historija;B;8;HIP7;Berlinski kongres i prestanak osmanske vlasti u Bosni;Ne;;Da;"sloboda, saradnja MF-112-1, MF-113-1, MF-113-2 
+";Ne;;;1;"MF-114-1, MF-114-2, ER-114-1, ER-114-2. ER-112-2
+";;0;;;1;MF-114-1, MF-114-2;;0;;
+23;MF/ER;Historija;B;8;HIP7;Društvo, privreda i kultura u Bosni do 1878. godine;Ne;;Da;jednakost MF-115-1, MF-115-2, život MF-118-1;Ne;;;0;MF-120-1;;2;;;0;;;0;;
+24;MF/ER;Historija;B;8;HIP7;Bosna i Hercegovina u sastavu Austro-Ugarske;Ne;;Ne;;Ne;;;0;MF-125-1, ER-125-2;;2;;;2;;ER-123-2;0;;
+25;MF/ER;Historija;B;8;HIP7;Kallayeva epoha u Bosni i Hercegovini 1882-1903;Ne;;Da;sloboda MF-127-1, MF-127-2, MF-127-3, MF-128-1, MF-129-1, MF-129-2, ER-128-1, ER-129-1, solidarnost ER-130-1, ER-130-2;Ne;;;0;ER-130-1, ER-130-2;;2;;;0;;;0;;
+26;MF/ER;Historija;B;8;HIP7;Bosna i Hercegovina od aneksije (1908) do Prvog svjetskog rata (1914);Ne;;Da;"saradnja, odgovornost MF-131-1, MF-132-1, jednakost MF-132-2 
+
+";Ne;;;0;MF-131, MF-134-1, MF-134-2, ER-131-2, ER-134-1, ER-134-2;;2;;;0;;;0;;
+27;MF/ER;Historija;B;8;HIP7;Društvo i privreda Bosne i Hercegovine u sastavu Austro-Ugarske;Ne;;Da;život MF-135, MF-137-1, MF-138-1, saradnja ER-136-1, ER-136-2, ER-135-1;Ne;;;1;MF-139-1, ER-137-1, ER-139-2, ER-139-3;;0;ER-137-1, ER-139-2;;2;;ER-136;0;;
+28;MF/ER;Historija;B;8;HIP7;Kulturni i prosvjetni razvoj Bosne i Hercegovine u sastavu Austro-Ugarske;Ne;;Da;"saradnja ER-140-1, ER-140-2
+";Ne;;;1;ER-142-1, ER-144-1, ER-144-2;;2;;;0;;;1;;
+1;MF/ER;Historija;S;6;HIP10;"UVOD U ISTORIJU 
+Istorija kao nauka";Ne;;Ne;;Ne;;;0;MF-8-1, ER-8-1;;2;;;0;;;0;;
+2;MF/ER;Historija;S;6;HIP10;Istorijski izvori ;Ne;;Ne;;Ne;;;1;MF-11-1, ER-12-1;;0;MF-12-1;;0;;;0;;
+3;MF/ER;Historija;S;6;HIP10;Računanje vremena;Ne;;Ne;;Ne;;;0;;;0;;;0;MF-13-1;;0;;
+4;MF/ER;Historija;S;6;HIP10;Periodizacija ljudske prošlosti;Ne;;Ne;;Ne;;;0;ER-15-1;;0;;;0;;;0;;
+5;MF/ER;Historija;S;6;HIP10;"PRAISTORIJA 
+Kameno doba";Ne;;Ne;;Ne;;;0;MF-16-1;;2;;;0;;;0;;
+6;MF/ER;Historija;S;6;HIP10;Metalno doba;Ne;;Da;jednakost MF-21-2 ;Ne;;;0;;;2;;;0;;ER-21-1;0;;
+7;MF/ER;Historija;S;6;HIP10;Religija i kultura praistorijskog čovjeka;Ne;;Ne;;Ne;;;0;MF-23-1;;2;;;0;;;0;;
+8;MF/ER;Historija;S;6;HIP10;Praistorija na prostorima današnje Bosne i Hercegovine, Srbije, Crne Gore i Hrvatske;Ne;;Ne;;Ne;;;0;MF-24-1, MF-24-2 ;;2;"MF-26-1 
+";;0;;;0;;
+9;MF/ER;Historija;S;6;HIP10;"STARI VIJEK
+Narodi i države Starog Istoka";Ne;;Ne;;Ne;;;0;;;0;MF-27-1;;0;;;0;;
+10;MF/ER;Historija;S;6;HIP10;Stari Egipat;Ne;;Da;saradnja MF-30-1, solidarnost ER-30-1;Ne;;;0;MF-33-1, MF-33-2;;0;MF-34-1, MF-34-2;;0;;;0;;
+11;MF/ER;Historija;S;6;HIP10;Mesopotamija;Ne;;Da;odgovornost MF-36-1, saradnja MF-36-2 ;Ne;;;1;MF-37-1;;0;;;0;;;0;;
+12;MF/ER;Historija;S;6;HIP10;Kultura naroda Starog Istoka;Ne;;Ne;;Ne;;;1;MF-39-1, MF-39-2, MF-40-1, MF-41-1, ER-39-2, ER-40-1, ER-44-1;;0;ER-39-2;;0;;;0;ER-39-1;
+13;MF/ER;Historija;S;6;HIP10;"STARA GRČKA 
+Najstariji period grčke istorije
+";Ne;;Da;saradnja, odgovornost MF-46-1;Ne;;;0;MF-48-1;;0;MF-45-1;;0;;;0;;
+14;MF/ER;Historija;S;6;HIP10;Sparta;Ne;;Ne;;Ne;;;0;MF-52-1 ;;0;;;0;;;0;;
+15;MF/ER;Historija;S;6;HIP10;Atina;Ne;;Da;"jednakost, solidarnost MF-56-1, MF-57-2, odgovornost, saradnja MF-57-1  
+
+";Ne;;;0;ER-56-2, ER-57-1;;0;;;0;;;0;ER-58-2;
+16;MF/ER;Historija;S;6;HIP10;Grčko-perzijski ratovi 500-449. P. N. e. ;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+17;MF/ER;Historija;S;6;HIP10;Peloponeski rat (431-404. P.n.e.);Ne;;Da;mir MF-64-1, saradnja MF-64-2, MF-64-3;Ne;;;0;"ER-64-2
+";;0;;;0;;;0;;
+18;MF/ER;Historija;S;6;HIP10;Grčka kultura;Ne;;Da;saradnja, sloboda MF-64-1 ;Ne;;;2;;ER-69-2;2;;;0;;;0;ER-69-1;
+19;MF/ER;Historija;S;6;HIP10;Helenističko doba i njegova kultura;Ne;;Da;saradnja ER-72-1;Ne;;;0;;;2;;;0;;;0;;
+20;MF/ER;Historija;S;6;HIP10;"STARI RIM
+Postanak rimske države
+";Ne;;Da;jednakost 79-2;Ne;;;2;;;2;;;0;;;0;;
+21;MF/ER;Historija;S;6;HIP10;Rim kao svjetska sila;Ne;;Ne;;Ne;;;0;ER-84-3;;2;;;0;;ER-84-1;0;;
+22;MF/ER;Historija;S;6;HIP10;Unutrašnje borbe u rimskoj državi;Ne;;Da;solidarnost ER-85-1, sloboda ER-85-2;Ne;;;0;ER-85-3;;2;;;0;;;1;ER-85-1;
+23;MF/ER;Historija;S;6;HIP10;Rim u doba Carstva;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+24;MF/ER;Historija;S;6;HIP10;Pad Zapadnog rimskog carstva;Ne;;Ne;;Ne;;;2;"
+";;2;;;0;;;0;;
+25;MF/ER;Historija;S;6;HIP10;Rimska kultura;Ne;;Da;saradnja ER-93-1;Ne;;;0;"ER-95-2
+";;2;;;0;;;0;;
+26;MF/ER;Historija;S;6;HIP10;Pojava nove religije - Hrišćanstvo;Ne;;Da;jednakost MF-99-1, MF-101-1;Ne;;;2;;;2;;;0;ER-100-1, ER-100-4;;1;ER-99-1, ER-100-1, ER-100-4;
+27;MF/ER;Historija;S;6;HIP10;Antičko doba na prostoru današnje Bosne i Hercegovine, Srbije, Crne Gore i Hrvatske;Ne;;Ne;;Ne;;;0;ER-103-1;;2;;;0;;;1;;
+1;ER/SB;Historija;S;8;HIP12;OSNOVNE ODLIKE NOVOG VIJEKA I POZNOG FEUDALIZMA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+2;ER/SB;Historija;S;8;HIP12;VELIKA GEOGRAFSKA OTKRIĆA;Ne;;Ne;;Ne;;;0;SB-18;;2;;;0;;ER-14-1;1;ER-16-2, SB-16-2, SB-17-2, SB-17-1;
+3;ER/SB;Historija;S;8;HIP12;RAZVOJ PRIVREDE I DRUŠTVA;Ne;;Ne;;Ne;;;0;SB-22;;0;;;0;;;1;SB-23-1, SB-23-2;
+4;ER/SB;Historija;S;8;HIP12;HUMANIZAM I RENESANSA;Ne;;Da;život ER-26-1;Ne;;;2;;;2;;;0;;;0;;
+5;ER/SB;Historija;S;8;HIP12;EVROPSKE APSOLUTISTIČKE MONARHIJE;Ne;;Ne;;Ne;;;1;SB-36-2, SB-36-1;;2;;;0;;;1;ER-35-1, SB-35-1, SB-35-2;
+6;ER/SB;Historija;S;8;HIP12;POLOŽAJ POKORENOG BALKANSKOG STANOVNIŠTVA POD TURSKOM VLAŠĆU I OBLICI OTPORA HRIŠĆANSKOG STANOVNIŠTVA;Ne;;Ne;;Ne;;;1;SB-43-3, SB-44;;0;;;0;ER-41-2, ER-43-1, ER-43-2 ;;1;ER-39-1, ER-41-1, ER-41, ER-43-1;ER-43-1, ER-43-2
+7;ER/SB;Historija;S;8;HIP12;PEĆKA PATRIJARŠIJA;Ne;;Ne;;Ne;;;0;SB-49;;2;;;2;;ER-45-1;0;;ER-45-1, ER-45-2
+8;ER/SB;Historija;S;8;HIP12;BOSNA I HERCEGOVINA POD TURSKOM VLAŠĆU DO KRAJA XVIII VIJEKA;Ne;;Ne;;Ne;;;0;SB-54;;2;;;0;;ER-51-1;1;ER-50-1, ER-52-2, ER-52-3, SB-52-1, SB-52-2, SB-52-3;ER-51-1
+9;ER/SB;Historija;S;8;HIP12;RATOVI HABSBURŠKE MONARHIJE I MLETAČKE REPUBLIKE PROTIV TURSKOG CARSTVA. VELIKA SEOBA SRBA;Ne;;Ne;"
+";Ne;;;0;;;2;;;0;;ER-56-1;0;;
+10;ER/SB;Historija;S;8;HIP12;SRBI U HABSBURŠKOJ MONARHIJI OD XVI DO XVIII VIJEKA;Ne;;Ne;saradnja, jednakost ER-61-1, ER-61-2;Ne;;;2;;;2;;;0;;ER-63-1;0;;
+11;ER/SB;Historija;S;8;HIP12;SRBI POD MLETAČKOM VLAŠĆU. DUBROVAČKA REPUBLIKA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-66-1;
+12;ER/SB;Historija;S;8;HIP12;NOVI PRIVREDNI I DRUŠTVENI ODNOSI U ZAPADNOJ EVROPI  I SVIJETU U XVIII VIJEKU;Ne;;Da;"jednakost SB-73
+";Ne;;;0;ER-70-1;;2;;;0;;;1;ER-71-1, SB-71;
+13;ER/SB;Historija;S;8;HIP12;INDUSTRIJSKA REVOLUCIJA;Ne;;Da;solidaranost ER-76-1, ER-76-2, ER-76-3, ER-77-1;Ne;;;0;;;2;;;0;;;1;ER-76-1, ER-76-2, SB-76-1, SB-76-2, SB-76-3;
+14;ER/SB;Historija;S;8;HIP12;BURŽOASKO-GRAĐANSKE REVOLUCIJE U NIZOZEMSKOJ I ENGLESKOJ;Ne;;Ne;;Ne;;;2;ER-82-1;;2;;;0;;;0;;
+15;ER/SB;Historija;S;8;HIP12;AMERIČKI RAT ZA NEZAVISNOST I POSTANAK SAD;Ne;;Ne;;Ne;;;0;SB-87;;2;;;0;;;1;SB-84-1, SB-84-2;
+16;ER/SB;Historija;S;8;HIP12;FRANCUSKA BURŽOASKA REVOLUCIJA (1789-1794);Ne;;Da;"jednakost SB-89
+";Ne;;;0;;;2;;;0;;;1;ER-88-3, ER-90-3, ER-92-2;
+17;ER/SB;Historija;S;8;HIP12;EVROPA I NAPOLEONOVI RATOVI (1791-1815);Ne;;Ne;;Ne;;;0;ER-99-1;;2;;;0;;;0;;ER-97-3
+18;ER/SB;Historija;S;8;HIP12;REVOLUCIJA 1848/49. U EVROPI. RADNIČKI I SOCIJALISTIČKI POKRET.;Ne;;Da;"saradnja SB-103
+";Ne;;;0;ER-104-2, ER-104-3;;0;ER-104-2;;0;;;0;ER-103-2;
+19;ER/SB;Historija;S;8;HIP12;REFORME TURSKOG CARSTVA KRAJEM XVIII I U XIX VIJEKU (DO 1878);Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-107-3, ER-107-2;0;SB-105;
+20;ER/SB;Historija;S;8;HIP12;MEĐUNARODNI ODNOSI OD SREDINE XIX VIJEKA DO BERLINSKOG KONGRESA 1878. GODINE;Ne;;Da;"život SB-111-3, jednakost SB-115, saradnja SB-114
+";Ne;;;1;"ER-109-1, SB-111-1, SB-111-2, SB-116
+";;0;;;0;;;1;SB-109;
+21;ER/SB;Historija;S;8;HIP12;VELIKE SILE I BALKAN;Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-120-1;0;;ER-119-1
+22;ER/SB;Historija;S;8;HIP12;PRVI SRPSKI USTANAK I USTANIČKE BORBE DO 1805. GODINE;Ne;;Ne;;Ne;;;1;ER-124-1, ER-125-1, ER-125-2, ER-125-3, ER-122-1, SB-122, SB-125-1, SB-125-2;;0;;;2;;;0;;
+23;ER/SB;Historija;S;8;HIP12;DALJI TOK PRVOG SRPSKOG USTANKA (1805-1813);Ne;;Ne;;Ne;;;2;;ER-133-1;2;;;2;;ER-130-2, ER-129-1, ER-132-1, ER-132-2;0;;
+24;ER/SB;Historija;S;8;HIP12;ORGANIZACIJA USTANIČKE VLASTI;Ne;;Ne;;Ne;;;1;ER-137-2, ER-137-3, SB-137-1, SB-137-2;;0;;;0;;;0;ER-136-1;
+25;ER/SB;Historija;S;8;HIP12;DRUGI SRPSKI USTANAK (1815);Ne;;Ne;;Ne;;;0;SB-143;;2;;;0;;ER-140-1, ER-140-2;0;;
+26;ER/SB;Historija;S;8;HIP12;PRVA VLADAVINA MILOŠA OBRENOVIĆA (1815-1839);Ne;;Ne;;Ne;;;0;SB-148;;0;;;0;;;0;ER-145-1, SB-145;ER-145-3
+27;ER/SB;Historija;S;8;HIP12;VUK STEFANOVIĆ KARADŽIĆ, ISTORIOGRAF SRPSKE REVOLUCIJE;Ne;;Ne;;Ne;;;1;ER-151-1, SB-151;;0;;;0;ER-151-1;;0;;
+28;ER/SB;Historija;S;8;HIP12;PERIOD VLADAVINE USTAVOBRANITELJA (1842-1858);Ne;;Ne;;Ne;;;1;SB-155, SB-156;;0;;;0;;;0;ER-154-1;
+29;ER/SB;Historija;S;8;HIP12;STVARANJE DRŽAVE U CRNOJ GORI;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-161-1;ER-159-1
+30;ER/SB;Historija;S;8;HIP12;BOSNA I HERCEGOVINA KRAJEM XVIII I U PRVOJ POLOVINI XIX VIJEKA;Ne;;Ne;;Ne;;;2;;;2;;;0;ER-166-1;;1;;
+31;ER/SB;Historija;S;8;HIP12;JUŽNOSLOVENSKI NARODI U HABSBURŠKOJ MONARHIJI KRAJEM XVIII I U PRVOJ POLOVINI XIX VIJEKA;Ne;;Ne;;Ne;;;1;ER-173-1, ER-173-2, SB-173;;2;;;0;;ER-168-1;1;ER-168-1, SB-168;
+32;ER/SB;Historija;S;8;HIP12;REVOLUCIJA 1848/49. U HABSBURŠKOJ MONARHIJI ;Ne;;Da;saradnja SB-174;Ne;;;0;;;2;;;0;;;0;;
+33;ER/SB;Historija;S;8;HIP12;BOSNA I HERCEGOVINA OD SREDINE XIX VIJEKA DO BERLINSKOG KONGRESA;Ne;;Ne;;Ne;;;2;;;2;;;2;"
+";ER-180-1, ER-181-2, ER-184-1;0;"ER-181-1 
+";ER-181-3
+34;ER/SB;Historija;S;8;HIP12;SRBIJA 1858-1878.;Ne;;Ne;;Ne;;;0;SB-189;;2;;;2;;;0;;
+35;ER/SB;Historija;S;8;HIP12;CRNA GORA 1852-1878.;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+1;MF/SB;Historija;H;8;HIP24;Posljedice Prvog svjetskog rata;Ne;;Da;mir MF-8-1;Ne;;;0;MF-9-1, MF-18-1, SB-9;;2;;;0;;;0;;
+2;MF/SB;Historija;H;8;HIP24;Mirovni pregovori i ugovori;Ne;;Da;saradnja, mir MF-12-1;Ne;;;2;;;2;;;0;;;0;;
+3;MF/SB;Historija;H;8;HIP24;Nacionalni pokret u Turskoj;Ne;;Da;jednakost, sloboda, odgovornost MF-17-1;Ne;;;0;;;2;;;0;;;0;;
+4;MF/SB;Historija;H;8;HIP24;Zemlje parlamentarne demokracije;Ne;;Da;jednakost, odgovornost MF-20-1;Ne;;;2;;;2;;;0;;;1;MF-20-1, MF-20-2, SB-20-2, SB-20-3;
+5;MF/SB;Historija;H;8;HIP24;Velika svjetska gospodarska kriza (1929.-1933.);Ne;;Ne;;Ne;;;1;"MF-26-1, MF-29-2, MF-30-1
+";;0;;;0;;;1;MF-28-1, MF-29-1, SB-28-1, SB-29-1, SB-29-2;
+6;MF/SB;Historija;H;8;HIP24;Događaji u sovjetskoj Rusiji;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+7;MF/SB;Historija;H;8;HIP24;Fašizam u Italiji ;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+8;MF/SB;Historija;H;8;HIP24;Pojava i pobjeda nacizma u Njemačkoj i militarizma Japanu ;Ne;;Ne;;Ne;;;0;MF-41-1, MF-43-1, MF-44-1, SB-41, SB-44;;2;;;0;;;0;;
+9;MF/SB;Historija;H;8;HIP24;Hrvatska u sastavu Države Slovenaca, Srba i Hrvata;Ne;;Ne;;Ne;;;2;MF-48-1 ;;2;;;0;;SB-191;0;;
+10;MF/SB;Historija;H;8;HIP24;Kraljevstvo Srba, Hrvata i Slovenaca;Ne;;Da;sloboda MF-50-1;Da;tradicija, teritorij MF-50-1 ;relativizacija;0;MF-51-1 ;;2;;;2;;;0;;
+11;MF/SB;Historija;H;8;HIP24;Gubitak dijelova hrvatskog područja;Ne;;Ne;;Ne;;;0;MF-55-1 ;;2;;;0;;;0;;
+12;MF/SB;Historija;H;8;HIP24;Kraljevina Srba, Hrvata i Slovenaca;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+13;MF/SB;Historija;H;8;HIP24;Obračun s političkim neistomišljenicima;Ne;;Ne;;Ne;;;2;MF-59-1;;2;;;0;;;0;;
+14;MF/SB;Historija;H;8;HIP24;Hrvatski narod u otporu šestosječanjskoj diktaturi;Ne;;Da;"sloboda MF-61-1, život MF-62-1
+";Da;simboli MF-61-2;relativizacija MF-61-2;0;MF-63-1;;2;;;2;  ;SB-60, SB-61, SB-62;0;;
+15;MF/SB;Historija;H;8;HIP24;Hrvatsko gospodarstvo između dvaju svjetskih ratova;Ne;;Ne;;Ne;;;2;;;2;;;1;SB-65, SB-66;;0;;
+16;MF/SB;Historija;H;8;HIP24;Otpori Diktaturi i rješavanje hrvatskog pitanja;Ne;;Da;"saradnja MF-67-1, sloboda MF-68-1
+";Da;simboli MF-68-2;;0;"MF-70-1, SB-70
+";;2;;;0;;;0;;MF-69-1
+17;MF/SB;Historija;H;8;HIP24;Znanost i kultura u svijetu u prvoj polovici 20. stoljeća ;Ne;;Ne;;Ne;;;0;MF-77-1, SB-77;;2;;;0;;;0;;
+18;MF/SB;Historija;H;8;HIP24;Znanost, kultura i sport u Hrvatskoj između dvaju ratova;Ne;;Ne;;Ne;;;1;"MF- 86-1 
+
+";;2;;;0;;;0;;
+19;MF/SB;Historija;H;8;HIP24;Svijet u novom svjetskom ratu;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+20;MF/SB;Historija;H;8;HIP24;Slom Kraljevine Jugoslavije;Ne;;Da;"sloboda MF-98-1
+";Da;porijeklo, teritorij MF-97-1;insinuacija;0;MF-102-1;;2;;;0;;;0;;
+21;MF/SB;Historija;H;8;HIP24;Početne ratne godine u Hrvatskoj;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+22;MF/SB;Historija;H;8;HIP24;Antifašistička koalicija i nastavak rata;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+23;MF/SB;Historija;H;8;HIP24;Na raskrižju Drugoga svjetskog rata;Ne;;Da;život, jednakost MF-115-1, MF-117-1;Ne;;;2;;;2;;;0;;;0;;
+24;MF/SB;Historija;H;8;HIP24;Prilike u Jugoslaviji pred kraj rata;Ne;;Ne;;Ne;;;2;MF-120-1 ;;2;;;0;;;2;;MF-122-1, MF-122-2
+25;MF/SB;Historija;H;8;HIP24;Kraj rata u Evropi i svijetu;Ne;;Da;život MF-126-1;Ne;;;0;MF-125-1;;2;;;0;;;0;;
+26;MF/SB;Historija;H;8;HIP24;Kraj rata u Hrvatskoj;Ne;;Da;život MF-130-1, MF-132-2, MF-133-1;Ne;;;1;MF-132-1, MF-133-2, MF-134-1, SB-133, SB-134;;0;;;1;SB-133;;0;;
+27;MF/SB;Historija;H;8;HIP24;Svijet nakon Drugoga svjetskoga rata;Ne;;Da;"mir MF-138-1, sloboda, jednakost MF-138-2, odgovornost MF-139-1
+";Ne;;;1;MF-138-3;;0;;;0;;;0;;
+28;MF/SB;Historija;H;8;HIP24;Lokalni ratovi i političke krize;Ne;;Da;jednakost SB-146-1;Ne;;;0;MF-146-1;;2;;;0;;;1;SB-146-1;
+29;MF/SB;Historija;H;8;HIP24;Svršetak hladnog rata i pad komunizma;Ne;;Da;mir MF-153-1;Da;pobožnost MF-153-1;relativizacija;0;MF-154-1 ;;2;;;0;;;0;;
+30;MF/SB;Historija;H;8;HIP24;Procesi dekolonizacije svijeta;Ne;;Da;sloboda MF-159-1, jednakost MF-159-2, MF-159-3, MF-161-1;Ne;;;0;MF-159-3;;2;;;0;;;0;;
+31;MF/SB;Historija;H;8;HIP24;Nastanak novih država;Ne;;Da;mir, jednakost MF-163-1;Ne;;;1;MF-164-1, SB-164;;2;;;0;;;2;;SB-160-1, SB-160-2
+32;MF/SB;Historija;H;8;HIP24;Federativna Narodna Republika Jugoslavija;Ne;;Ne;;Ne;;;0;MF-170-1;;2;;;0;"
+";SB-169, SB-170;2;;
+33;MF/SB;Historija;H;8;HIP24;Od ZAVNOH-a do Hrvatskog sabora;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+34;MF/SB;Historija;H;8;HIP24;Sukob sa SSSR-om;Ne;;Ne;;Ne;;;1;MF-174-1, SB-174;;0;;;0;;;0;;
+35;MF/SB;Historija;H;8;HIP24;Socijalistička Federativna Republika Jugoslavija ;Ne;;Da;jednakost MF-177-2;Da;jezik, tradicija MF-177-1, MF-178-1;mistifikacija;0;MF-177-1, MF-179-1, MF-182-1;;2;;;0;;;0;;
+36;MF/SB;Historija;H;8;HIP24;Raspad SFRJ;Ne;;Da;sloboda, jednakost MF-190-1;Da;simboli MF-190-2;ignorancija;0;MF-187-1;;2;;;0;;SB-191;2;;
+37;MF/SB;Historija;H;8;HIP24;Pobuna Srba u Hrvatskoj;Ne;;Da;mir SB-197-1;Da;porijeklo, teritorij SB-197 ;relativizacija;0;MF-197-2;;2;;;0;;;0;;
+38;MF/SB;Historija;H;8;HIP24;Od međunarodnog priznanja do pobjede u domovinskom ratu;Ne;;Ne;;Ne;;;2;;;2;;;0;;;2;MF-210-1;MF-203-1, MF-203-2
+39;MF/SB;Historija;H;8;HIP24;Posljedice domovinskog rata;Ne;;Da;život MF-212-1, MF-215-1, odgovornost SB-213;Ne;;;0;MF-214-1, SB-214;;2;;;1;MF-213-1, SB-212-1, SB-212-2;;0;;
+40;MF/SB;Historija;H;8;HIP24;Bosna i Hercegovina – samostalna država;Ne;;Ne;;Ne;;;0;MF-219-1, MF-220-1;;2;;;0;;;0;;
+41;MF/SB;Historija;H;8;HIP24;Svijet pred kraj 20. Stoljeća;Ne;;Da;"saradnja MF-224-1, život MF-227-1, jednakost MF-228-1
+";Ne;;;2;;;2;;;0;;;1;SB-227;
+42;MF/SB;Historija;H;8;HIP24;Razvoj i promjene u društvu;Ne;;Da;jednakost SB-230-1, SB-231-2;Ne;;;0;MF-236-1;;2;;;0;;;1;SB-231-3;
+43;MF/SB;Historija;H;8;HIP24;Hrvatska kultura, znanost i sport u Hrvatskoj i BiH u drugoj polovici 20. stoljeća;Ne;;Ne;;Ne;;;1;MF-236-2, SB-236-1, SB-236-2;;2;;;0;;;0;;
+1;ER/SB;Historija;H;6;HIP16;UVOD U POVIJESNU ZNANOST, OSNOVE POVIJESTI;Ne;;Da;tolerancija SB-9;Da;teritorij SB-9;;0;ER-8-1;;2;;;0;;ER-9-1;0;;
+2;ER/SB;Historija;H;6;HIP16;KAKO SAZNAJEMO O PROŠLOSTI;Ne;;Ne; ;Ne;;;0;ER-12-1, ER-12-2;;2;;;0;;;0;ER-11-1, ER-11-2;
+3;ER/SB;Historija;H;6;HIP16;ŽIVOT I KULTURA LJUDI U PRAPOVIJESNO DOBA;Ne;;Ne;;Ne;;;0;ER-19-1 ;;2;;;0;;;2;"ER-16-1, ER-16-2, ER-18-2, ER-19-2
+";"SB-17-1, SB-17-2, SB-18-1, SB-19-1, SB-19-2
+"
+4;ER/SB;Historija;H;6;HIP16;NAJSTARIJI ŽITELJI U BOSNI I HERCEGOVINI I OKRUŽENJU;Ne;;Ne;;Ne;;;0;ER-21-1, ER-22-1;;0;ER-21-1;;0;;;0;;
+5;ER/SB;Historija;H;6;HIP16;METALNO DOBA;Ne;;Ne;;Ne;;;0;ER-26-1;;2;;;0;;;2;;SB-25-1, SB-25-2
+6;ER/SB;Historija;H;6;HIP16;NARODI STAROG ISTOKA, DOLINE VELIKIH RIJEKA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+7;ER/SB;Historija;H;6;HIP16;GOSPODARSTVO, KULTURA I RELIGIJA U MEZOPOTAMIJI;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+8;ER/SB;Historija;H;6;HIP16;DOLINA NILA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+9;ER/SB;Historija;H;6;HIP16;GOSPODARSTVO, KULTURA I RELIGIJA U EGIPTU;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-41-1;SB-40-1, SB-40-2
+10;ER/SB;Historija;H;6;HIP16;INDIJSKA I KINESKA CIVILIZACIJA U STAROM VIJEKU;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-44-1 ;
+11;ER/SB;Historija;H;6;HIP16;OSTALE CIVILIZACIJE STAROGA ISTOKA;Ne;;Ne;;Ne;;;2;;;2;;;0;ER-49-1, ER-49-2;;0;"ER-49-1, ER-49-2
+";SB-49-1, SB-49-2
+12;ER/SB;Historija;H;6;HIP16;CIVILIZACIJE IRANSKOG VISOČIJA;Ne;;Ne;;Ne;;;0;ER-53-1;;2;;;0;;;0;ER-52-1;
+13;ER/SB;Historija;H;6;HIP16;STARA GRČKA, NAJSTARIJE RAZDOBLJE GRČKE POVIJESTI;Ne;;Ne;;Ne;;;0;;;2;;;0;ER-60-3, ER-61-1;;0;ER-58-1, ER-59-2, ER-60-1, ER-60-2, ER-60-3, ER-61-1;
+14;ER/SB;Historija;H;6;HIP16;NASELJAVANJE GRKA NA OBALE SREDOZEMLJA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-63-2;
+15;ER/SB;Historija;H;6;HIP16;ATENSKA DEMOKRACIJA, VRIJEME GRADOVA – DRŽAVA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;"ER-68-2 
+";SB-68
+16;ER/SB;Historija;H;6;HIP16;HEROJSKO DOBA GRČKE POVIJESTI;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-69-1 ;
+17;ER/SB;Historija;H;6;HIP16;GRČKO-PERZIJSKI RATOVI;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+18;ER/SB;Historija;H;6;HIP16;PERIKLOVO DOBA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+19;ER/SB;Historija;H;6;HIP16;SUKOB MEĐU GRCIMA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-76-1 ;
+20;ER/SB;Historija;H;6;HIP16;GRČKA KULTURA I ZNANOST;Ne;;Ne;;Ne;;;2;;ER-81-1;2;;;0;;;0;;
+21;ER/SB;Historija;H;6;HIP16;HELENIZAM, USPON MAKEDONIJE;Ne;;Da;saradnja ER-86-1, ER-87-1;Ne;;;0;ER-85, ER-86-3;;2;;;0;;;0;"ER-84-1
+";SB-84, SB-87
+22;ER/SB;Historija;H;6;HIP16;POČECI RIMA, PRASTANOVNICI APENINSKOG POLUOTOKA;Ne;;Da;saradnja ER-94-1, ER-95-2, ER-96-2;Ne;;;2;;;2;;;0;;;0;ER-95-1;
+23;ER/SB;Historija;H;6;HIP16;POSTANAK GRADA RIMA;Ne;;Ne;;Ne;;;0;;;2;;;0;ER-98-1, ER-98-2;;0;ER-98-1, ER-98-2;
+24;ER/SB;Historija;H;6;HIP16;OSNIVANJE RIMSKE DRŽAVE;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-100-1;
+25;ER/SB;Historija;H;6;HIP16;OBIČAJI I VJERA STARIH RIMLJANA;Ne;;Ne;;Ne;;;0;ER-103-1, SB-103;;2;;;0;;;0;ER-102-1;
+26;ER/SB;Historija;H;6;HIP16;REPUBLIKA I CARSTVO;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-106-1;
+27;ER/SB;Historija;H;6;HIP16;USTROJ RIMSKE VOJSKE I OSVAJANJE APENINSOG POLUOTOKA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-112-1;
+28;ER/SB;Historija;H;6;HIP16;RIMLJANI OSVAJAJU SREDOZEMLJE;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+29;ER/SB;Historija;H;6;HIP16;ŽIVOT I USTROJ RIMSKIH PROVINCIJA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-116-1;
+30;ER/SB;Historija;H;6;HIP16;SUPROTNOSTI I GRAĐANSKI RATOVI U RIMSKOM DRUŠTVU;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+31;ER/SB;Historija;H;6;HIP16;PRVI I DRUGI TRIUMVIRAT;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+32;ER/SB;Historija;H;6;HIP16;KRAJ REPUBLIKE I POČETAK CARSTVA;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+33;ER/SB;Historija;H;6;HIP16;AUGUSTOVI NASLJEDNICI;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+34;ER/SB;Historija;H;6;HIP16;DOBA USPOSTAVE RIMSKOG CARSTVA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;ER-130-1
+35;ER/SB;Historija;H;6;HIP16;POSLJEDNJI VELIKI CAREVI I PREOBRAZBA CARSTVA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+36;ER/SB;Historija;H;6;HIP16;KULTURA I SVAKODNEVNI ŽIVOT U RIMSKOM CARSTVU;Ne;;Ne;;Ne;;;0;ER-137-1, SB-137-1, SB-137-2;;2;;;0;;;0;;
+37;ER/SB;Historija;H;6;HIP16;ANTIČKO DOBA NAPROSTORIMA BIH, HRVATSKE, SRBIJE I CRNE GORE, RIMLJANI OSVAJAJU ILIRIK;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-142-1, ER-143-1;
+38;ER/SB;Historija;H;6;HIP16;RIMSKE POKRAJINE NA DANAŠNJEM PROSTORU BIH, HRVATSKE, SRBIJE I CRNE GORE;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+39;ER/SB;Historija;H;6;HIP16;POJAVA KRŠĆANSTVA, POČECI I ŠIRENJE KRŠĆANSTVA;Ne;;Da;jednakost ER-153-1, ER-154-1, SB-153;Ne;;;2;;;2;;;0;;;0;ER-153-2;
+40;ER/SB;Historija;H;6;HIP16;PROGONI KRŠĆANA I POBJEDA KRŠĆANSTVA;Ne;;Da;jednakost ER-155-1;Da;pobožnost;ignorancija, redukcija;2;;ER-155-2, ER-156-2, ER-157-1;2;;;2;;ER-156-1;2;"
+";SB-155-1, SB-155-2
+41;ER/SB;Historija;H;6;HIP16;VELIKA SEOBA NARODA, GERMANI I HUNI;Ne;;Ne;;Ne;;;2;ER-162-1;;2;;;0;;;0;;
+42;ER/SB;Historija;H;6;HIP16;PAD ZAPADNOG RIMSKOG CARSTVA;Ne;;Ne;;Ne;;;0;;;2;;;2;"
+";ER-166-1, ER-164-1;0;;ER-164-1, SB-164
+43;ER/SB;Historija;H;6;HIP16;SEOBE SLAVENA I AVARA;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;"ER-167-1
+
+";SB-167-1, SB-168
+1;MF/SB;Historija;H;6;HIP14;Šta je povijest? Zašto povijest. ;Ne;;Ne;;Ne;;;1;"MF-13-2, MF-14-1, MF-15-1, MF-15-3, MF-12-1, MF-12-2, SB-12-1, SB-12-2, SB-14-1, SB-14-2, SB-14-3, SB-15-1, SB-15-2 
+
+";;0;;;1;MF-14-1, MF-14-2, MF-14-3 ;;1;MF-13-1;
+2;MF/SB;Historija;H;6;HIP14;Snalaženje u prošlosti;Ne;;Ne;;Ne;;;1;MF-19-1, SB-18, SB-19;;0;;;1;MF-18-1;;0;;
+3;MF/SB;Historija;H;6;HIP14;Kameno doba ;Ne;;Da;saradnja MF-25-1, MF-26-1, MF-31-1;Ne;;;1;"MF-22-1, MF-23-1, MF-23-2, MF-24-1, MF-25-2, MF-26-2, MF-27-1, MF-28-1, MF-29-1, SB-23-1, SB-23-3
+";;0;;;0;;;2;"
+";SB-26-1, SB-26-2 
+4;MF/SB;Historija;H;6;HIP14;Metalno doba ;Ne;;Ne;;Ne;;;1;MF-32-1, MF-33-1, MF-37-1, SB-37 ;;2;;;0;;;0;;
+5;MF/SB;Historija;H;6;HIP14;Prošlost u sadašnjosti – prijedlog za razrednu diskusiju;Ne;;Ne;;Ne;;;1;MF-39-1, SB-39;;0;;;1;;;1;"SB-38, SB-39-1, SB-39-2
+";
+6;MF/SB;Historija;H;6;HIP14;Prvi gradovi - države;Ne;;Da;saradnja MF-47-1;Ne;;;1;"MF-47-2, SB-48, SB-49 
+";;0;MF-44-1, MF-45-1, MF-45-2, MF-48-1, MF-48-2 ;;0;;;0;;
+7;MF/SB;Historija;H;6;HIP14;Egipat – bogovi, grobovi, ljudi;Ne;;Da;saradnja MF-53-1;Ne;;;1;MF-50-1, MF-52-1, MF-57-1, MF-60-1, MF-62-1, MF-62-2, SB-53, SB-57, SB-60-1;;1;MF-53-2, MF-59-1, SB-50;;0;;;0;;
+8;MF/SB;Historija;H;6;HIP14;Babilonija i Asirija;Ne;;Da;odgovornost MF-64-1;Ne;;;1;MF-65-2, SB-64;;0;MF-63-1;;0;;;0;;
+9;MF/SB;Historija;H;6;HIP14;Feničani – narod trgovaca;Ne;;Ne;;Ne;;;0;MF-67-1;;2;;;0;;;0;;
+10;MF/SB;Historija;H;6;HIP14;Narod knjige - Židovi;Ne;;Ne;;Ne;;;1;MF-68-1, MF-69-1, MF-69-2, SB-69;;0;;;0;;;0;;
+11;MF/SB;Historija;H;6;HIP14;Perzija;Ne;;Ne;;Ne;;;1;MF-70-1, MF-71-1, MF-71-2, MF-73-1, SB-73;;0;;;0;;;0;;
+12;MF/SB;Historija;H;6;HIP14;Indija i Kina;Ne;;Da;jednakost MF-75-1, MF-76-1, saradnja MF-76-2, mir SB-76;Ne;;;1;MF-77-1 ;;2;;;0;;;0;;
+13;MF/SB;Historija;H;6;HIP14;Egejske kulture - Kreta;Ne;;Ne;;Ne;;;1; MF-81-1, MF-82-1, MF-83-1, MF-84-1, MF-85-1, MF-852;;0;;;0;;;0;;
+14;MF/SB;Historija;H;6;HIP14;Mikena i Troja;Ne;;Ne;;Ne;;;1;MF-86-1, MF-88-1, MF-88-2, SB-88;;0;MF-86-1, MF-87-1;;0;;;0;;
+15;MF/SB;Historija;H;6;HIP14;Grčki gradovi - države;Ne;;Da;"saradnja, sloboda MF-90-1 
+";Ne;;;1;"MF-91-1, MF-92-3
+";;0;MF-92-1, MF-92-2;;0;;;1;;
+16;MF/SB;Historija;H;6;HIP14;Bogatstvo razlika:Sparta i Atena ;Ne;;Da;jednakost MF-95-1;Ne;;;1;MF-93-1, MF-94-1, MF-96-1, MF-97-1, SB-93, SB-97;;0;SB-97;;0;;;1;SB-94;
+17;MF/SB;Historija;H;6;HIP14;Grčko-perzijski ratovi;Ne;;Da;mir, saradnja MF-101-1;Ne;;;1;MF-99-1, MF-101-2, SB-99 ;;0;;;0;;;0;;
+18;MF/SB;Historija;H;6;HIP14;Atena – vrhunac klasičkog doba ;Ne;;Da;"saradnja, odgovornost MF-103-1, jednakost MF-103-2
+";Ne;;;1;MF-103-2, MF-104-1, MF-106-1, MF-107-1, SB-103, SB-107;;0;MF-103-3, MF-107-2;;0;;;0;;
+19;MF/SB;Historija;H;6;HIP14;Grčki bogovi s ljudskim licem;Ne;;Ne;;Ne;;;1;MF-109-1, MF-111-1, MF-111-2, SB-109, SB-111;;2;;;0;;;0;;
+20;MF/SB;Historija;H;6;HIP14;Peloponeski rat;Ne;;Da;mir MF-113-1;Ne;;;1;MF-113-3, SB-113;;0;MF-113-2 ;;0;;;0;;
+21;MF/SB;Historija;H;6;HIP14;Uspon Makedonije;Ne;;Ne;;Ne;;;0;"MF-115-1, MF-118-1
+";;0;;;0;;;0;;
+22;MF/SB;Historija;H;6;HIP14;Helenistička kultura i umjetnost;Ne;;Ne;;Ne;;;0;MF-121-1, MF-121-2, MF-121-3, MF-121-4;;0;;;0;;;0;;
+23;MF/SB;Historija;H;6;HIP14;Apeninski poluotok – prostor i narodi;Ne;;Ne;;Ne;;;1;MF-125-1, MF-124-1, MF-127-2, MF-127-3;;0;;;0;;;0;;
+24;MF/SB;Historija;H;6;HIP14;Osnutak Rima – legenda i povijest;Ne;;Ne;;Ne;;;1;MF-130-1, SB-130;;0;;;0;;;1;;
+25;MF/SB;Historija;H;6;HIP14;Stanovništvo, vjera, graditeljstvo;Ne;;Da;odgovornost MF-131-2;Ne;;;1;MF-135-1, MF-135-2, SB-135;;0;"MF-133-1, MF-135-2
+";;0;;;0;;
+26;MF/SB;Historija;H;6;HIP14;Rimska republika – početak osvajanja;Ne;;Ne;;Ne;;;1;MF-136-1, MF-140-1, MF-141-1, SB-138;;0;;;0;;;0;;
+27;MF/SB;Historija;H;6;HIP14;Život u rimskoj obitelji;Ne;;Ne;;Ne;;;1;"MF-142, MF-144-1, MF-144-2 
+";;0;;;0;;;0;;
+28;MF/SB;Historija;H;6;HIP14;Bogatiji sve bogatiji – siromašniji sve siromašniji;Ne;;Ne;;Ne;;;1;MF-145-1, MF-147-1;;0;;;0;;;1;SB-145;
+29;MF/SB;Historija;H;6;HIP14;Vojni sukobi u društvu: Građanski ratovi;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+30;MF/SB;Historija;H;6;HIP14;Od republike do carstva;Ne;;Ne;;Ne;;;1;MF-152-1, SB-152;;2;;;0;;;0;;
+31;MF/SB;Historija;H;6;HIP14;August – zlatno doba Rima;Ne;;Da;mir MF-153-1, SB-153;Ne;;;0;MF-156-1  ;;2;;;0;;;0;;
+32;MF/SB;Historija;H;6;HIP14;Razvoj Carstva;Ne;;Ne;;Ne;;;2;SB-160;;2;;;0;;;0;;
+33;MF/SB;Historija;H;6;HIP14;Posljednji veliki carevi;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+34;MF/SB;Historija;H;6;HIP14;"Prostor BiH i Hrvatske u antičko doba
+Tragovi rimske uprave na tlu današnje BiH
+";Ne;;Ne;;Ne;;;1;MF-164-2, MF-169-1, SB-164, SB-169-2 ;;0;"MF-164-1, MF-169-1 
+";;0;;;0;;
+35;MF/SB;Historija;H;6;HIP14;Kršćanstvo – nova svjetska religija;Ne;;Da;jednakost MF-171-1, saradnja MF-172-1;Ne;;;0;MF-173-1, MF-174-1;;2;;;0;;;1;SB-174;
+36;MF/SB;Historija;H;6;HIP14;Seoba naroda – kraj antike;Ne;;Ne;;Ne;;;1;MF-180-1, SB-180;;2;;;0;;;1;SB-177, SB-180 ;
+37;MF/SB;Historija;H;6;HIP14;Propast Zapadnog rimskog carstva;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+38;MF/SB;Historija;H;6;HIP14;Istočno rimsko carstvo ili Bizant;Ne;;Ne;;Ne;;;1;SB-187;;2;;;0;;;1;SB-187;
+1;ER/MF;Historija;B;6;HIP1;Prošlost i sadašnjost;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+2;ER/MF;Historija;B;6;HIP1;Računanje vremena;Ne;;Da;saradnja, solidarnost ER-10;Ne;;;1;ER-10-1, ER-11-1, ER-11-2, MF-11-1;;2;;;0;;;0;ER-10-2, ER-10-3;
+3;ER/MF;Historija;B;6;HIP1;Život ljudi u najstarije doba;Ne;;Da;"jednakost ER-16-1
+";Ne;;;2;;;2;;ER-16-3;1;ER-13-1, MF-13-1;;0;ER-13-1;
+4;ER/MF;Historija;B;6;HIP1;Vjerovanje ljudi kamenog doba;Ne;;Ne;;Ne;;;2;;;2;;ER-18-1;0;;;0;ER-17-1;
+5;ER/MF;Historija;B;6;HIP1;Ljudi metalnog doba;Ne;;Ne;;Ne;;;2;;;2;;ER-20-2;0;;;0;;
+6;ER/MF;Historija;B;6;HIP1;Područje današnje Bosne i Hercegovine u prethistoriji;Ne;;Ne;;Ne;;;2;;;2;;ER-22-2;0;;;0;;
+7;ER/MF;Historija;B;6;HIP1;Egipat;Ne;;Da;"saradnja ER-25-1
+";Ne;;;2;;;2;;ER-27-1 ;0;;;0;;
+8;ER/MF;Historija;B;6;HIP1;Vjerovanje i kultura starih Egipćana;Ne;;Da;život ER-31-1, ER-31-4;Ne;;;2;;;2;;ER-31-3;0;;;2;;ER-28-1
+9;ER/MF;Historija;B;6;HIP1;Civilizacija stare Mezopotamije;Ne;;Da;sloboda, solidarnost ER-32-2, život ER-34-2, ER-34-3, ER-33-2;Ne;;;2;;;2;;ER-35-1;0;;;0;"
+";ER-33-3
+10;ER/MF;Historija;B;6;HIP1;Posrednici između Istoka i Zapada;Ne;;Da;"saradnja ER-36-1, ER-36-3, ER-38-1, život ER-38-2
+";Ne;;;2;;;2;;;0;ER-36-2;;0;;
+11;ER/MF;Historija;B;6;HIP1;Grčka – zemlja i more. Seoba grčkih plemena;Ne;;Da;mir ER-41-1, ER-40-3;Ne;;;2;;;2;;ER-41-2;0;ER-40-2;;0;;
+12;ER/MF;Historija;B;6;HIP1;Homerski svijet bogova i ljudi;Ne;;Ne;;Ne;;;2;;;2;;ER-43-1;0;ER-43-1;;0;;
+13;ER/MF;Historija;B;6;HIP1;Grčki polis, velika grčka kolonizacija;Ne;;Da;"mir ER-44-2, ER-45-1, saradnja ER-44-1, ER-45-2, jednakost ER-44-3
+";Da;porijeklo ER-44-1, patrijarhat ER-44-3;redukcija;2;;;2;"
+";;0;;;0;;
+14;ER/MF;Historija;B;6;HIP1;Atina;Ne;;Da;mir ER-47-4, saradnja ER-47-2, sloboda ER-47-1, solidarnost ER-46-1, ER-46-2, jednakost ER-46-3, ER-46-4, ER-46-5;Da;porijeklo ER-47-3;"redukcija ER-47-3, ER-47-5
+
+";2;;;2;;ER-48-1;2;;ER-47-1, ER-47-3;0;;
+15;ER/MF;Historija;B;6;HIP1;Život i kultura starih Grka;Ne;;Da;"saradnja ER-49-1, ER-50-2, solidarnost ER-49-2, ER-49-4, ER-50-1, život ER-50-2, odgovornost ER-51-2
+";Ne;;;2;;;2;;ER-51-1;0;;;0;;
+16;ER/MF;Historija;B;6;HIP1;Grčka pod makedonskom vlašću;Ne;;Da;"mir ER-52-1, ER-52-2, sloboda ER-52-1, solidarnost ER-52-1, jednakost ER-53-2, saradnja ER-54-2, ER-54-3
+";Da;porijeklo, teritorij ER-52-1;redukcija;2;;;2;;ER-54-4;2;;;0;ER-52-3;
+17;ER/MF;Historija;B;6;HIP1;Rim  - zemlja i stanovništvo;Ne;;Da;saradnja ER-56-3, ER-57-1;Ne;;;2;;;2;;;0;;;0;;
+18;ER/MF;Historija;B;6;HIP1;Doba kraljeva, Rimska republika;Ne;;Da;solidarnost ER-58-1, ER-60-3, ER-60-4, jednakost ER-58-3, ER-60-1, ER-60-2, sloboda ER-59-1;Ne;;;2;;;2;;;0;;;0;ER-58-2;
+19;ER/MF;Historija;B;6;HIP1;Prodor Rima na Sredozemno more;Da;rat ER-62-2;Da;saradnja ER-62-1;Da;porijeklo ER-62-1 ;;2;;;2;;ER-63-3;0;;;0;;
+20;ER/MF;Historija;B;6;HIP1;Život i vjerovanje starih Rimljana;Ne;;Da;solidarnost ER-65-1, ER-65-4, sloboda ER-65-2, život ER-64-2;Ne;;;2;;;2;;;0;;;0;"ER-64-1, ER-64-2, ER-65-3
+";
+21;ER/MF;Historija;B;6;HIP1;Kraj Rimske republike;Ne;;Da;"jednakost ER-66-2, ER-66-5, sloboda ER-66-3, solidarnost ER-66-4
+";Ne;;;2;;;2;;ER-67-2;0;;;0;;
+22;ER/MF;Historija;B;6;HIP1;Rimsko Carstvo. Kršćanstvo;Ne;;Da;"sloboda ER-69-1, ER-69-4, ER-69-5, ER-70-4, saradnja ER-70-1, solidarnost ER-70-3
+";Ne;;;2;;;2;;;0;;ER-68-1;0;"ER-69-2, ER-70-5
+";
+23;ER/MF;Historija;B;6;HIP1;Rimska kultura;Ne;;Da;"saradnja ER-73-2, solidarnost ER-73-3
+";Ne;;;2;;;2;;ER-73-4;0;;;0;;
+24;ER/MF;Historija;B;6;HIP1;Antička kultura na prostoru današnje Bosne i Hercegovine;Ne;;Da;saradnja ER-74-1, ER-75-2;Ne;;;2;;;2;;ER-76-1;0;;;0;;
+1;SB/ER;Historija;S;9;HIP13;EVROPA I SVIJET U DRUGOJ POLOVINI XIX I POČETKOM XX VIJEKA/PROMJENE U PRIVREDI I DRUŠTVU KRAJEM XIX I POČETKOM XX VIJEKA;Ne;;Da;jednakost ER-12-4;Ne;;;1;SB-11, SB-12;;0;;;0;;;0;ER-12-4;
+2;SB/ER;Historija;S;9;HIP13;MEĐUNARODNI ODNOSI KRAJEM XIX I POČETKOM XX VIJEKA;Ne;;Ne;;Ne;;;1;SB-18-1, SB-18-2;;0;;;0;;;0;;
+3;SB/ER;Historija;S;9;HIP13;RAZVOJ NAUKE I TEHNIKE;Ne;;Ne;;Ne;;;0;SB-20;;0;;;0;;;0;;
+4;SB/ER;Historija;S;9;HIP13;BALKANSKE ZEMLJE I MEĐUNARODNI ODNOSI KRAJEM XIX I POČETKOM XX VIJEKA/SRBIJA OD 1878. DO 1912. GODINE;Ne;;Ne;;Ne;;;1;SB-26, SB-29, SB-30;;0;;;0;;;1;SB-27, SB-32-2;
+5;SB/ER;Historija;S;9;HIP13;CRNA GORA U DRUGOJ POLOVINI XIX I POČETKOM XX VIJEKA;Ne;;Ne;;Ne;;;0;SB-33;;2;;;0;;ER-35-1;1;"SB-35, SB-36, ER-34-1
+";
+6;SB/ER;Historija;S;9;HIP13;AUSTRO-UGARSKA NAGODBA I POLOŽAJ POTČINJENIH NARODA U AUSTRIJI I UGARSKOJ;Ne;;Ne;;Ne;;;1;SB-37-1, SB-37-2, ER-37-2;;0;;;0;;ER-37-1;0;;ER-38-1, ER-38-2
+7;SB/ER;Historija;S;9;HIP13;BOSNA I HERCEGOVINA POD AUSTROUGARSKOM VLAŠĆU;Ne;;Ne;;Ne;;;0;"SB-41
+";;2;;;2;; ER-41-1, ER-42-3, ER-44-2, ER-45-1;2;;
+8;SB/ER;Historija;S;9;HIP13;BALKANSKI RATOVI;Ne;;Da;"sloboda SB-48-2, SB-49-1, ER-48-1
+";Ne;;;0;"SB-46
+";;2;;;2;;ER-46-1, ER-48-1, ER-49-1, ER-49-2 ;0;;ER-46-1, ER-48-1, ER-49-1, ER-49-2
+9;SB/ER;Historija;S;9;HIP13;PRVI SVJETSKI RAT;Ne;;Ne;;Ne;;;1;"SB-57, SB-60-1, SB-62, ER-55-1, ER-57-1, ER-60-1, ER-62-1, ER-62-2
+";;0;;;0;;;0;;
+10;SB/ER;Historija;S;9;HIP13;SRBIJA I CRNA GORA U PRVOM SVJETSKOM RATU;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;ER-66-1
+11;SB/ER;Historija;S;9;HIP13;SRBI U BIH I PRVI SVJETSKI RAT;Ne;;Ne;;Ne;;;1;SB-68, SB-70-1, ER-68-1, ER-70-1;;0;;;2;;;0;;
+12;SB/ER;Historija;S;9;HIP13;STVARANJE KRALJEVINE SHS;Da;pluralizamkaoproblem SB-75;Ne;;Ne;;;0;;;2;;;0;;;0;"ER-74-2
+";ER-73-1, ER-75-1
+13;SB/ER;Historija;S;9;HIP13;SVIJET I EVROPA;Ne;;Ne;;Ne;;;0;ER-80-3;;0;;;0;;;0;;
+14;SB/ER;Historija;S;9;HIP13;UZROCI POJAVA NOVIH IDEOLOGIJA (KOMUNIZAM, FAŠIZAM I NACIZAM);Ne;;Da;"solidarnost ER-83-1, ER-84-1
+";Ne;;;1;SB-86-1, ER-83-2;;2;;;0;"ER-83-3
+";ER-83-2;0;;
+15;SB/ER;Historija;S;9;HIP13;EKONOMSKA KRIZA I PRIVREDNI RAZVOJ;Ne;;Da;solidarnost ER-87-1, ER-87-3;Ne;;;0;;;2;;;0;;;0;;
+16;SB/ER;Historija;S;9;HIP13;KA DRUGOM SJVETSKOM RATU;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;ER-90-1, ER-90-2;
+17;SB/ER;Historija;S;9;HIP13;RAZVOJ NAUKE, TEHNIKE I KULTURE;Ne;;Ne;;Ne;;;0;;ER-93-1;2;;;0;;;0;;
+18;SB/ER;Historija;S;9;HIP13;KRALJEVINA SHS (1918 – 1929);Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;ER-97-1
+19;SB/ER;Historija;S;9;HIP13;JUGOSLAVIJA (1929 – 1939);Ne;;Ne;;Ne;;;0; ;ER-101-1, ER-103-2;2;;;0;;ER-103-1;0;"ER-100-1, ER-100-2
+";ER-100-3
+20;SB/ER;Historija;S;9;HIP13;DRŽAVNO-PRAVNO UREĐENJE KRALJEVINE JUGOSLAVIJE;Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-107-1, ER-107-2, ER-107-3;2;;
+21;SB/ER;Historija;S;9;HIP13;PRVA FAZA RATA (OD SEPTEMBRA 1939. DO JUNA 1941);Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+22;SB/ER;Historija;S;9;HIP13;DRUGA FAZA RATA (JUNI 1941. DO KAPITULACIJE ITALIJE 1943.);Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;ER-121-1;
+23;SB/ER;Historija;S;9;HIP13;APRILSKI RAT I PODJELA JUGOSLAVIJE;Ne;;Ne;;Ne;;;1;SB-129, ER-129-1;;0;;;0;;;2;;ER-124-2
+24;SB/ER;Historija;S;9;HIP13;RAZLIČITI PRISTUPI RATU U JUGOSLAVIJI;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-130-1, ER-131-1;2;"
+";"ER-130-1, ER-131-1, ER-132-2, ER-132-1
+"
+25;SB/ER;Historija;S;9;HIP13;RAT U JUGOSLAVIJI 1942. I 1943. GODINE;Ne;;Da;"solidarnost, život ER-136
+";Da;pobožnost ;redukcija, ignorancija;0;;;2;;;2;"
+";ER-136-1, ER-138-1, ER-141-1;2;;ER-136-1, ER--138-1, ER-136-2 koja ne radi zločine i ne sarađuju s okupatorom, a muslimanske milicije su skoro izjednačene sa ustašama.
+26;SB/ER;Historija;S;9;HIP13;TREĆA FAZA RATA (od kapitulacije Italije 1943. do kapitulacije Japana 1945.);Ne;;Da;sloboda ER-144-1, ER-144-2;Ne;;;0;;ER-147-1;2;;;0;;;0;;
+27;SB/ER;Historija;S;9;HIP13;RAT U JUGOSLAVIJI 1944-1945. GODINE;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;ER-151-1, ER-153-1
+28;SB/ER;Historija;S;9;HIP13;REZULTATI I POSLJEDICE DRUGOG SVJETSKOG RATA;Ne;;Ne;;Ne;;;0;;ER-156-1;2;;;0;;;0;;
+29;SB/ER;Historija;S;9;HIP13;POSLIJERATNI SVIJET I NJEGOVE SUPROTNOSTI;Ne;;Da;mir ER-161-1, ER-162-1;Ne;;;0;;;2;;;0;;;0;ER-162-2;
+30;SB/ER;Historija;S;9;HIP13;BLOKOVSKA PODJELA, HLADNI RAT I DEKOLONIZACIJA;Ne;;Da;"mir ER-169-1, ER-170-1, saradnja ER-170-2, ER-170-3
+";Ne;;;0;;;2;;;0;;ER-167-1;0;;
+31;SB/ER;Historija;S;9;HIP13;NAUKA I KULTURA;Ne;;Da;odgovornost SB-173, život ER-173-1, ER-173-3;Ne;;;0;;;2;;;0;;;0;;
+32;SB/ER;Historija;S;9;HIP13;SLOM SOCIJALIZMA U SSSR I EVROPI;Ne;;Ne;;Ne;;;0;;;2;;;0;;ER-179-1;0;;ER-175-1, ER-175-2
+33;SB/ER;Historija;S;9;HIP13;JUGOSLAVIJA OD 1945. DO 1947. GODINE;Ne;;Ne;;Ne;;;0;;ER-188-1;2;;;0;;;0;;ER-186-2
+34;SB/ER;Historija;S;9;HIP13;ODNOSI U JUGOSLAVIJI OD 1974. DO 1991. GODINE;Ne;;Ne;;Ne;;;0;;ER-191-1;2;;;0;;ER-189-1, ER-191-1;0;;
+35;SB/ER;Historija;S;9;HIP13;NASILNA SECESIJA I RASPAD SOCIJALISTIČKE JUGOSLAVIJE;Ne;;Ne;;Ne;;;2;;;2;;;2;;SB-193-1, SB-193-2, SB-194-2, ER-192-1, ER-192-2;0;;ER-193-1
+36;SB/ER;Historija;S;9;HIP13;RAT U BOSNI I HERCEGOVINI I NASTANAK REPUBLIKE SRPSKE;Ne;;Ne;;Ne;;;2;;;2;;;2;;ER-195-1, ER-195-2;0;ER-195-1, ER-195-2;
+37;SB/ER;Historija;S;9;HIP13;NASTANAK SAVEZNE REPUBLIKE JUGOSLAVIJE;Ne;;Ne;;Ne;;;0;;;2;;;2;;SB-196-1, SB-197-1, SB-197-2, ER-196-1;0;;ER-196-1, ER-197-1, ER-197-2
+38;SB/ER;Historija;S;9;HIP13;GLOBALIZACIJA, BALKAN I MJESTO SRBA;Ne;;Da;saradnja, solidarnost SB-201;Ne;;;0;;;2;;;0;;;0;;
+39;SB/ER;Historija;S;9;HIP13;POJAM DEMOKRATIJA I OSNOVNA LJUDSKA PRAVA;Ne;;Da;"jednakost SB-204-1, ER-202-1, ER-203-1, ER-207-1, sloboda ER-204-1, ER-205-1, ER-205-2, ER-206-1
+";Ne;;;0;;;0;str. 207, 1;;0;;;0;ER-204-2;
+1;MF/SB;Historija;B;7;HIP5;"OSNOVNA OBILJEŽJA SREDNJEG VIJEKA
+PERIODIZACIJA
+SREDNJI VIJEK (POJAM, GRANICE)
+";Ne;;Ne;;Ne;;;2;;SB-5, SB-6;2;;;2;;SB-5, SB-6;2;;SB-6
+2;MF/SB;Historija;B;7;HIP5;DRUŠTVENI ODNOSI;Ne;;Ne;;Ne;;;0;"MF-9, MF-10
+
+";;2;"
+";;2;;SB-7-1, SB-7-2, SB-7-3;2;;SB-7-1, SB-7-2, SB-7-3
+3;MF/SB;Historija;B;7;HIP5;ŽIVOT SELJAKA U SREDNJEM VIJEKU;Ne;;Ne;;Ne;;;0;MF-12;;2;;SB-12-2;2;;SB-11, SB-12;2;;MF-12, SB-11, SB-12
+4;MF/SB;Historija;B;7;HIP5;PRIVREDNA OBILJEŽJA;Ne;;Ne;;Ne;;;0;MF-14;;2;;;2;;;0;;SB-13-1, SB-13-3
+5;MF/SB;Historija;B;7;HIP5;"ZAMKOVI (UTVRĐENI DVORCI)
+(Svakodnevnica i život plemića)
+";Ne;;Da;jednakost SB-16;Ne;;;1;MF-15, MF-17-1, MF-17-2, SB-17-1;;2;;;0;;;0;;
+6;MF/SB;Historija;B;7;HIP5;KULTRNO (NARODNO) STVARALAŠTVO;Ne;;Ne;;Ne;;;1;SB-18-1;;0;;;2;;SB-18, SB-19;0;;
+7;MF/SB;Historija;B;7;HIP5;"EVROPA, BIZANT I ARAPSKI SVIJET U RANOM SREDNJEM VIJEKU,
+UZBURKANA EVROPA, VELIKA SEOBA NARODA
+";Ne;;Ne;;Ne;;;0;MF-21, MF-23;;0;;;0;;;0;"
+";
+8;MF/SB;Historija;B;7;HIP5;FRANAČKA DRŽAVA;Ne;;Da;saradnja SB-24, SB-27-2;Ne;;;1;"MF-25, MF-26, MF-28, SB-25-1, SB-28
+";;0;"
+";;2;;;0;;
+9;MF/SB;Historija;B;7;HIP5;POJAVA KRŠĆANSTVA;Ne;;Ne;;Ne;;;2;;;2;MF-31;;2;;;0;"
+";SB-30-1, SB-30-2
+10;MF/SB;Historija;B;7;HIP5;BIZANT DO XII STOLJEĆA;Ne;;Ne;;Ne;;;2;;;2;"
+";;2;;;0;;
+11;MF/SB;Historija;B;7;HIP5;ARAPSKI SVIJET I POJAVA ISLAMA;Ne;;Ne;;Ne;;;0;MF-38;;2;;;2;;;0;;
+12;MF/SB;Historija;B;7;HIP5;ARAPSKA DRŽAVA (HALIFAT);Ne;;Da;mir, tolerancija MF-41-1, MF-42-1, saradnja SB-42-1;Da;;relativizacija, insinuacija, redukcija SB-42-1, SB-42-2, SB-42-3, SB-43-1, SB-43-2, SB-43-3, SB-43-4;0;"MF-40
+";;0;MF-44-1, MF-44-2;;0;MF-47;;0;"
+
+";SB-42-1, SB-42-2, SB-42-3, SB-43-1, SB-43-2, SB-43-3, SB-43-4 
+13;MF/SB;Historija;B;7;HIP5;"EVROPSKO DRUŠTVO U RAZVIJENOM I KASNOM SREDNJEM VIJEKU, 
+OSNOVNA OBILJEŽIJA RAZVIJENOG I KASNOG FEUDALIZMA";Ne;;Ne;;Ne;;;2;;;2;"
+";;0;;;0;;
+14;MF/SB;Historija;B;7;HIP5;Postanak gradova i razvoj robno-novčane privrede;Ne;;Ne;;Ne;;;1;"MF-53-1, MF-53-2, MF-54-1, MF-54-2
+";;1;;;2;;;0;;SB-50
+15;MF/SB;Historija;B;7;HIP5;Nastanak staleških monarhija;Ne;;Ne;;Ne;;;2;;;2;"
+";;2;;;0;;
+16;MF/SB;Historija;B;7;HIP5;Društvene borbe u razvijenom feudalizmu;Ne;;Ne;;Ne;;;0;MF-59;;2;;;2;;;1;SB-56-1, SB-56-2;
+17;MF/SB;Historija;B;7;HIP5;Križarski ratovi;Ne;;Ne;;Ne;;;1;MF-63, MF-65;;0;"
+";;2;;;0;"SB-61, SB-62-1, SB-62-2, SB-63
+";SB-64-1, SB-64-2, SB-65
+18;MF/SB;Historija;B;7;HIP5;Seljački ustanci;Ne;;Da;saradnja MF-66;Ne;;;2;;;2;;;2;;;0;;
+19;MF/SB;Historija;B;7;HIP5;Sukob carstva i papstva;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+20;MF/SB;Historija;B;7;HIP5;Kultura razvijenog feudalizma;Ne;;Ne;;Ne;;;2;;;2;;;2;;;2;;SB-71
+21;MF/SB;Historija;B;7;HIP5;Dubrovačka republika;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+22;MF/SB;Historija;B;7;HIP5;Slaveni (Život u pradomovini);Ne;;Ne;;Ne;;;2;;;2;;;2;;SB-76-1;2;;SB-76-3
+23;MF/SB;Historija;B;7;HIP5;Seoba Slavena;Ne;;Ne;;Ne;;;2;"
+";;2;;;2;;;2;;SB-78-1, SB-78-2
+24;MF/SB;Historija;B;7;HIP5;Prve države Južnih Slavena;Ne;;Ne;;Ne;;;2;;;2;;;2;;;2;;SB-81-2
+25;MF/SB;Historija;B;7;HIP5;"Srednjovjekovna bosanska država
+Prvi podaci o srednjovjekovnoj Bosni";Ne;;Da;saradnja SB-84;Ne;;;2;;;2;;;2;;;0;;
+26;MF/SB;Historija;B;7;HIP5;Društveni odnosi;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+27;MF/SB;Historija;B;7;HIP5;Državna organizacija;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+28;MF/SB;Historija;B;7;HIP5;Bosna u vrijeme prvih banova;Ne;;Ne;;Ne;;;0;MF-90;;2;;;2;;;0;;
+29;MF/SB;Historija;B;7;HIP5;Vjera u srednjovjekovnoj Bosni;Ne;;Da;solidarnost ;Da;tradicija MF-92;relativizacija MF-92-1;0;MF-94;;2;;;2;;;0;;
+30;MF/SB;Historija;B;7;HIP5;Bosna u XIII stoljeću;Ne;;Ne;;Ne;;;1;MF-97;;2;;;2;;;0;;
+31;MF/SB;Historija;B;7;HIP5;Uspon i privredno jačanje Bosne;Ne;;Ne;;Ne;;;0;MF-99;;2;;;2;;;0;;
+32;MF/SB;Historija;B;7;HIP5;Bosna u vrijeme najvećeg uspona – Tvrtko I Kotromanić;Ne;;Ne;;Ne;;;0;MF-100-1, MF-100-2, MF-101, MF-102, SB-102;;0;SB-102;;2;;;0;;
+33;MF/SB;Historija;B;7;HIP5;Slabljenje i propast bosanskog kraljevstva;Ne;;Ne;;Ne;;;1;MF-106, MF-107, SB-107;;0;;;0;;;0;;
+34;MF/SB;Historija;B;7;HIP5;Privreda srednjovjekovne Bosne;Ne;;Ne;;Ne;;;2;;;0;MF-109;;2;;;0;;
+35;MF/SB;Historija;B;7;HIP5;Kultura srednjovjekovne Bosne;Ne;;Da;saradnja SB-112;Ne;;;1;"SB-113
+";SB-110, SB-111, SB- 112;2;;;2;;;0;;
+36;MF/SB;Historija;B;7;HIP5;"Osmansko carstvo
+Nastanak Osmanske države";Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+37;MF/SB;Historija;B;7;HIP5;Timarsko-spahijski sistem. Vojno uređenje;Ne;;Ne;;Ne;;;2;MF-119;;2;;;2;;;0;;
+38;MF/SB;Historija;B;7;HIP5;Prva osvajanja na Balkanu;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+39;MF/SB;Historija;B;7;HIP5;Daljnja osmanska osvajanja (od lokalne do velike sile);Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+40;MF/SB;Historija;B;7;HIP5;Najveći uspon Osmanske države ;Ne;;Ne;;Ne;;;2;;;2;;;0;"
+";;1;SB-123-1, SB-123-2;
+41;MF/SB;Historija;B;7;HIP5;Uspostava i organizacija osmanske vlasti u Bosni;Ne;;Ne;;Ne;;;1;MF-127;;2;;;2;;;0;;
+42;MF/SB;Historija;B;7;HIP5;Upravno-teritorijalna organizacija, uspostava ejaleta;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+43;MF/SB;Historija;B;7;HIP5;Društveno-socijalne i privredne prilike u Bosanskom ejaletu do kraja XVIII stoljeća;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+44;MF/SB;Historija;B;7;HIP5;Širenje islama, vjerski mozaik;Ne;;Da;"saradnja SB-136, SB-137, SB-138-1, SB-138-2
+";Da;teritorij MF-135-1;imputacija MF-135-1;0;MF-137, MF-138;;2;;;2;;;2;"
+";MF-135-2, SB-135-1, SB-135-2, SB-135-3
+45;MF/SB;Historija;B;7;HIP5;Kapetani, ajani, janjičari;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+46;MF/SB;Historija;B;7;HIP5;Bosanski ejalet u XVII stoljeću – Kandijski i Bečki rat i slabljenje Osmanskog carstva;Ne;;Ne;;Ne;;;0;MF-146, MF-147, MF-148;;2;;;0;SB-147, SB-148;;0;;
+47;MF/SB;Historija;B;7;HIP5;"Osmansko carstvo i Bosanski ejalet u XVIII stoljeću
+Slabljenje Osmanskog carstva";Ne;;Ne;;Ne;;;0;;;2;;;2;;;0;;
+48;MF/SB;Historija;B;7;HIP5;Mletačko-austrijsko-osmanski rat 1714.-1718. godine i Požarevački mir;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+49;MF/SB;Historija;B;7;HIP5;Austrijsko-bosanski rat 1737. – 1739 godine;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+50;MF/SB;Historija;B;7;HIP5;Dubički rat;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+51;MF/SB;Historija;B;7;HIP5;Posljedice ratova na tlu Bosanskog ejaleta u XVIII stoljeću;Ne;;Ne;;Ne;;;2;;;2;;;2;;;0;;
+52;MF/SB;Historija;B;7;HIP5;Kulturno-prosvjetne prilike i nauka u Bosni u Osmanskom periodu;Ne;;Da;saradnja SB-157;Ne;;;2;MF-157;;2;;;2;;;0;;

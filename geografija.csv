@@ -1,0 +1,603 @@
+Rb;Istraživači;Predmet;NPP;Razred;Udžbenik;Lekcija;Negativni oblici ponašanja;Navedite šta;Univerzalne vrijednosti;Navedite šta;Partikularizacija;Sadržaji;Načini;Indikator 1;Aktivno učenje;Ne nudi se mogućnost diskusije;Indikator 2;Rješavanje problema;Puko pamćenje činjenica;Indikator 3;Mutiperspektivni pristup;Pristup jedne perspektive;Indikator 4 ;Diferencirani prikazi;Stereotipni prikazi
+1;NH/FB;Geografija;B;6;GZ1;Uvod u geografiju;Ne;;Da;odgovornost, zaštitaživotnesredine NH-8-1.1;Ne;;;2;;;0;;;2;;;2;;
+2;NH/FB;Geografija;B;6;GZ1;Kosmos i kosmička tijela;Ne;;Ne;;Ne;;;2;;;2;;;2;;NH-14-2.1, FB-10-2.1;0;;
+3;NH/FB;Geografija;B;6;GZ1;Sunce i Sunčev sistem;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+4;NH/FB;Geografija;B;6;GZ1;Zemlja u Sunčevom sistemu;Ne;;Ne;;Ne;;;2;;;0;;;1;;FB-20, FB-21;0;;
+5;NH/FB;Geografija;B;6;GZ1;Geografska orijentacija - horizont i orijentacija na horizontu;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+6;NH/FB;Geografija;B;6;GZ1;Orijentacija na površini zemlje;Ne;;Da;saradnja NH-28-6.1;Ne;;;1;FB-30-6.1;;1;FB-30-6.1;;0;;;0;;
+7;NH/FB;Geografija;B;6;GZ1;Zemljina kretanja - prividno kretanje Sunca, rotacija Zemlje;Ne;;Ne;;Ne;;;1;NH-34-7.1a, NH-34-7.1b;;1;NH-34-7.1a, NH-34-7.1b;;0;;;0;;
+8;NH/FB;Geografija;B;6;GZ1;Revolucija Zemlje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+9;NH/FB;Geografija;B;6;GZ1;Toplotni pojasevi;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+10;NH/FB;Geografija;B;6;GZ1;Predstavljanje Zemljine površine na ravni;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+11;NH/FB;Geografija;B;6;GZ1;Zemlja i Zemljine sfere;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+12;NH/FB;Geografija;B;6;GZ1;Litosfera i kora Zemlje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+13;NH/FB;Geografija;B;6;GZ1;Endogene ili unutrašnje sile;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+14;NH/FB;Geografija;B;6;GZ1;Egzogene ili vanjske sile;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+15;NH/FB;Geografija;B;6;GZ1;Atmosfera - zračni omotač Zemlje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+16;NH/FB;Geografija;B;6;GZ1;Zračni pritisak - vjetar;Ne;;Da;odgovornost, zaštitaživotnesredine, život NH-69-16.1;Ne;;;2;;;2;;;0;;;0;;
+17;NH/FB;Geografija;B;6;GZ1;Atmosferski procesi;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+18;NH/FB;Geografija;B;6;GZ1;Vrijeme i klima;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+19;NH/FB;Geografija;B;6;GZ1;Hidrosfera - vodeni omotač;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+20;NH/FB;Geografija;B;6;GZ1;Dinamika svjetskog okeana;Ne;;Da;zaštitaživotnesredine, odgovornost, život, zajedništvo NH-85-20.2;Ne;;;2;;;2;;;0;;;0;;
+21;NH/FB;Geografija;B;6;GZ1;Kopnene vode;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+22;NH/FB;Geografija;B;6;GZ1;Tekućice;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+23;NH/FB;Geografija;B;6;GZ1;Jezera, močvare i bare, led na Zemlji, značaj kopnenih voda;Ne;;Da;zaštitaživotnesredine, odgovornost, zajedništvo NH-91-23.1 i NH-91-23.2;Ne;;;2;;;2;;;0;;;0;;
+24;NH/FB;Geografija;B;6;GZ1;Biosfera;Ne;;Da;život, zaštitaživotnesredine NH-94-24.1;Ne;;;2;;;2;;;0;;;0;;
+25;NH/FB;Geografija;B;6;GZ1;Vodene biogeografske oblasti;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+26;NH/FB;Geografija;B;6;GZ1;Demografske odlike na Zemlji - ekumena, porast svjetskog stanovništva;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+27;NH/FB;Geografija;B;6;GZ1;Prirodno kretanje stanovništva migracije - prostorno kretanje stanovništva ;Ne;;Da;jednakost, život NH-106-27.2;Ne;;;2;;;2;;;0;;;2;;NH-106-27.1
+28;NH/FB;Geografija;B;6;GZ1;Strukture stanovništva;Ne;;Da;sloboda, život,  ravnopravnost NH-109-28.2, NH-109-28.3, FB-109-28.1, zajedništvo, solidarnost, odgovornost, obrazovanje NH-113-28.8, NH-113-28.11, NH-114-28.12a;Da;porijeklo;relativizacija, insinuacija, redukcija, ignorancija;0;;;0;;;2;;NH-109-28.1, NH-111-28.7, NH-113-28.10;2;;NH-113-28.9
+29;NH/FB;Geografija;B;6;GZ1;Proizvodi ljudske djelatnosti na Zemlji - naselja i tipovi naselja na Zemlji;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+30;NH/FB;Geografija;B;6;GZ1;Privreda i privredne djelatnosti;Ne;;Da;život NH-120-30.1, zaštitaživotnesredine, odgovornost NH-122-30.2, NH-123-30.3, NH-124-30.4, NH-124-30.6, obrazovanje NH-124-30.5   ;Ne;;;2;;;2;;;0;;;0;;
+31;NH/FB;Geografija;B;6;GZ1;Stepen privredne razvijenosti;Ne;;Da;saradnja, odgovornost, život FB-125, FB-126, zajedništvo, solidarnost, obrazovanje NH-125-31.1, NH-126-31.4a, NH-1263-1.4b;Ne;;;2;;;2;;;0;;;0;;
+32;NH/FB;Geografija;B;6;GZ1;Geozaštita okoline - globalni aspekti života na Zemlji;Ne;;Da;odgovornost, zaštitaživotnesredine NH-130-32.1, NH-131-32.2;Ne;;;2;;;2;;;0;;;0;;
+33;NH/FB;Geografija;B;6;GZ1;Ugroženi elementi životne sredine;Ne;;Da;zaštitaživotnesredine NH-133-33.1, NH-134-33.3, odgovornost, jednakost FB-134, FB-135;Ne;;;1;FB-135-1;;2;;;0;;;0;;
+1;FB/AM;Geografija;B;7;GZ3;Geografski položaj, granice i veličina Evrope;Ne;;Da;život NH-7-1.1;Ne;;;2;;;2;;;0;;;2;;
+2;FB/AM;Geografija;B;7;GZ3;Prirodno geografske odlike Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+3;FB/AM;Geografija;B;7;GZ3;Društveno-geografske odlike Evrope: Stanovništvo Evrope;Ne;;Da;saradnja FB-18;Da;pobožnost FB-18-3.1;redukcija;2;;;2;;;2;;;2;;
+4;FB/AM;Geografija;B;7;GZ3;Društveno-geografske odlike Evrope: Privredni razvoj Evrope;Ne;;Da;odgovornost FB-23-4.1;Ne;;;2;;AM-22, AM-24;2;;;2;;;2;;AM-22
+5;FB/AM;Geografija;B;7;GZ3;Mediteran - Sredozemlje;Ne;;Ne;;Ne;;;2;AM-26-1;;2;;;0;;;0;;
+6;FB/AM;Geografija;B;7;GZ3;Evropsko Sredozemlje - Južna Evropa: Pirinejski poluotok;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;FB-29-6.1
+7;FB/AM;Geografija;B;7;GZ3;Osnovni geografski podaci o zemljama Pirinejskog poluotoka;Ne;;Ne;;Ne;;;2;;;2;;AM-31;0;;;0;;
+8;FB/AM;Geografija;B;7;GZ3;Apeninski poluotok - Italija;Ne;;Ne;;Ne;;;0;;;2;;AM-32;0;;;0;;
+9;FB/AM;Geografija;B;7;GZ3;Ostale zemlje Apeninskog poluotoka i Malta;Da;neravnopravnost FB-38-9.1, AM-38 ;Da;jednakost FB-38-9.1;Ne;;;1;FB-39-9.1, AM-39;;0;;;0;;;0;;
+10;FB/AM;Geografija;B;7;GZ3;Balkanski poluotok - jugoistočna Evropa;Ne;;Da;mir FB-42-10.1, AM-42;Ne;;;1;FB-42-10.2;;2;;;0;;;0;;
+11;FB/AM;Geografija;B;7;GZ3;Zemlje Balkanskog poluotoka;Ne;;Da;mir AM-46-1, AM-46-2, AM-49-2, odgovornost AM-49-3;Ne;;;1;AM-49-1;;2;;AM-44, AM-46-3;0;;;0;;
+12;FB/AM;Geografija;B;7;GZ3;Makedonija i Albanija;Ne;;Ne;;Ne;;;2;;;2;;AM-51;0;;;0;;
+13;FB/AM;Geografija;B;7;GZ3;Najveće balkanske države;Ne;;Ne;;Ne;;;1;FB-56-13.1;;2;;AM-54;0;;;0;;
+14;FB/AM;Geografija;B;7;GZ3;Azijsko Sredozemlje - jugozapadna Azija: Položaj i prirodno-geografska obilježja azijskog Sredozemlja;Ne;;Da;mir FB-57-14.1, AM-57-1;Ne;;;1;AM-57-2;;1;AM-59;;0;;;0;;
+15;FB/AM;Geografija;B;7;GZ3;Društveno-geografske odlike azijskog Sredozemlja;Da;potenciranjeosvajačkihpohoda AM-60;Ne;;Ne;;;2;;;2;AM-61;;2;;FB-60-15.1;2;;FB-60-15.2
+16;FB/AM;Geografija;B;7;GZ3;Osnovni geografski podaci i Turskoj, Saudijskoj Arabiji i Iranu;Ne;;Ne;;Ne;;;1;FB-63-16.1;;1;AM-63;;0;;;0;;
+17;FB/AM;Geografija;B;7;GZ3;Afričko Sredozemlje - sjeverna Afrika: Položaj i prirodno-geografska obilježja afričkog Sredozemlja;Ne;;Da;život AM-64;Ne;;;1;FB-65-17.1;;0;;;0;;;0;;
+18;FB/AM;Geografija;B;7;GZ3;Društveno-geografske odlike afričkog Sredozemlja;Ne;;Da;život, saradnja AM-66-1, AM-66-2;Da;prošlost, teritorij FB-66-18.1;insinuacija, redukcija;0;;;0;;;0;;;0;;
+19;FB/AM;Geografija;B;7;GZ3;Osnovni geografski podaci o Egiptu i Alžiru;Ne;;Ne;;Ne;;;0;;;1;AM-69;;0;;;0;;
+20;FB/AM;Geografija;B;7;GZ3;Zapadna Evropa: Definicija prostora i prirodno geografske odlike zapadne Evrope;Da;promoviranjeneokolonijalizma, neravnopravnost AM-70;Ne;;Ne;;;2;;;2;;;0;;;0;;
+21;FB/AM;Geografija;B;7;GZ3;Društveno-geografska obilježja zapadne Evrope;Ne;;Da;saradnja FB-73-21.1;Ne;;;2;;;2;;;0;;;2;;FB-73-21.2
+22;FB/AM;Geografija;B;7;GZ3;Otočne zemlje zapadne Evrope;Ne;;Ne;;Ne;;;0;;;2;;AM-78, AM-79;0;;;0;;
+23;FB/AM;Geografija;B;7;GZ3;Zemlje Beneluksa ;Ne;;Da;odgovornost FB-82-23.1, FB-83-23.2, AM-83, jednakost FB-84-23.3;Ne;;;2;;;2;;;0;;;0;;
+24;FB/AM;Geografija;B;7;GZ3;Francuska i Monako;Ne;;Ne;;Ne;;;2;;;2;;AM-88-1, AM-88-22;0;;;0;;
+25;FB/AM;Geografija;B;7;GZ3;Sjeverna Evropa: Položaj i prirodno-geografska obilježja sjeverne Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+26;FB/AM;Geografija;B;7;GZ3;Društveno-geografska obilježja sjeverne Evrope;Ne ;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+27;FB/AM;Geografija;B;7;GZ3;Skandinavske zemlje i Island;Ne;;Da;život, sigurnost, blagostanje FB-98-26.1, AM-99-26.2;Ne;;;0;;;2;;;0;;;0;;
+28;FB/AM;Geografija;B;7;GZ3;Finska i Danska;Ne;;Ne;;Ne;;;2;;;0;AM-102; AM-100, AM-101  ;0;;;0;;
+29;FB/AM;Geografija;B;7;GZ3;Pribaltičke zemlje sjeverne Evrope;Ne;;Ne;;Ne;;;2;;;2;;AM-106;2;;FB-104-29.1, FB-105-29.2;0;;
+30;FB/AM;Geografija;B;7;GZ3;Srednja Evropa: Položaj i prirodno-geografska obilježja srednje Evrope;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+31;FB/AM;Geografija;B;7;GZ3;Društveno-geografska obilježja srednje Evrope;Ne;;Ne;;Ne;;;1;AM-111;;2;;AM-110;0;;;0;;
+32;FB/AM;Geografija;B;7;GZ3;Njemačka i Poljska;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+33;FB/AM;Geografija;B;7;GZ3;Alpske zemlje srednje Evrope;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+34;FB/AM;Geografija;B;7;GZ3;Zemlje na istoku srednje Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+35;FB/AM;Geografija;B;7;GZ3;Istočna Evropa: Položaj i prirodno-geografska obilježja istočne Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+36;FB/AM;Geografija;B;7;GZ3;Društveno-geografska obilježja istočne Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+37;FB/AM;Geografija;B;7;GZ3;Ruska federacija - država na dva kontinenta;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+38;FB/AM;Geografija;B;7;GZ3;Ostale države istočne Evrope;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+1;NH/FB;Geografija;B;7;GZ4;Pojam, veličina, geografski smještaj i položaj Evrope;Ne;;Da;život FB-11-1.6;Ne;;;1;FB-7-1.1, FB-8-1.2, FB-8-1.3, FB-8-1.4, FB-9-1.5;;1;FB-7-1.1, FB-8-1.2, FB-8-1.3, FB-8-1.4, FB-9-1.5;;2;;NH-11-1.3;2;;NH-9-1.4a, NH-11-1.4B
+2;NH/FB;Geografija;B;7;GZ4;Reljef i geološka građa Evrope;Ne;;Ne;;Ne;;;1;FB-12-2.1, FB-12-2.3, FB-14-2.4, FB-15-2.5, FB-15-2.6, FB-15-2.7 ;;1;FB-12-2.1, FB-12-2.3, FB-14-2.4, FB-15-2.5, FB-15-2.6, FB-15-2.7 ;;2;FB-12-2.2;NH-14-2.2  ;0;;
+3;NH/FB;Geografija;B;7;GZ4;More i obale Evrope ;Ne;;Da;odgovornost FB-21-3.1, NH-21-3.4b, život NH-19-3.3;Ne;;;1;FB-17-3.1, FB-18-3.3, FB-18-3.4, FB-19-3.5, FB-20-3.6, FB-21-3.7 ;;1;FB-17-3.1, FB-18-3.3, FB-18-3.4, FB-19-3.5, FB-20-3.6, FB-21-3.7 ;;0;FB-17-3.2;;0;;
+4;NH/FB;Geografija;B;7;GZ4;Kopnene vode Evrope;Ne;;Ne;;Ne;;;1;NH-22-4.1a, NH-22-4.1b, NH-23-4.1c, NH-23-4.1d, FB-24, NH-25-4.1e, NH-25-4.1, NH-27-4.1f ;;1;NH-22-4.1a, NH-22-4.1b, NH-23-4.1c, NH-23-4.1d, FB-24, NH-25-4.1e, NH-25-4.1, NH-27-4.1f;;0;FB-27;;0;;
+5;NH/FB;Geografija;B;7;GZ4;Klima i vegetacijska područja Evrope;Ne;;Da;odgovornost NH-30-5.2;Ne;;;1;FB-28-5.1, FB-29-5.3., FB-30-5.4, FB-30-5.5, FB-31-5.6, FB-32-5.7, FB-32-5.8, FB-32-5.9, FB-33-5.10;;1;FB-28-5.1, FB-29-5.3., FB-30-5.4, FB-30-5.5, FB-31-5.6, FB-32-5.7, FB-32-5.8, FB-32-5.9, FB-33-5.10;;0;FB-29-5.2;;0;;
+6;NH/FB;Geografija;B;7;GZ4;Stanovništvo Evrope - Narodi i države;Ne;;Da;jednakost, suživot, solidarnost FB-36-6.3, FB-36-6.5, NH-37-6.12, FB-38-6.7, FB-39-6.8;Da;porijeklo FB-36-6.4, NH-34-6.2;insinuacija, ignorancija;1;FB-34-1, NH-35-6.1a, FB-36-2, FB-36-3, NH-37-6.1d, FB-37-4, FB-38-5, FB-39-6, NH-39-6.1g; ;1;FB-34-1, NH-35-6.1a, FB-36-2, FB-36-3, NH-37-6.1d, FB-37-4, FB-38-5, FB-39-6, NH-39-6.1g;;0;FB-35-6.1;;0;;
+7;NH/FB;Geografija;B;7;GZ4;Kretanje evropskog stanovništva;Ne;;Da;život, odgovornost FB-40-7.1, FB-41-7.2;Ne;;;1;NH-40-7.1a, NH-41-7.1b, NH-42-7.1c, NH-42-7.1d, NH-42-71.e, NH-43-7.1f;;1;NH-40-7.1a, NH-41-7.1b, NH-42-7.1c, NH-42-7.1d, NH-42-71.e, NH-43-7.1f;;0;FB-42-7.3;;0;;
+8;NH/FB;Geografija;B;7;GZ4;Privreda Evrope;Ne;;Da;život FB-44-8.1, NH-45-8.2, zaštitaživotnesredine NH-46-8.3, NH-47-8.4, NH-47-8.5 ;Ne;;;1;NH-44-8.1a, NH-45-8.1b, NH-45-8.1c, NH-46-8.1d, NH-47-8.1e ;;1;NH-44-8.1a, NH-45-8.1b, NH-45-8.1c, NH-46-8.1d, NH-47-8.1e ;;0;FB-44-8.2;;0;;
+9;NH/FB;Geografija;B;7;GZ4;Evropska unija;Ne;;Da;sloboda, jednakost, solidarnost, život NH-49-9.2, NH-49-9.3, NH-50-9.4, NH-50-9.5, NH-51-9.6, NH-51-9.7, NH-51-9.8;Ne;;;1;NH-49-9.1a, NH-51-9.1b;;1;NH-49-9.1a, NH-51-9.1b;;0;FB-52-9.7;;0;;
+10;NH/FB;Geografija;B;7;GZ4;Sredozemlje - Mediteran: Evropsko Sredozemlje - Prirodna obilježja;Ne;;Da;saradnja FB-54-10.1, FB-56-10.2, odgovornost NH-61-10.3;Ne;;;1;NH-58-10.1a, NH-58-10.1b, NH-59-10.1c, NH-60-10.1d, NH-60-10.1e; ;1;NH-58-10.1a, NH-58-10.1b, NH-59-10.1c, NH-60-10.1d, NH-60-10.1e;;0;FB-61-10.3;;0;;
+11;NH/FB;Geografija;B;7;GZ4;Evropsko Sredozemlje - Stanovništvo i privredna obilježja;Ne;;Da;odgovornost FB-66-11.2;Ne;;;1;NH-63-11.1a, NH-64-11.1b, NH-65-11.1c;;1;NH-63-11.1a, NH-64-11.1b, NH-65-11.1c;;0;FB-63-11.1;;0;;
+12;NH/FB;Geografija;B;7;GZ4;Države Apeninskog poluotoka;Ne;;Da;odgovornost NH-73-12.2, NH-74-12.3;Ne;;;1;NH-68-12.1a, NH-69-12.1b, NH-69-12.1c, NH-69-12.1d, NH-70-12.1e, NH-70-12.1f, NH-71-12.1g;;1;NH-68-12.1a, NH-69-12.1b, NH-69-12.1c, NH-69-12.1d, NH-70-12.1e, NH-70-12.1f, NH-71-12.1g;;0;FB-71-12.1;;0;;
+13;NH/FB;Geografija;B;7;GZ4;Države Pirinejskog poluotoka i Malta;Ne;;Ne;;Ne;;;1;NH-75-13.1a, NH-76-13.1b, NH-76-13.1c, NH-77-13.1d, NH-79-13.1e, NH-79-13.1f, NH-80-13.1g, NH-81-13.1h;;1;NH-75-13.1a, NH-76-13.1b, NH-76-13.1c, NH-77-13.1d, NH-79-13.1e, NH-79-13.1f, NH-80-13.1g, NH-81-13.1h;;0;FB-77-13.1;;0;;
+14;NH/FB;Geografija;B;7;GZ4;Jugoistočna Evropa - Prirodna i društvena obilježja;Ne;;Da;odgovornost, zaštitaživotnesredine FB-90-14.2;Ne;;;1;NH-87-14.1a, NH-87-14.1b, NH-88-14.1c, NH-89-14.1d;;1;NH-87-14.1a, NH-87-14.1b, NH-88-14.1c, NH-89-14.1d;;2;;NH-89-14.3 ;0;;
+15;NH/FB;Geografija;B;7;GZ4;Republika Hrvatska - Prirodna obilježja;Ne;;Da;odgovornost, zaštitaživotnesredine NH-95-15.5;Ne;;;1;NH-91-15.1a, NH-91-15.1b, NH-92-15.1.c, NH-93-15.1d, NH-93-15.1e, NH-94-15.1f;;1;NH-91-15.1a, NH-91-15.1b, NH-92-15.1.c, NH-93-15.1d, NH-93-15.1e, NH-94-15.1f;;2;FB-91-15.1;NH-91-15.2a, NH-96-15.2b, NH-96-15.2c  ;0;;NH-92-15.3
+16;NH/FB;Geografija;B;7;GZ4;Republika Hrvatska - Stanovništvo i privredna obilježja;Ne;;Da;ravnopravnost, saradnja FB-98-16.1, zaštitaživotnesredine, zaštitakulturno-historijskognaslijeđa NH-100-16.5;Ne;;;1;NH-97-16.1a, NH-98-16.1b, NH-98-16.1c, NH-99-16.1d, NH-100-16.1e ;;1;NH-97-16.1a, NH-98-16.1b, NH-98-16.1c, NH-99-16.1d, NH-100-16.1e ;;0;;NH-97-16.2, NJ-98-16.4 ;0;;
+17;NH/FB;Geografija;B;7;GZ4;Srbija - Prirodna obilježja;Ne;;Da;odgovornost, zaštitaživotnesredine FB-105-17.3, FB-105-17.4;Ne;;;1;NH-102-17.1a, NH-103-17.1b, NH-104-17.1c ;;1;NH-102-17.1a, NH-103-17.1b, NH-104-17.1c ;;2;;NH-103-17.2;0;;
+18;NH/FB;Geografija;B;7;GZ4;Stanovništvo i regionalna obilježja Srbije;Ne;;Ne;;Ne;;;1;NH-106-18.1a, NH-108-18.1b, NH-109-18.1c ;;1;NH-106-18.1a, NH-108-18.1b, NH-109-18.1c ;;2;;NH-106-18.2a, NH-108-18.2b, NH-109-18.2c ;0;;
+19;NH/FB;Geografija;B;7;GZ4;Crna Gora i Kosovo;Ne;;Da;odgovornost, zaštitaživotnesredine NH-114-19.2;Ne;;;1;NH-110-19.1a, NH-111-19.1b, NH-111-19.1c, NH-112-19.1d, NH-112-19.1e ;;1;NH-110-19.1a, NH-111-19.1b, NH-111-19.1c, NH-112-19.1d, NH-112-19.1e ;;2;;NH-110-9.4, NH-112-19.4, NH-114-19.4;0;;
+20;NH/FB;Geografija;B;7;GZ4;Grčka i Albanija;Ne;;Da;odgovornost, zaštitaživotnesredine, život NH-119-20.3;Ne;;;1;NH-115-20.1a, NH-115-20.1b, NH-115-20.1c, NH-118-20.1d, NH-118-20.1e, NH-118-20.1f ;;1;NH-115-20.1a, NH-115-20.1b, NH-115-20.1c, NH-118-20.1d, NH-118-20.1e, NH-118-20.1f ;;2;FB-115;NH-119-20.4 ;0;;NH-118-20.2a, NH-119-20.2b 
+21;NH/FB;Geografija;B;7;GZ4;Ruminija, Bugarska i Makedonija;Ne;;Ne;;Ne;;;1;NH-122-21.1a, NH-122-21.1b, NH-122-21.1c, NH-123-21.1d, NH-123-21.1e ;;1;NH-122-21.1a, NH-122-21.1b, NH-122-21.1c, NH-123-21.1d, NH-123-21.1e ;;0;FB-120-21.1;;0;;
+22;NH/FB;Geografija;B;7;GZ4;Jugozapadna Azija - Prirodna obilježja;Ne;;Ne;;Ne;;;1;NH-128-22.1a, NH-129-22.1b, NH-129-22.1c, NH-130-22.1d, NH-131-22.1e, NH-131-22.1f, NH-132-22.1g;;1;NH-128-22.1a, NH-129-22.1b, NH-129-22.1c, NH-130-22.1d, NH-131-22.1e, NH-131-22.1f, NH-132-22.1g;;0;;;0;;
+23;NH/FB;Geografija;B;7;GZ4;Jugozapadna Azija - Stanovništvo i privredna obilježja;Ne;;Da;odgovornost NH-137-23.7;Ne;;;1;NH-133-23.1a, NH-135-23.1b, NH-135-23.1c, NH-137-23.1d, NH-137-23.1e, NH-137-23.1f;;1;NH-133-23.1a, NH-135-23.1b, NH-135-23.1c, NH-137-23.1d, NH-137-23.1e, NH-137-23.1f;;2;;NH-133-23.3 ;2;;NH-133-23.3, NH-133-23.4, NH-137-23.5, NH-137-23.6
+24;NH/FB;Geografija;B;7;GZ4;Turska, Saudijska Arabija i Iran;Ne;;Da;odgovornost NH-141-24.2, NH-143.24.4;Ne;;;1;NH-139-24.1a, NH-139-24.1b;;1;NH-139-24.1a, NH-139-24.1b;;0;FB-138-24.1;;0;;
+25;NH/FB;Geografija;B;7;GZ4;Afričko Sredozemlje - Prirodna i društvena obilježja ;Ne;;Da;odgovornost NH-150-25.4;Ne;;;1;NH-146-25.1a, NH-147-25.1b, NH-147-25.1c;;1;NH-146-25.1a, NH-147-25.1b, NH-147-25.1c;;2;FB-146-25.1;NH-147-25.2 ;0;;
+26;NH/FB;Geografija;B;7;GZ4;Egipat;Ne;;Ne;;Ne;;;1;FB-151-2, FB-151-3, FB-153-4, FB-153-5;;1;FB-151-2, FB-151-3, FB-153-4, FB-153-5;;0;FB-151-1;;2;;FB-154, FB-155 
+27;NH/FB;Geografija;B;7;GZ4;Sjeverna Evropa - Prirodna i društvena obilježja;Ne;;Da;saradnja, zajedništvo NH-162-27.2;Ne;;;1;NH-158-27.1a, NH-158-27.1b, NH-159-27.1c, NH-160-27.1d;;1;NH-158-27.1a, NH-158-27.1b, NH-159-27.1c, NH-160-27.1d;;0;FB-158-27.1;;0;;
+28;NH/FB;Geografija;B;7;GZ4;Skandinavske države;Ne;;Da;ravnopravnost NH-166-28.2;Ne;;;1;NH-163-28.1a, NH-164-28.1b, NH-164-28.1c, NH-166-28.1d, NH-166-28.1e, NH-166-28.1f;;1;NH-163-28.1a, NH-164-28.1b, NH-164-28.1c, NH-166-28.1d, NH-166-28.1e, NH-166-28.1f;;0;FB-165-28.1;NH-167-28.3;0;;
+29;NH/FB;Geografija;B;7;GZ4;Ostale države Sjeverne Evrope;Ne;;Ne;;Ne;;;1;NH-168-29.1a, NH-169-29.1b, NH-170-29.1c, NH-171-29.1d, NH-172-29.1e, NH-172-29.1f;;1;NH-168-29.1a, NH-169-29.1b, NH-170-29.1c, NH-171-29.1d, NH-172-29.1e, NH-172-29.1f;;0;FB-168-29.1;;0;;
+30;NH/FB;Geografija;B;7;GZ4;Zapadna Evropa - Prirodna i društvena obilježja;Ne;;Ne;;Ne;;;1;NH-176-30.1a, NH-177-30.1b, NH-177-30.1c, NH-179-30.1d, NH-179-30.1e;;1;NH-176-30.1a, NH-177-30.1b, NH-177-30.1c, NH-179-30.1d, NH-179-30.1e;;0;FB-176-30.1;;0;;
+31;NH/FB;Geografija;B;7;GZ4;Ujedinjeno Kraljevstvo ;Ne;;Ne;;Ne;;;1;NH-181-31.1a, NH-186-31.1b, FB-187-1;;1;NH-181-31.1a, NH-186-31.1b, FB-187-1;;0;FB-181-31.1;;2;;NH-186-31.3a, NH-187-31.3b
+32;NH/FB;Geografija;B;7;GZ4;Francuska;Ne;;Da;odgovornost, zaštitaživotnesredine NH-195-32.5;Ne;;;1;NH-188-32.1a, NH-189-32.1b, NH-190-32.1c, NH-190-32.1d, NH-192-32.1e;;1;NH-188-32.1a, NH-189-32.1b, NH-190-32.1c, NH-190-32.1d, NH-192-32.1e;;0;FB-188-32.1;;0;;
+33;NH/FB;Geografija;B;7;GZ4;Ostale države Zapadne Evrope;Ne;;Ne;;Ne;;;1;NH-196-33.1a, NH-197-33.1b, NH-200-33.1c, NH-201-33.1d, FB-203-1;;1;NH-196-33.1a, NH-197-33.1b, NH-200-33.1c, NH-201-33.1d, FB-203-1;;0;FB-196-33.1;;0;;
+34;NH/FB;Geografija;B;7;GZ4;Srednja Evropa - Prirodna i društvena obilježja;Ne;;Ne;;Ne;;;1;NH-206-34.1a, NH-207-34.1b, NH-208-34.1c;;1;NH-206-34.1a, NH-207-34.1b, NH-208-34.1c;;2;;NH-207-34.2;0;;
+35;NH/FB;Geografija;B;7;GZ4;Njemačka;Ne;;Da;saradnja, sloboda NH-211-35.2a, NH-211-35.2b, odgovornost, život FB-213-35.1, FB-213-35.2, NH-213-35.3, NH-215-35.4;Ne;;;1;NH-211-35.1a, NH-211-35.1b, NH-212-35.1c, NH-213-35.1d, NH-214-35.1e;;1;NH-211-35.1a, NH-211-35.1b, NH-212-35.1c, NH-213-35.1d, NH-214-35.1e;;0;;;0;;
+36;NH/FB;Geografija;B;7;GZ4;Alpske države;Ne;;Da;odgovornost, mir, jednakost FB-218-36.2, FB-219-36.3, FB-219-36.4;Ne;;;1; NH-218-36.1a, NH-218-36.1b, NH-219-36.1c, NH-219-36.1d, NH-221-36.1e, NH-221-36.1f, NH-223-36.1g, NH-224-36.1h;;1; NH-218-36.1a, NH-218-36.1b, NH-219-36.1c, NH-219-36.1d, NH-221-36.1e, NH-221-36.1f, NH-223-36.1g, NH-224-36.1h;;2;FB-218-36.1;NH-222-36.6a, NH-224-36.6b ;0;;
+37;NH/FB;Geografija;B;7;GZ4;Ostale države Srednje Evrope;Ne;;Da;odgovornost, zaštitaživotnesredine, mir FB-226-37.2, FB-227-37.3, NH-231-37.4;Ne;;;1;NH-225-37.1a, NH-227-37.1b, NH-230-37.1c, NH-230-37.1d;;1;NH-225-37.1a, NH-227-37.1b, NH-230-37.1c, NH-230-37.1d;;0;FB-225-37.1;;0;;
+38;NH/FB;Geografija;B;7;GZ4;Istočna Evropa - Prirodna i društvena obilježja;Ne;;Ne;;Ne;;;1;NH-234-38.1a, NH-235-38.1b, NH-236-38.1c, NH-237-38.1d;;1;NH-234-38.1a, NH-235-38.1b, NH-236-38.1c, NH-237-38.1d;;0;FB-234-38.1;;0;;
+39;NH/FB;Geografija;B;7;GZ4;Ruska federacija;Da;rat, napetost NH-242-39.2;Ne;;Ne;;;1;NH-239-39.1a, NH-239-39.1b, NH-240-39.1c, NH-241-39.1d, NH-243-39.1e, NH-244-39.1f;;1;NH-239-39.1a, NH-239-39.1b, NH-240-39.1c, NH-241-39.1d, NH-243-39.1e, NH-244-39.1f;;0;FB-239-39.1;;0;;
+40;NH/FB;Geografija;B;7;GZ4;Ostale države istočne Evrope;Ne;;Da;odgovornost, život, zaštitaživotnesredine FB-249-40.2, NH-249-40.3, NH-249-40.4;Ne;;;1;NH-245-40.1a, NH-245-40.1b, NH-246-40.1c, NH-246-40.1d, NH-247-40.e, NH-248-40.1f;;1;NH-245-40.1a, NH-245-40.1b, NH-246-40.1c, NH-246-40.1d, NH-247-40.e, NH-248-40.1f;;0;FB-245-40.1;;0;;
+1;AM/NH;Geografija;B;8;GZ5;Prirodnogeografske odlike Azije - Naziv, Granice i Geografski položaj ;Ne;;Ne;;Ne;;;1;NH-6-1.1a, NH-6-1.1b, NH-6-1.1c, NH-6-1.1d, NH-7-1.1e, NH-8-1.1f, NH-10-1.1g, NH-11-1.1h, NH-11-1.1i, NH-12-1.1j, AM-15-1;;1;NH-6-1.1a, NH-6-1.1b, NH-6-1.1c, NH-6-1.1d, NH-7-1.1e, NH-8-1.1f, NH-10-1.1g, NH-11-1.1h, NH-11-1.1i, NH-12-1.1j;AM-7-1, AM-14-1;0;;;0;;
+2;AM/NH;Geografija;B;8;GZ5;Društvenogeografske odlike Azije;Da;pluralizamkaoproblem AM-18-1;Ne;;Ne;;;1;NH-17-2.1a, NH-17-2.1b, NH-17-2.1c;;1;NH-17-2.1a, NH-17-2.1b, NH-17-2.1c;AM-18-2;2;;NH-18-2.2;2;;NH-18-2.3
+3;AM/NH;Geografija;B;8;GZ5;Regionalna podjela Azije - Centralna Azija;Ne;;Ne;;Ne;;;1;NH-23-3.1a, NH-24-3.1b, NH-25-3.1c, NH-25-3.1d;;1;NH-23-3.1a, NH-24-3.1b, NH-25-3.1c, NH-25-3.1d, AM-31-3;AM-25-1, AM-26-2;2;;NH-27-3.4, NH-27-3.5, NH-29-3.6;0;;
+4;AM/NH;Geografija;B;8;GZ5;Monsunska Azija - Geografski položaj, Prirodno geografske odlike;Ne;;Da;odgovornost, zaštitaživotnesredine NH-35-4.5;Ne;;;1;NH-32-4.1a, NH-35-4.1b;;2;;AM-35-1.2;0;;;0;;
+5;AM/NH;Geografija;B;8;GZ5;Društvenogeografske odlike;Ne;;Da;život, sloboda NH-39-4.11a, NH-40-4.11b;Ne;;;1; NH-38-4.1c, AM-43-1;;0;;;0;;;0;;
+6;AM/NH;Geografija;B;8;GZ5;Indija, Indonezija i Malezija ;Ne;;Ne;;Ne;;;1;NH-49-5.1a, NH-51-5.1b;;1;NH-49-5.1a, NH-51-5.1b;AM-47-1, AM-50-2;2;;NH-46-5.5 ;2;;NH-46-5.4
+7;AM/NH;Geografija;B;8;GZ5;Daleki istok;Ne;;Da;odgovornost NH-60-6.6;Ne;;;1;NH-55-6.1a, NH-59-6.1b;;1;NH-55-6.1a, NH-59-6.1b;;2;;NH-60-6.5;0;;
+8;AM/NH;Geografija;B;8;GZ5;Kina, Japan;Ne;;Da;odgovornost AM-65-1, NH-65-7.3;Ne;;;1;NH-67-7.1a, NH-67-7.1b, AM-70-1;;1;NH-67-7.1a, NH-67-7.1b;;2;;NH-68-7.6a, NH-68-7.6b ;0;;
+9;AM/NH;Geografija;B;8;GZ5;Afrika - Prirodnogeografske odlike;Ne;;Ne;;Ne;;;1;NH-72-8.1a, NH-73-8.1b, NH-73-8.1c, NH-74-8.1d, NH-74-8.1e, NH-75-8.1f, NH-77-8.1g, NH-78-8.1h, NH-78-8.1i, NH-78-8.1j;;1;NH-72-8.1a, NH-73-8.1b, NH-73-8.1c, NH-74-8.1d, NH-74-8.1e, NH-75-8.1f, NH-77-8.1g, NH-78-8.1h, NH-78-8.1i, NH-78-8.1j;AM-79-1;1;NH-72-8.3a, NH-72-8.3b;;0;;
+10;AM/NH;Geografija;B;8;GZ5;Društvenogeografske odlike;Da;pluralizamkaoproblem AM-82-1;Da;odgovornost NH-83-9.5a, NH-85-9.5b;Ne;;;1;NH-81-9.1a, NH-83-9.1b, NH-85-9.1c, NH-85-9.1d;;1;NH-81-9.1a, NH-83-9.1b, NH-85-9.1c, NH-85-9.1d, AM-81-1;;2;;NH-82-9.3 ;2;;NH-82-9.3 
+11;AM/NH;Geografija;B;8;GZ5;Zapadna Afrika - Nigerija;Ne;;Da;odgovornost NH-88-10.1, NH-89-10.2, NH-89-10.3, NH-90-10.4;Ne;;;2;;;2;;AM-88-1, AM-89-1, AM-92-1;0;;;0;;
+12;AM/NH;Geografija;B;8;GZ5;Srednja Afrika;Ne;;Ne;;Ne;;;2;;;2;;;2;;NH-96-11.2 ;2;;NH-96-11.2, NH-96-11.3
+13;AM/NH;Geografija;B;8;GZ5;Istočna Afrika - Etiopija;Ne;;Da;odgovornost, zaštitaživotnesredine NH-101-12.1a, NH-101-12.1b;Ne;;;2;;;2;;;0;;;0;;
+14;AM/NH;Geografija;B;8;GZ5;Južna Afrika;Ne;;Ne;;Ne;;;1;NH-106-13.1a, NH-106-13.1b, NH-108-13.1c;;1;NH-106-13.1a, NH-106-13.1b, NH-108-13.1c;;0;;;2;;NH-108-13.2a NH-110-13.2b, NH-109-13.3
+15;AM/NH;Geografija;B;8;GZ5;Republika Južna Afrika;Ne;;Da;ravnopravnost NH-112-14.2a, NH-116-14.2b, NH-116-14.2c;Ne;;;1;NH-111-14.1a;;1;NH-111-14.1a;;0;;;2;;AM-111-1
+16;AM/NH;Geografija;B;8;GZ5;Amerika - Prirodnogeografske odlike;Ne;;Ne;;Ne;;;1;NH-118-15.1a, NH-118-15.1b, NH-118-15.1c, NH-121-15.1d;;1;NH-118-15.1a, NH-118-15.1b, NH-118-15.1c, NH-121-15.1d;AM-125-1;0;;;0;;
+17;AM/NH;Geografija;B;8;GZ5;Amerika - Društvenogeografske odlike;Da;neprijateljstvo, eksploatacija, represija AM-128-1, AM-128-2;Da;život AM-131-1, saradnja  AM-131-2, solidarnost AM-131-3, NH-134-16.10, mir AM-132-4;Ne;;;2;;AM-128-3;2;;AM-134-1;2;;AM-127-1 ;0;;
+18;AM/NH;Geografija;B;8;GZ5;SAD, Kanada;Ne;;Da;zajedništvo NH-136-17.1a, NH-136-17.1b, odgovornost NH-138-17.2, ravnopravnost NH-140-17.3, saradnja NH-140-17.4;Ne;;;2;;;2;;AM-136-1, AM-137-2;0;;;0;;
+19;AM/NH;Geografija;B;8;GZ5;Brazil, Argentina, Čile;Ne;;Ne;;Ne;;;1;NH-143-18.1a, NH-143-18.1b;;1;NH-143-18.1a, NH-143-18.1b, AM-143-1;;0;;;2;;NH-143-18.5
+20;AM/NH;Geografija;B;8;GZ5;Australija;Ne;;Ne;;Ne;;;1;NH-150-19.1a, NH-151-19.1b, NH-152-19.1c, NH-152-19.1d, NH-152-19.1e, NH-154-19.1f;;1;NH-150-19.1a, NH-151-19.1b, NH-152-19.1c, NH-152-19.1d, NH-152-19.1e, NH-154-19.1f;AM-151-1;0;;;2;;AM-154-1
+21;AM/NH;Geografija;B;8;GZ5;Okeanija;Ne;;Ne;;Ne;;;1;NH-158-20.1a, NH-158-20.1b;;1;NH-158-20.1a, NH-158-20.1b;;0;;;2;;NH-158-20.3
+22;AM/NH;Geografija;B;8;GZ5;Polarne oblasti;Ne;;Da;saradnja, zaštitaživotnesredine NH-165-21.2, NH-165-21.3;Ne;;;1;NH-162-21.1a, NH-163-21.1b, NH-164-21.1c, NH-164-21.1d;;1;NH-162-21.1a, NH-163-21.1b, NH-164-21.1c, NH-164-21.1d;;0;;;0;;
+1;FB/AM;Geografija;B;8;GZ6;Prirodnogeografske odlike Azije;Ne;;Ne;;Ne;;;2;;;2;;AM-6-1, AM-8-2;0;;;0;;
+2;FB/AM;Geografija;B;8;GZ6;Društvenogeografske odlike Azije;Ne ;;Ne;;Ne;;;1;AM-13-1;;2;;AM-11-1;0;;;0;;
+3;FB/AM;Geografija;B;8;GZ6;Centralna Azija;Ne;;Da;odgovornost, zaštitaživotnesredine FB-17-3.2;Ne;;;0;;;2;;;0;;;2;;AM-16-1
+4;FB/AM;Geografija;B;8;GZ6;Monsunska Azija;Ne;;Ne;;Ne;;;0;;;2;;AM-19-1, AM-23-1, AM-23-2;0;;;0;;
+5;FB/AM;Geografija;B;8;GZ6;Osnovni geografski podaci o Indiji i Maleziji;Ne;;Da;jednakost FB-27-5.2;Ne;;;0;;;2;AM-27-1;AM-24-1, AM-26-2 ;0;;;2;;AM-24-1
+6;FB/AM;Geografija;B;8;GZ6;Daleki istok - Istočna Azija;Ne;;Ne;;Ne;;;0;;;2;;;2;;;0;;
+7;FB/AM;Geografija;B;8;GZ6;Osnovni geografski podaci o Kini i Japanu;Ne;;Ne;;Ne;;;2;;;2;;AM-33-1, AM-34-2;2;;AM-33-1, AM-35-1;2;;
+8;FB/AM;Geografija;B;8;GZ6;Afrika - Položaj i prirodnogeografska obilježja;Ne;;Ne;;Ne;;;2;;;2;;AM-38-1;2;;;2;;
+9;FB/AM;Geografija;B;8;GZ6;Stanovništvo i privreda Afrike;Ne;;Da;život AM-41-1, mir AM-41-2;Ne;;;1;AM-43-1;;2;;AM-40-1;2;;;2;;FB-40-9.1
+10;FB/AM;Geografija;B;8;GZ6;Ekvatorijalna Afrika;Ne;;Ne;;Ne;;;0;;;2;;;2;;;2;;
+11;FB/AM;Geografija;B;8;GZ6;Osnovni podaci o Nigeriji, Kongu i Etiopiji;Da;pluralizamkaoproblem FB-49-11.1;Ne;;Ne;;;1;AM-51-1;;2;;;2;;;2;;
+12;FB/AM;Geografija;B;8;GZ6;Južna Afrika;Ne;;Da;jednakost AM-53-1, AM-54-2;Ne;;;2;;;2;;;2;;;2;;
+13;FB/AM;Geografija;B;8;GZ6;Amerika (Amerike) - Angloamerika;Ne;;Ne;;Ne;;;2;;;2;;AM-60-1;2;;;2;;
+14;FB/AM;Geografija;B;8;GZ6;Društvenogeografska obilježja Angloamerike;Ne;;Da;mir, odgovornost, život AM-64-1;Ne;;;2;;;2;;;2;;;2;;
+15;FB/AM;Geografija;B;8;GZ6;Osnovni geografski podaci o SAD i Kanadi;Ne;;Da;jednakost FB-69-15.2;Ne;;;0;;;2;;;2;;;2;;AM-66-2
+16;FB/AM;Geografija;B;8;GZ6;Latinska Amerika - Srednja Amerika;Da;neravnopravnost FB-72-16.1, AM-73-1;Ne;;Ne;;;2;;;2;;;2;;;2;;
+17;FB/AM;Geografija;B;8;GZ6;Položaj i prirodnogeografskaa obilježja Južne Amerike;Ne;;Ne;;Ne;;;0;;;2;;;2;;;2;;
+18;FB/AM;Geografija;B;8;GZ6;Društvenogeografska obilježja Južne Amerike;Da;neravnopravnost AM-78-1;Da;ratkaozlo AM-79-2;Ne;;;0;;;2;;;2;;;2;;
+19;FB/AM;Geografija;B;8;GZ6;Osnovni geografski podaci o Brazilu, Argentini i Čileu;Ne;;Da;život, zaštitaživotnesredine, odgovornost AM-84-1;Ne;;;0;;;0;;;2;;;2;;
+20;FB/AM;Geografija;B;8;GZ6;Australija i Okeanija;Ne;;Ne;;Ne;;;0;;;2;;AM-87-1;2;;;2;;
+21;FB/AM;Geografija;B;8;GZ6;Društvenogeografska obilježja Australije;Ne;;Da;život, odgovornost AM-90-1;Ne;;;0;;;2;;;2;;;2;;
+22;FB/AM;Geografija;B;8;GZ6;Okeanija;Ne;;Ne;;Ne;;;2;;;2;;AM-92-1;2;;;2;;
+23;FB/AM;Geografija;B;8;GZ6;Polarne oblasti;Ne;;Da;saradnja, solidarnost, jednakost FB-93-23.1;Ne;;;0;;;2;;;2;;;2;;
+1;AM/NH;Geografija;B;7;GZ2;Pojam, granice, veličina i geografski položaj Evrope;Ne;;Da;život NH-7-1.4;Ne;;;1;NH-5-1.1a;;0;;;1;NH-5-1.2a, AM-6-1, NH-7-1.2b;NH-6-1.5;0;;
+2;AM/NH;Geografija;B;7;GZ2;Prirodnogeografske odlike Evrope;Ne;;Ne;;Ne;;;1;NH-8-2.1a, NH-8-1.2b,NH-9-2.1c, NH-10-2.1d;;1;NH-8-2.1a, NH-8-1.2b,NH-9-2.1c, NH-10-2.1d;;2;;NH-11-2.3;0;;
+3;AM/NH;Geografija;B;7;GZ2;Klima i vode Evrope;Ne;;Ne;;Ne;;;1;NH-13-3.1a, NH-15-3.1b, NH-15-3.1c, NH-15-3.1d, NH-16-3.1e;;1;NH-13-3.1a, NH-15-3.1b, NH-15-3.1c, NH-15-3.1d, NH-16-3.1e;;0;;;0;;
+4;AM/NH;Geografija;B;7;GZ2;Biljni i životinjski svijet Evrope;Ne;;Da;zaštitaživotnesredine NH-18-4.2, NH-18-4.3, NH-19-4.4, NH-20-4.5, NH-20-4.7, NH-20-4.8, NH-20-4.9;Ne;;;1;NH-18-4.1a, NH-18-4.1b;;0;;;0;;;0;;
+5;AM/NH;Geografija;B;7;GZ2;Obale i mora Evrope;Ne;;Ne;;Ne;;;1;NH-21-5.1a, NH-23-5.1b, NH-23-5.1c;;0;;;0;;;0;;
+6;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike;Ne;;Da;život AM-26-1;Ne;;;1;NH-26-6.1a, NH-26-6.1b, NH-27-6.1c, NH-26-6.1d;;1;NH-26-6.1a, NH-26-6.1b, NH-27-6.1c, NH-26-6.1d;;2;;NH-27-6.3;2;;NH-28-6.5
+7;AM/NH;Geografija;B;7;GZ2;Struktura stanovništva Evrope;Ne;;Da;jednakost AM-29-1, AM-30-2;Ne;;;1;NH-30-7.1a, NH-30-7.1b, NH-31-7.1c;;0;;;2;;NH-29-7.2;2;;NH-31-7.4
+8;AM/NH;Geografija;B;7;GZ2;Privreda Evrope;Ne;;Da;život NH-32-8.2, odgovornost NH-35-8.4a, NH-36-8.4b;Ne;;;1;NH-33-8.1a, NH-33-8.1b, AM-34-1;;0;;;0;;;0;;
+9;AM/NH;Geografija;B;7;GZ2;Sredozemlje;Ne;;Ne;;Ne;;;1;NH-37-9.1a, NH-37-9.1b, NH-39-9.1c, NH-39-9.1d, NH-39-9.1e, NH-40-9.1f, NH-40-9.1g;;1;NH-37-9.1a, NH-37-9.1b, NH-39-9.1c, NH-39-9.1d, NH-39-9.1e, NH-40-9.1f, NH-40-9.1g;;0;;;0;;
+10;AM/NH;Geografija;B;7;GZ2;Evropsko Sredozemlje;Ne;;Ne;;Ne;;;1;NH-41-10.1a, NH-42-10.1b, NH-41-10.1c, NH-42-10.1d, NH-41-10.1e, NH-43-10.1f, NH-43-10.1g, NH-43-10.1h, NH-43-10.1i, NH-43-10.1j, NH-44-10.1k, NH-44-10.1l, NH-44-10.1m;;1;NH-41-10.1a, NH-42-10.1b, NH-41-10.1c, NH-42-10.1d, NH-41-10.1e, NH-43-10.1f, NH-43-10.1g, NH-43-10.1h, NH-43-10.1i, NH-43-10.1j, NH-44-10.1k, NH-44-10.1l, NH-44-10.1m;;0;;;0;;
+11;AM/NH;Geografija;B;7;GZ2;Društvenogeografske odlike Evropskog Sredozemlja;Ne;;Ne;;Ne;;;1;NH-46-11.1a, NH-46-11.1b, NH-46-11.1c, NH-47-11.1d, NH-47-11.1e, NH-48-11.1f, NH-49-11.1g;;1;NH-46-11.1a, NH-46-11.1b, NH-46-11.1c, NH-47-11.1d, NH-47-11.1e, NH-48-11.1f, NH-49-11.1g;;2;;NH-46-11.2;0;;
+12;AM/NH;Geografija;B;7;GZ2;Zemlje Pirinejskog poluotoka;Ne;;Ne;;Ne;;;2;;;1;NH-50-12.1a, NH-52-12.1b, NH-53-12.1c;;2;;NH-50-12.2;2;;NH-51-12.3
+13;AM/NH;Geografija;B;7;GZ2;Zemlje Apeninskog poluotoka i Malta;Ne;;Ne;;Ne;;;1;NH-57-13.1a, AM-58-1;;2;;;0;;;0;;
+14;AM/NH;Geografija;B;7;GZ2;Zemlje Balkanskog poluotoka;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+15;AM/NH;Geografija;B;7;GZ2;Zapadni Balkan - Republika Hrvatska;Ne;;Da;mir AM-73-1;Ne;;;1;NH-70-15.1a, NH-70-15.1b;;2;;;2;;NH-75-15.4;0;;
+16;AM/NH;Geografija;B;7;GZ2;Republika Srbija;Ne;;Ne;;Ne;;;1;NH-79-16.1a, NH-80-16.1b, NH-80-16.1c;;2;;;2;;NH-76-16.2;0;;
+17;AM/NH;Geografija;B;7;GZ2;Crna Gora;Ne;;Ne;;Ne;;;1;NH-83-17.1a, NH-84-17.1b, NH-85-17.1c;;2;;;0;;;0;;
+18;AM/NH;Geografija;B;7;GZ2;Azijsko Sredozemlje;Da;rat AM-89-1;Ne;;Ne;;;1;NH-89-18.1a, NH-89-18.1b, NH-89-18.1c, NH-89-18.1d;;2;;;0;;;0;;
+19;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike Jugozapadne Azije;Ne;;Ne;;Ne;;;1;NH-93-19.1a, NH-93-19.1b, NH-94-19.1c;;2;;;0;;;0;;
+20;AM/NH;Geografija;B;7;GZ2;Političko-geografska podjela Jugozapadne Azije;Da;upotrebasilekaorješenje AM-96-1;Da;mir AM-97, odgovornost NH-104-20.12a, NH-104-20.12b;Da;teritorij, prošlost AM-97;;1;NH-99-20.1a, NH-99-20.1b, NH-99-20.1c, NH-99-20.1d, NH-100-20.1e, NH-101-20.1f, NH-104-20.1g, NH-105-20.1h;;2;;;2;;NH-96-20.6, NH-96-20.7, NH-98-20.10;2;;NH-96-20.2, NH-96-20.5, NH-97-20.8
+21;AM/NH;Geografija;B;7;GZ2;Afričko Sredozemlje ;Ne;;Ne;;Ne;;;1;NH-106-21.1a, NH-107-21.1b;;1;AM-104-1;;0;;;0;;
+22;AM/NH;Geografija;B;7;GZ2;Društvenogeografske odlike Afričkog Sredozemlja;Ne;;Da;odgovornost NH-110-22.2;Ne;;;2;;;1;AM-109-1;;0;;;0;;
+23;AM/NH;Geografija;B;7;GZ2;Politička podjela Afričkog Sredozemlja ;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+24;AM/NH;Geografija;B;7;GZ2;Zapadna Evropa;Ne;;Da;život AM-114-1;Da;teritorij AM-114-2;insinuacija;1;NH-115-24.1a, NH-115-24.1b, NH-115-24.1c, NH-115-24.1d, NH-116-24.1e, NH-117-24.1f;;1;NH-115-24.1a, NH-115-24.1b, NH-115-24.1c, NH-115-24.1d, NH-116-24.1e, NH-117-24.1f;;0;;;0;;
+25;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike;Ne;;Ne;;Ne;;;1;NH-118-25.1a, NH-118-25.1b, NH-118-25.1c, NH-118-25.1d;;2;;;0;;;0;;
+26;AM/NH;Geografija;B;7;GZ2;Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske;Ne;;Ne;;Ne;;;1;NH-121-26.1a, NH-121-26.1b, NH-122-26.1c, NH-123-26.1d, NH-123-26.1e, NH-124-26.1f, NH-124-26.1g;;2;;;0;;;2;;NH-124-26.3a, NH-125-26.3b
+27;AM/NH;Geografija;B;7;GZ2;Republika Francuska;Ne;;Ne;;Ne;;;1;NH-126-27.1a, NH-126-27.1b, NH-127-27.1c, NH-127-27.1d, NH-127-27.1e;;1;NH-126-27.1a, NH-126-27.1b, NH-127-27.1c, NH-127-27.1d, NH-127-27.1e;;0;;;0;;
+28;AM/NH;Geografija;B;7;GZ2;Zemlje Beneluxa i Republika Irska;Ne;;Ne;;Ne;;;1;NH-131-28.1a, NH-133-28.1b;;2;;;0;;;0;;
+29;AM/NH;Geografija;B;7;GZ2;Sjeverna Evropa;Ne;;Ne;;Ne;;;1;NH-136-29.1c, NH-137-29.1a, NH-137-29.1b;;1;NH-136-29.1c, NH-137-29.1a, NH-137-29.1b;;0;;;0;;
+30;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike;Ne;;Ne;;Ne;;;1;NH-139-30.1a, NH-140-30.1b;;1;NH-139-30.1a, NH-140-30.1b;;0;;;0;;
+31;AM/NH;Geografija;B;7;GZ2;Skandinavske zemlje;Ne;;Ne;;Ne;;;1;NH-143-21.1a, NH-146-31.1b;;1;NH-143-21.1a, NH-146-31.1b;;0;;;0;;
+32;AM/NH;Geografija;B;7;GZ2;Pribaltičke zemlje;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+33;AM/NH;Geografija;B;7;GZ2;Srednja Evropa;Ne;;Ne;;Ne;;;1;NH-156-33.1a, NH-156-33.1b, NH-156.33.1c, NH-157-33.1d, NH-158-33.1e, NH-158-33.1f, NH-158-33.1g, NH-158-33.1h, NH-158-33.1i, NH-158-33.1j, NH-158-33.1k;;1;NH-156-33.1a, NH-156-33.1b, NH-156.33.1c, NH-157-33.1d, NH-158-33.1e, NH-158-33.1f, NH-158-33.1g, NH-158-33.1h, NH-158-33.1i, NH-158-33.1j, NH-158-33.1k;;2;;NH-157-33.2;0;;
+34;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike;Ne;;Da;zaštitaživotnesredine, odgovornost NH-161-34.4a, NH-162-34.4b;Ne;;;1;NH-160-34.1a, NH-160-34.1b, NH-160-34.1c, NH-160-34.1d, NH-161-34.1e, NH-161-34.1f, NH-162-34.1g;;1;NH-160-34.1a, NH-160-34.1b, NH-160-34.1c, NH-160-34.1d, NH-161-34.1e, NH-161-34.1f, NH-162-34.1g;;2;;NH-160-34.3;2;;NH-160-34.2
+35;AM/NH;Geografija;B;7;GZ2;Alpske zemlje;Ne;;Da;jednakost NH-163-35.1a, AM-163-1, NH-165-35.1b;Ne;;;2;;;2;;;0;;;0;;
+36;AM/NH;Geografija;B;7;GZ2;Istok Srednje Evrope;Ne;;Ne;;Ne;;;1;NH-170-36.1a, NH-175-36.1b;;1;NH-170-36.1a, NH-175-36.1b;;0;;;0;;
+37;AM/NH;Geografija;B;7;GZ2;Njemačka;Ne;;Da;zaštitaživotnesredine NH-180-37.3;Ne;;;1;NH-177-37.1a, NH-177-37.1b, NH-177-37.1c, NH-178-37.1d, NH-178-37.1e, NH-178-37.1f, NH-178-37.1g, NH-178-37.1h, NH-178-37.1i, NH-179-37.1j;;1;NH-177-37.1a, NH-177-37.1b, NH-177-37.1c, NH-178-37.1d, NH-178-37.1e, NH-178-37.1f, NH-178-37.1g, NH-178-37.1h, NH-178-37.1i, NH-179-37.1j;;0;;;0;;
+38;AM/NH;Geografija;B;7;GZ2;Istočna Evropa;Ne;;Ne;;Ne;;;1;NH-183-38.1a, NH-183-38.1b;;1;NH-183-38.1a, NH-183-38.1b;;0;;;0;;
+39;AM/NH;Geografija;B;7;GZ2;Društvenogeografske karakteristike;Ne;;Da;odgovornost, zaštitaživotnesredine NH-186-39.3;Ne;;;1;NH-185-39.1a, NH-185-39.1b;;1;NH-185-39.1a, NH-185-39.1b;;0;;;2;;NH-185-39.2a, NH-185-39.2b, NH-186-39.2c
+40;AM/NH;Geografija;B;7;GZ2;Političkogeografska podjela Istočne Evrope;Ne;;Ne;;Ne;;;1;NH-187-40.1a, NH-190-40.1b, NH-190-40.1c;;1;NH-187-40.1a, NH-190-40.1b, NH-190-40.1c;;0;;;0;;
+41;AM/NH;Geografija;B;7;GZ2;Ruska Federacija;Ne;;Ne;;Ne;;;1;NH-195-41.1a;;1;NH-195-41.1a;;0;;;2;;NH-196-41.3b
+1;AM/NH;Geografija;S;6;GZ9;Predmet, podjela i značaj geografije;Ne;;Da;odgovornost, zaštitaživotnesredine NH-11-1.3;Ne;;;1;NH-10-1.1a, NH-11-1.1b;;1;NH-10-1.1a, NH-11-1.1b;;0;;;0;;
+2;AM/NH;Geografija;S;6;GZ9;Vasiona i vasionska tijela;Ne;;Ne;;Ne;;;1;NH-15-2.1a, NH-17-2.1b, NH-18-2.1c, NH-19-2.1d;;1;NH-15-2.1a, NH-17-2.1b, NH-18-2.1c, NH-19-2.1d;;1;NH-16-2.2;;0;;
+3;AM/NH;Geografija;S;6;GZ9;Oblik i veličina Zemlje;Ne;;Ne;;Ne;;;1;NH-21-3.1a, NH-21-3.1b, NH-23-3.1c;;1;NH-21-3.1a, NH-21-3.1b, NH-23-3.1c;;0;;;0;;
+4;AM/NH;Geografija;S;6;GZ9;Rotacija i njene posljedice ;Ne;;Ne;;Ne;;;1;NH-27-4.1a, NH-27-4.1b, NH-29-4.1c;str. 27, 29;1;NH-27-4.1a, NH-27-4.1b, NH-29-4.1c;;0;;;0;;
+5;AM/NH;Geografija;S;6;GZ9;Revolucija i njene posljedice;Ne;;Ne;;Ne;;;1;NH-30-5.1a, NH-32-5.1b, NH-33-5.1c;;1;NH-30-5.1a, NH-32-5.1b, NH-33-5.1c;;0;;;0;;
+6;AM/NH;Geografija;S;6;GZ9;Računanje vremena;Ne;;Ne;;Ne;;;1;NH-34-6.1a, NH-35-6.1b, NH-36-6.1c;;1;NH-34-6.1a, NH-35-6.1b, NH-36-6.1c;;2;;NH-35-6.2;2;;NH-35-6.3
+7;AM/NH;Geografija;S;6;GZ9;Orijentacija u prirodi;Ne;;Ne;;Ne;;;1;NH-39-7.1a, NH-42-7.1b;;1;NH-39-7.1a, NH-42-7.1b;;0;;;0;;
+8;AM/NH;Geografija;S;6;GZ9;Orijentacija pomoću kompasa i časovnika;Ne;;Ne;;Ne;;;1;NH-43-8.1a, NH-44-8.1b;;1;NH-43-8.1a, NH-44-8.1b;;0;;;0;;
+9;AM/NH;Geografija;S;6;GZ9;Određivanje položaja na Zemlji;Ne;;Da;saradnja, odgovornost, život NH-46-9.2, NH-47-9.3;Ne;;;1;NH-45-9.1a, NH-45-9.1b, NH-46-9.1c, NH-47-9.1d;;1;NH-45-9.1a, NH-45-9.1b, NH-46-9.1c, NH-47-9.1d;;0;;;0;;
+10;AM/NH;Geografija;S;6;GZ9;Nadmorska i relativna visina;Ne;;Ne;;Ne;;;1;NH-48-10.1a, NH-48-10.1b, NH-48-10.1c;;1;NH-48-10.1a, NH-48-10.1b, NH-48-10.1c;;0;;;0;;
+11;AM/NH;Geografija;S;6;GZ9;Predstavljanje površine Zemlje na globusu i karti;Ne;;Ne;;Ne;;;1;NH-53-11.1a, NH-53-11.1b, NH-54-11.1c, NH-55-11.1d;;1;NH-53-11.1a, NH-53-11.1b, NH-54-11.1c, NH-55-11.1d;;0;;;0;;
+12;AM/NH;Geografija;S;6;GZ9;Matematički elementi karte;Ne;;Ne;;Ne;;;1;NH-56-12.1a, NH-56-12.1b, NH-57-12.1c, NH-59-12.1d, NH-59-12.1e;;1;NH-56-12.1a, NH-56-12.1b, NH-57-12.1c, NH-59-12.1d, NH-59-12.1e;;1;AM-56-1;;0;;
+13;AM/NH;Geografija;S;6;GZ9;Predstavljanje geografskog sadržaja na karti;Ne;;Ne;;Ne;;;1;NH-60-13.1a, NH-61-13.1b, NH-62-13.1c, NH-62-13.1d;;1;NH-60-13.1a, NH-61-13.1b, NH-62-13.1c, NH-62-13.1d;;0;;;0;;
+14;AM/NH;Geografija;S;6;GZ9;Predstavljanje hidrografije i reljefa na karti;Ne;;Ne;;Ne;;;1;NH-63-14.1a, NH-64-14.1b, NH-64-14.1c, NH-65-14.1d;;1;NH-63-14.1a, NH-64-14.1b, NH-64-14.1c, NH-65-14.1d;;0;;;0;;
+15;AM/NH;Geografija;S;6;GZ9;Unutrašnja građa Zemlje i njen sastav;Ne;;Ne;;Ne;;;1;NH-69-15.1a, NH-69-15.1b, NH-70-15.1c, NH-71-15.1d, NH-71-15.1d, NH-72-15.1f;;1;NH-69-15.1a, NH-69-15.1b, NH-70-15.1c, NH-71-15.1d, NH-71-15.1d, NH-72-15.1f;;0;;;0;;
+16;AM/NH;Geografija;S;6;GZ9;Građa Zemljine kore;Ne;;Ne;;Ne;;;1;NH-73-16.1a, NH-74-16.1b, NH-74-16.1c, NH-75-16.1d;;1;NH-73-16.1a, NH-74-16.1b, NH-74-16.1c, NH-75-16.1d;;0;;;0;;
+17;AM/NH;Geografija;S;6;GZ9;Geološki razvoj Zemljine kore;Ne;;Ne;;Ne;;;1;NH-76-17.1a, NH-76-17.1b, NH-77-17.1c, NH-78-17.1d;;1;NH-76-17.1a, NH-76-17.1b, NH-77-17.1c, NH-78-17.1d;;0;;;0;;
+18;AM/NH;Geografija;S;6;GZ9;Unutrašnje Zemljine sile;Ne;;Ne;;Ne;;;1;NH-79-18.1a, NH-79-18.1b, NH-80-18.1c, NH-80-18.1d, NH-80-18.1e, NH-81-18.1f, NH-81-18.1g;;1;NH-79-18.1a, NH-79-18.1b, NH-80-18.1c, NH-80-18.1d, NH-80-18.1e, NH-81-18.1f, NH-81-18.1g;;0;;;0;;
+19;AM/NH;Geografija;S;6;GZ9;Vulkanizam i zemljotresi;Ne;;Ne;;Ne;;;1;NH-82-19.1a, NH-83-19.1b, NH-83-19.1c, NH-85-19.1d, NH-85-19.1e, NH-85-19.1f;;1;NH-82-19.1a, NH-83-19.1b, NH-83-19.1c, NH-85-19.1d, NH-85-19.1e, NH-85-19.1f;;1;AM-84-1;;0;;
+20;AM/NH;Geografija;S;6;GZ9;Oblici reljefa nastali radom spoljašnjih sila;Ne;;Ne;;Ne;;;1;NH-86-20.1a, NH-87-20.1b, NH-87-20.1c, NH-88-20.1d, NH-88-20.1e, NH-88-20.1f, NH-89-20.1g;;1;NH-86-20.1a, NH-87-20.1b, NH-87-20.1c, NH-88-20.1d, NH-88-20.1e, NH-88-20.1f, NH-89-20.1g;;0;;;0;;
+21;AM/NH;Geografija;S;6;GZ9;Sastav i podjela atmosfere;Ne;;Da;život NH-93-21.2, NH-94-21.3;Ne;;;1;NH-93-21.1a,NH-94-21.1b,NH-94-21.1c, NH-95-21.1d;;1;NH-93-21.1a,NH-94-21.1b,NH-94-21.1c, NH-95-21.1d;;0;;;0;;
+22;AM/NH;Geografija;S;6;GZ9;Stanje atmosfere;Ne;;Ne;;Ne;;;1;NH-96-22.1a, NH-97-22.1b, NH-97-22.1c, NH-97-22.1d, NH-98-22.1e, NH-99-22.1f, NH-99-22.1g, NH-99-22.1h, NH-100-22.1i, NH-102-22.1j, NH-102-22.1k;;1;NH-96-22.1a, NH-97-22.1b, NH-97-22.1c, NH-97-22.1d, NH-98-22.1e, NH-99-22.1f, NH-99-22.1g, NH-99-22.1h, NH-100-22.1i, NH-102-22.1j, NH-102-22.1k;;0;;;0;;
+23;AM/NH;Geografija;S;6;GZ9;Vrijeme i klima;Ne;;Da;život NH-103-23.2, NH-106-23.5, NH-108-23.6;Ne;;;1;NH-103-23.1a, NH-104-23.1b, NH-104-23.1c, NH-105-23.1d, NH-107-23.1e;;1;NH-103-23.1a, NH-104-23.1b, NH-104-23.1c, NH-105-23.1d, NH-107-23.1e;;0;;;0;;
+24;AM/NH;Geografija;S;6;GZ9;Opšte odlike hidrosfere;Ne;;Ne;;Ne;;;1;NH-111-24.1a, NH-111-24.1b, NH-112-24.1c, NH-113-24.1d;;1;NH-111-24.1a, NH-111-24.1b, NH-112-24.1c, NH-113-24.1d;;0;;;0;;
+25;AM/NH;Geografija;S;6;GZ9;Značaj Svjetskog okeana;Ne;;Da;život, odgovornost, zaštitaživotnesredine NH-115-25.2a, NH-115-25.2b, NH-115-25.2c, NH-115-25.2d, NH-116-25.2e, NH-116-25.2f, NH-117-25.2g;Ne;;;1;NH-115-25.1a, NH-116-25.1b, NH-117-25.1c;;1;NH-115-25.1a, NH-116-25.1b, NH-117-25.1c;;0;;;0;;
+26;AM/NH;Geografija;S;6;GZ9;Kopnene vode;Ne;;Da;život, odgovornost, zaštitaživotnesredine NH-119-26.2, NH-121-26.3, NH-123-26.4;Ne;;;1;NH-118-26.1a, NH-119-26.1b, NH-119-26.1c, NH-122-26.1d;;1;NH-118-26.1a, NH-119-26.1b, NH-119-26.1c, NH-122-26.1d;;0;;;0;;
+27;AM/NH;Geografija;S;6;GZ9;Problem nestašice vode i zaštita od zagađenja;Ne;;Da;odgovornost, zaštitaživotnesredine NH-124-27.2a, NH-124-27.2b, NH-124-27.2c, NH-125-27.2d, NH-125-27.2e, NH-125-27.4, NH-126-27.2f, NH-126-27.2g;Ne;;;1;NH-124-27.1a, NH-125-27.1b, NH-126-27.1c;;1;NH-124-27.1a, NH-125-27.1b, NH-126-27.1c;;1;AM-125-1;;0;;
+28;AM/NH;Geografija;S;6;GZ9;Rasprostranjenost biljnog i životinjskog svijeta na Zemlji;Ne;;Da;odgovornost, zaštitaživotnesredine NH-129-28.2, NH-129-28.3, NH-134-28.4;Ne;;;1;NH-129-28.1a, NH-130-28.1b, NH-133-28.1c, NH-134-28.1d, NH-134-28.1e;;1;NH-129-28.1a, NH-130-28.1b, NH-133-28.1c, NH-134-28.1d, NH-134-28.1e;;0;;;0;;
+29;AM/NH;Geografija;S;6;GZ9;Ekumena, pojam i granice;Ne;;Ne;;Ne;;;1;NH-137-29.1a, NH-137-29.1b, NH-138-29.1c, NH-138-29.1d, NH-139-29.1e;;1;NH-137-29.1a, NH-137-29.1b, NH-138-29.1c, NH-138-29.1d, NH-139-29.1e;;0;;;0;;
+30;AM/NH;Geografija;S;6;GZ9;Prirodno i migraciono kretanje stanovništva;Ne;;Da;život, odgovornost NH-140-30.2, AM-142-1;Ne;;;1;NH-140-30.1a, NH-141-30.1b, NH-141-30.1c, NH-142-30.1d, NH-142-30.1e, NH-144-30.1f;;1;NH-140-30.1a, NH-141-30.1b, NH-141-30.1c, NH-142-30.1d, NH-142-30.1e, NH-144-30.1f;;2;;NH-142-30.8;2;;AM-141-1, AM-141-2, NH-141-30.3a, AM-142-2, NA-142-30.3b
+31;AM/NH;Geografija;S;6;GZ9;Naselja, pojam i tipovi urbanizacije;Ne;;Ne;;Ne;;;1;NH-145-31.1a, NH-147-31.1b, AM-147-1;;1;NH-145-31.1a, NH-147-31.1b, AM-147-1;;0;;;0;;
+32;AM/NH;Geografija;S;6;GZ9;Prirodna i geografska sredina;Ne;;Ne;;Ne;;;1;NH-149-32.1a, NH-150-32.1b;;1;NH-149-32.1a, NH-150-32.1b;;2;;NH-150-32.2;0;;
+33;AM/NH;Geografija;S;6;GZ9;Privreda i njene djelatnosti;Ne;;Ne;;Ne;;;1;NH-152-33.1a, NH-153-33.1b;;1;NH-152-33.1a, NH-153-33.1b;;0;;;0;;
+1;FB/AM;Geografija;S;7;GZ11;Evropa - Ime, granice, veličina, geografski položaj;Ne;;Da;saradnja, mir FB-8-1.1, FB-8-1.2, FB-8-1.3, FB-11-1.9, FB-11-1.13;Ne;;;1;FB-9-1.4, FB-10-1.5, FB-10-1.6, FB-10-1.7, FB-11-1.10, FB-11-1.12;;1;FB-11-1.8, FB-11-1.12;;0;;;0;;
+2;FB/AM;Geografija;S;7;GZ11;Razuđenost obala Evrope;Ne;;Da;život, odgovornost FB-16-2.10, FB-17-2.16, FB-17-2.17;Ne;;;1;FB-13-2.1, FB-13-2.2, FB-14-2.4, FB-14-2.5, FB-15-2.6, FB-15-2.7, FB-15-2.8, FB-15-2.9, FB-16-2.11, FB-16-2.12, FB-16-2.13, FB-16-2.14, FB-16-2.15;;1;FB-17-2.18;;0;;;0;;
+3;FB/AM;Geografija;S;7;GZ11;Odlike reljefa;Ne;;Ne;;Ne;;;1;FB-18-3.1, FB-19-3.2, FB-19-3.3, FB-19-3.4, FB-19-3.5, FB-20-3.6, FB-20-3.7, FB-21-3.8, FB-21-3.9, FB-21-3.10, FB-21-3.11, FB-22-3.12;;1;FB-21-3.10, FB-22-3.12;;0;;;0;;
+4;FB/AM;Geografija;S;7;GZ11;Klima Evrope;Ne;;Da;život FB-23-4.1, FB-26-4.16;Ne;;;1;FB-23-4.2, FB-24-4.3, FB-24-4.4, FB-24-4.5, FB-24-4.6, FB-24-4.7, FB-24-4.8, FB-25-4.9, FB-25-4.10, FB-25-4.11, FB-25-4.12, FB-26-4.13, FB-26-4.14;;1;FB-24-4.3, FB-26-4.15;;0;;;0;;
+5;FB/AM;Geografija;S;7;GZ11;Hidrografske odlike;Ne;;Da;odgovornost, saradnja FB-28-5.1, FB-29-5.3, FB-30-5.10, FB-31-5.12, FB-31-5.14;Ne;;;1;FB-29-5.4, FB-29-5.5, FB-30-5.5, FB-30-5.6, FB-30-5.7, FB-30-5.8, FB-30-5.9, FB-30-5.10, FB-31-5.11, FB-31-5.13, FB-31-5.15;;1;FB-29-5.4, FB-30-5.8, FB-31-5.15;;0;;;0;;
+6;FB/AM;Geografija;S;7;GZ11;Biljni i životinjski svijet;Ne;;Da;odgovornost FB-33-6.1, FB-33-6.2, FB-33-6.4, FB-36-6.13, FB-36-6.14, FB-36-6.15, FB-37-6.18;Ne;;;1;FB-33-6.3, FB-34-6.5, FB-34-6.6, FB-34-6.7, FB-34-6.8, FB-35-6.9, FB-35-6.10, FB-36-6.11, FB-37-6.16, FB-37-6.17;;1;FB-35-6.10, FB-37-6.16, FB-37-6.17;;0;;;0;;
+7;FB/AM;Geografija;S;7;GZ11;Društvenogeografske odlike Evrope - Stanovništvo, prirodna i migraciona kretanja;Ne;;Da;život, odgovornost FB-38-1, FB-41-7.7;Ne;;;1;FB-38-7.1, FB-39-7.2, FB-39-7.3, FB-40-7.5, FB-40-7.6, FB-41-7.8, FB-41-7.9, FB-41-7.10, FB-42-7.11, FB-42-7.12, FB-43-7.13, FB-42-7.17;;1;FB-38-7.1, FB-41-7.8, FB-43-7.17;;0;;;2;;FB-43-7.14, FB-43-7.15, FB-43-7.16, FB-44-7.18
+8;FB/AM;Geografija;S;7;GZ11;Privreda - Evropa kao privredno razvijeno područje;Ne;;Da;odgovornost, saradnja, život FB-47-8.5, FB-48-8.8, FB-49-8.11;Ne;;;1;FB-45-8.1, FB-46-8.2, FB-46-8.3, FB-47-8.4, FB-47-8.16, FB-47-8.6, FB-48-8.7, FB-48-8.10, FB-49-8.12, FB-49-8.13, FB-49-8.14, FB-50-8.15;;1;FB-46-8.3, FB-50-8.15;;0;;;0;;
+9;FB/AM;Geografija;S;7;GZ11;Evropska unija - Ujedinjenje Evrope;Ne;;Da;saradnja, jednakost, solidarnost, život, odgovornost FB-51-9.1, FB-52-9.4, FB-52-9.5, FB-53-9.7;Ne;;;1;FB-51-9.2, FB-52-9.3, FB-52-1, FB-52-2, FB-53-9.6, FB-53-9.8, FB-54-9.9, FB-54-9.10;;1;;;0;;;0;;
+10;FB/AM;Geografija;S;7;GZ11;Geografske regije Evrope - Južna Evropa - Geografski položaj, prostiranje i politička podjela stanovništvo i privreda;Ne;;Ne;;Ne;;;1;FB-56-10.1, FB-57-10.2, FB-57-10.3, FB-57-10.4, FB-57-10.5, FB-57-10.6, FB-58-10.7, FB-59-10.8, FB-59-10.9, FB-59-10.10;;1;;;0;;;2;;FB-59-10.11, FB-60-10.12
+11;FB/AM;Geografija;S;7;GZ11;BJR Makedonija, Republika Albanija -Osnovne fizičko-geografske i društveno-geografske karakteristike;Da;pluralizamkaoproblem FB-62-11.3, FB-64-11.10, FB-66-11.13, FB-67-11.14;Da;odgovornost FB-67-11.16;Ne;;;1;FB-63-11.4, FB-63-11.5, FB-63-11.6, FB-63-11.7, FB-64-11.8, FB-64-11.9, FB- 65-11.11, FB-65-11.12;;1;FB-62-11.1, FB-62-11.2;;2;;FB-64-11.10;2;;AM-64-1, FB-66-11.13
+12;FB/AM;Geografija;S;7;GZ11;Republika Slovenija - Osnovne odlike;Ne;;Ne;;Ne;;;1;FB-68-12.1, FB-69-12.2, FB-69-12.3, FB-70-12.4, FB-70-12.6, FB-71-12.7;;1;FB-68-12.1, FB-70-12.4;;2;;FB-70-12.5;0;;
+13;FB/AM;Geografija;S;7;GZ11;Republika Grčka - Zemlja ostrva i poluostrva - Regije i njihov značaj;Ne; ;Da;saradnja, život, odgovornost AM-72-1, FB-73-13.1, FB-73-13.3, FB-76-13.7;Da;prošlost, pobožnost;relativizacija, insinuacija;1;FB-73-1, FB-73-13.2, FB-75-13.5;;1;;;2;FB-73-13.3, FB-73-13.4, FB-76-13.6, FB-76-13.8, FB-76-13.9;;2;;FB-73
+14;FB/AM;Geografija;S;7;GZ11;Republika Bugarska - Osnovne odlike;Ne;;Ne;;Ne;;;1;FB-77-14.1, FB-77-14.2, FB-77-14.3, FB-78-14.4;;1;FB-78-14.4;;0;;;0;;
+15;FB/AM;Geografija;S;7;GZ11;Apeninsko poluostrvo - Republika Italija - Prirodno-geografske odlike i društveno-historijski razvoj, kontrast između sjevera i juga;Ne;;Ne;;Ne;;;1;FB-81-15.1, FB-82-15.2, FB-83-15.3, FB-83-15.4;;1;;;0;;;0;;
+16;FB/AM;Geografija;S;7;GZ11;Pirinejsko poluostrvo - Kraljevina Španija i Portugal - Osnovne odlike;Ne;;Da;mir FB-87-16.3;Ne;;;1;FB-85-16.1, FB-86-16.2, FB-88-16.4, FB-88-16.5, FB-88-16.6, FB-89-16.7, FB-89-16.8;;1;FB-89-16.7, FB-89-16.8;;0;;;0;;
+17;FB/AM;Geografija;S;7;GZ11;Srednja Evropa - Geografski položaj, prostiranje, politička podjela i prirodne odlike;Ne;;Ne;;Ne;;;1;FB-90-17.1, FB-90-17.2, FB-91-17.4, FB-91-17.6, FB-91-17.7,FB-91-17.8,FB-92-17.9, FB-92-17.10, FB-92-17.11, FB-92-17.12, FB-93-17.13, FB-93-17.14, FB-93-17.15, FB-94-17.16 ;;1;FB-91-17.4, FB-91-17.6, FB-94-17.6;;0;;;0;;
+18;FB/AM;Geografija;S;7;GZ11;Stanovništvo, karakteristike privrednog i društvenog razvoja i značaj Srednje Evrope ;Da;rat AM-95-1;Da;odgovornost, saradnja FB-96-18.7, FB-97-18.11, FB-100-18.19, FB-101-18.22;Ne;;;1;FB-95-18.1, FB-95-18.3, FB-96-18.4, FB-96-18.5, FB-96-18.6, FB-96-18.8, FB-96-18.9, FB-96-18.10, FB-97-18.11, FB-98-18.12, FB-98-18.13, FB-98-18.14, FB-99-18.15, FB-99-18.15a, FB-99-18.15b, FB-99-18.17, FB-100-18.18, FB-100-18.20, FB-100-18.21;;1;FB-95-18.1, FB-96-18.5, FB-99-18.15;;0;;;0;;
+19;FB/AM;Geografija;S;7;GZ11;Republika Mađarska - Karakteristike reljefa, stanovništva i privrede;Ne;;Da;odgovornost FB-103-19.2;Ne;;;1;FB-102-19.1, FB-103-19.3, FB-104-19.4, FB-104-19.5, FB-105-19.6, FB-105-19.7, FB-105-19.7;;1;FB-104-19.4, FB-105-19.7;;0;;;0;;
+20;FB/AM;Geografija;S;7;GZ11;Rumunija - Osnovne karakteristike reljefa, stanovništva i privrednog razvoja;Ne;;Ne;;Ne;;;1;FB-106-20.1, FB-106-20.2, FB-106-20.3, FB-107-20.4, FB-107-20.5, FB-107-20.6, FB-107-20.7,FB-108-20.8, FB-108-20.9, FB-108-20.10;;1;;;0;;;0;;
+21;FB/AM;Geografija;S;7;GZ11;Republika Češka i Republika Slovačka - Osnovne odlike, podjela i suvremeni razvoj;Ne;;Da;odgovornost FB-111-21.4, FB-112-21.7;Ne;;;1;FB-111-21.2, FB-111-21.3, FB-111-21.4, FB-112-21.5, FB-112-21.6, FB-113-21.8, FB-113-21.9, FB-114-21.10, FB-114-21.11;;1; FB-111-21.2, FB-114-21.11;;0;;;0;;
+22;FB/AM;Geografija;S;7;GZ11;Republika Poljska - Osnovne odlike;Ne;;Ne ;;Ne;;;1;FB-115-22.2, FB-116-22.3, FB-116-22.4, FB-116-22.5, FB-117-22.8, FB-117-22.9;;1;FB-117-22.8, FB-118-22.10;;0;;;0;;
+23;FB/AM;Geografija;S;7;GZ11;Alpske zemlje - Osnovne geografske karakteristike;Ne;;Da;mir FB-123-23.10, FB-123-23.11;Ne;;;1;FB-120-23.1, FB-120-23.2, FB-121-23.4, FB-121-23.5, FB-122-23.6, FB-122-23.7, FB-122-23.8, FB-123-23.9, FB-123-23.12;;1;FB-123-23.11;;0;;;0;;
+24;FB/AM;Geografija;S;7;GZ11;Savezna Republika Njemačka - Geografski položaj, prirodno-geografske i regionalne karakteristike;Ne;;Da;mir, saradnja, život FB-124-24.2, FB-FB-125-24.4, FB-127-24.13, FB-126-24.12;Ne;;;1;FB-124-24.1, FB-125-24.5, FB-124-24.6, FB-125-24.7, FB-126-24.8, FB-126-24.9, FB-126-24.10, FB-126-24.11, FB-126-24.12, FB-127-24.14, FB-127-24.15, FB-128-24.17, FB-128-24.18, FB-129-24.19, FB-129-24.20, FB-129-24.21;;1;FB-125-24.7, FB-129-24.20, FB-129-24.21;;0;;;0;;
+25;FB/AM;Geografija;S;7;GZ11;Zapadna Evropa - Geografski položaj, odlike stanovništva i naselja;Ne;;Da;život, odgovornost FB-131-25.3, FB-132-25.6;Ne;;;1;FB-131-25.1, FB-131-25.2, FB-131-25.4, FB-131-25.5, FB-132-25.7, FB-132-25.8, FB-132-25.9, FB-133-25.10, FB-133-25.11, FB-134-25.12;;1;FB-132-25.9, FB-134-25.12;;0;;;0;;
+26;FB/AM;Geografija;S;7;GZ11;Specifičnosti privrednog i društvenog razvoja;Ne;;Da;odgovornost FB-135-26.3, FB-136-26.4, FB-137-26.7, FB-137-26.8, FB-137-26.11, FB-139-26.15, FB-139-26.17;Ne;;;1;FB-135-26.1, FB-135-26.2, FB-136-26.5, FB-136-26.6, FB-137-26.9, FB-137-26.10, FB-138-26.12, FB-138-26.13, FB-139-26.14, FB-139-26.16;;1;FB-139-26.16;;0;;;0;;
+27;FB/AM;Geografija;S;7;GZ11;Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske - Osnovne prirodne, privredne i društvene karakteristike;Da;političkanestabilnost FB-145-27.18;Ne;;Ne;;;1;FB-140-27.1, FB-141-27.2, FB-141-27.3, FB-141-27.5, FB-141-27.6, FB-141-27.6, FB-141-27.7, FB-142-27.8, FB-142-27.9, FB-143-27.10, FB-143-27.11, FB-143-27.12, FB-142-27.13, FB-143-27.14, FB-142-27.15, FB-144-27.17, FB.145-27.19, FB-145-27.20, FB-145-27.23, FB-146-27.24;;1;FB-146-27.24;;0;;;0;;
+28;FB/AM;Geografija;S;7;GZ11;Republika Francuska - Osnovne geografske karakteristike;Ne;;Da;odgovornost, saradnja FB-148-28.8, FB-148-28.10, FB-149-28.12, FB-149-28.13, FB-151-28.21;Ne;;;1;FB-147-28.1, FB-148-28.2, FB-148-28.3, FB-148-28.4, FB-148-28.5, FB-148-28.6, FB-148-28.7, FB-148-28.9,FB-149-28.11, FB-150-28.14, FB-150-28.15, FB-150-28.16, FB-150-28.17, FB-150-28.18, FB-150-28.19, FB-151-28.20;;1;FB-148-28.4, FB-151-28.20, AM-149-1;;0;;;0;;
+29;FB/AM;Geografija;S;7;GZ11;Zemlje Beneluksa - Osnovne geografske karakteristike;Ne;;Da;život, saradnja, odgovornost FB-152-29.1, FB-154-29.8, FB-154-29.11, FB-155-29.13, FB-157-29.16;Ne;;;1;FB-152-29.2, FB-152-29.3, FB-152-29.4, FB-153-29.6, FB-153-29.7, FB-154-29.9, FB-154-29.10, FB-155-29.12, FB-155-1, FB-155-2, FB-156-1, FB-157-29.14;;1;FB-153-29.5;;0;;;0;;
+30;FB/AM;Geografija;S;7;GZ11;Sjeverna Evropa - Osnovne geografske karakteristike;Ne;;Da;život FB-158-30.1, FB-161-30.5;Ne;;;1;FB-159-30.2, FB-159-30.3, FB-160-30.4;;1;AM-162-1;;0;;;0;;
+31;FB/AM;Geografija;S;7;GZ11;Norveška, Finska, Danska - Geografski položaj i značaj;Ne;;Ne;;Ne;;;1;FB-163-31.2, FB-164-31.3, FB-165--1, FB-166-31.5;;1;FB-166-31.5;;0;;;0;;
+32;FB/AM;Geografija;S;7;GZ11;Kraljevina Švedska - Geografski položaj, prirodne odlike i privredni razvoj;Ne;;Ne;;Ne;;;1;FB-167-32.1, FB-167-32.2, FB-168-32.2, FB-168-32.4, FB-168-32.5, FB-169-32.6;;1;;;0;;;0;;
+33;FB/AM;Geografija;S;7;GZ11;Istočna Evropa i Evroazijski prostor  - Geografski pregled Istočne Evrope;Ne;;Ne;;Ne;;;1;FB-171-33.1, FB-171-33.2, FB-171-33.3, FB-171-33.4, FB-171-33.5, FB-172-33.6, FB-172-33.7, FB-172-33.8;;1;FB-174-33.9;;0;;;0;;
+34;FB/AM;Geografija;S;7;GZ11;Stanovništvo i privredne karakteristike Istočne Evrope;Da;sukob AM-176-1;Ne;;Ne;;;1;FB-175-34.1, FB-175-34.2, FB-175-34.3, FB-176-34.4, FB-176-34.6, FB-177-34.8, FB-178-34.9;;1;FB-176-34.6;;2;;FB-176-34.5;2;;FB-178-34.10
+35;FB/AM;Geografija;S;7;GZ11;Ukrajina;Ne;;Ne;;Ne;;;1;FB-179-35.1, FB-180-35.2, FB-180-35.3, FB-181-35.4, FB-181-35.5, FB-181-35.5, FB-181.35.7, FB-182-35.8, FB-182-35.9, FB-183-35.10, FB-183-35.11, FB-183-35.12, FB-183-35.13;;1;FB-183-35.11;;0;;;0;;
+36;FB/AM;Geografija;S;7;GZ11;Bjelorusija, Moldavija i Baltičke zemlje;Ne;;Ne;;Ne;;;1;FB-184-36.1, FB-184-36.2, FB-184-36.3, FB-185-36.4, FB-186-36.5, FB-186-36.6, FB-186-36.7, FB-187-36.8, FB-187-36.9;;1;FB-184-36.1;;0;;;0;;
+37;FB/AM;Geografija;S;7;GZ11;Ruska Federacija - Prostiranje i prirodno-geografske odlike;Ne;;Ne;;Ne;;;1;FB-189-37.1, FB-189-37.2, FB-189-37.3, FB-189-37.4, FB-189-37.5, FB-190-37.6, FB-190-37.7, FB-190-37.8, FB-191-37.9, FB-191-37.10, FB-191-37.11, FB-191-37.12, FB-191-37.12, FB-191-37.13, FB-192-37.14, FB-192-37.15, FB-192-37.16, FB-192-37.17;;1;FB-192-37.16;;0;;;0;;
+38;FB/AM;Geografija;S;7;GZ11;Društveno-ekonomske odlike Ruske Federacije;Ne;;Ne;;Ne;;;1;FB-194-38.1, FB-194-38.3, FB-195-38.6, FB-196-38.7, FB-196-38.8;;1;FB-197-38.8;;0;;;0;;
+1;FB/NH;Geografija;H;6;GZ18;Uvod u zemljopis/geografiju;Ne;;Ne;;Ne;;;1;HN-10-1.1;;1;FB-10-1.1;;2;NH-8-1.2a, NH-8-1.2b;;0;;
+2;FB/NH;Geografija;H;6;GZ18;Zemlja u svemiru ;Ne;;Ne;;Ne;;;1;FB-12-2.1, FB-13-2.3, NH-15-2.2;;1;FB-15-2.4;;0;;;0;;
+3;FB/NH;Geografija;H;6;GZ18;Oblik i veličina Zemlje;Ne;;Ne;;Ne;;;1;NH-16-3.2, NH-19-3.1;;1;FB-17-3.1, FB-18-3.2;;0;;;0;;
+4;FB/NH;Geografija;H;6;GZ18;Razmještaj kopna i mora;Ne;;Ne;;Ne;;;1;FB-20-4.1, FB-23-4.3, NH-21-4.1a, NH-21-4.1b;;1;FB-21-4.2;;0;;;0;;
+5;FB/NH;Geografija;H;6;GZ18;Zemljina rotacija;Ne;;Ne;;Ne;;;1;FB-26-5.1, FB-26-5.2, FB-29-5.3;;1;;;0;;;0;;
+6;FB/NH;Geografija;H;6;GZ18;Zemljina revolucija;Ne;;Ne;;Ne;;;1;NH-33-6.2;;1;;;0;;;0;;
+7;FB/NH;Geografija;H;6;GZ18;Pet toplinskih pojaseva;Ne;;Ne;;Ne;;;1;NH-34-71.a, NH-37-7.1b, NH-37-7.1c;;0;;;0;;;0;;
+8;FB/NH;Geografija;H;6;GZ18;Orijentacija;Ne;;Ne;;Ne;;;1;NH-43-8.1;;0;;;0;;;0;;
+9;FB/NH;Geografija;H;6;GZ18;Geografska mreža;Ne;;Ne;;Ne;;;1;FB-44-9.1, FB-45-9.2, NH-46-9.2a, NH-47-9.2b;;1;FB-46-9.3, FB-47-9.5;;0;;;0;;
+10;FB/NH;Geografija;H;6;GZ18;Mjesno i pojasno vrijeme;Ne;;Ne;;Ne;;;1;NH-50-10.2a,NH-51-10.2b;;1;FB-50-10.4;;2;NH-48-10.1;;0;;
+11;FB/NH;Geografija;H;6;GZ18;Prikazivanje Zemljine površine;Ne;;Ne;;Ne;;;1;FB-52-11.1, FB-52-11.2, FB-53-11.3, FB-54-11.4, FB-55-11.5;;1;FB-55-11.6;;0;;;0;;
+12;FB/NH;Geografija;H;6;GZ18;Mjerilo i vrste karata;Ne;;Ne;;Ne;;;1;NH-59-12.1;;2;;;0;;;0;;
+13;FB/NH;Geografija;H;6;GZ18;Reljef i građa zemlje;Ne;;Ne;;Ne;;;1;NH-62-13.1a, NH-65-13.1b;;0;;;0;;;0;;
+14;FB/NH;Geografija;H;6;GZ18;Litosferne ploče, vulkani i potresi;Ne;;Ne;;Ne;;;1;NH-66-14.1a, NH-69-14.1b;;0;;;0;;;0;;
+15;FB/NH;Geografija;H;6;GZ18;more i obale Evrope ;Ne;;Da;odgovornost FB-70-15.2;Ne;;;1;FB-70-15.1, NH-73-15.1;;1;FB-73-15.3;;0;;;0;;
+16;FB/NH;Geografija;H;6;GZ18;Koliko ima vode na Zemlji ;Ne;;Da;odgovornost, saradnja, zaštitaživotnesredine FB-77-16.4, FB-78-16.6, FB-78-16.7, FB-79-16.9, FB-79-16.10;Ne;;;1;FB-76-16.1, FB-76-16.2, FB-FB-77-16.3, NH-79-16.3b;;1;FB-79-16.8;;0;;;0;;
+17;FB/NH;Geografija;H;6;GZ18;Svjetsko more;Ne;;Ne;;Ne;;;1;HN-80-17.1a, NH-81-17.1b, NH-83-17.1c;;1;FB-83-17.3;;0;;;0;;
+18;FB/NH;Geografija;H;6;GZ18;Gibanja i bogatstvo mora;Ne;;Da;odgovornost, zaštitaživotnesredine FB-84-18.2, FB-84-18.3, FB-86-18.5, FB-86-18.6;Ne;;;1;FB-84-18.1, FB-886-18.4, FB-87-18.7;;1;FB-87-18.7;;0;;;0;;
+19;FB/NH;Geografija;H;6;GZ18;Vode na kopnu;Ne;;Da;odgovornost NH-90-19.2;Ne;;;1;FB-88-19.1, FB-91-19.4;;1;FB-91-19.3, FB-91-19.4;;0;;;0;;
+20;FB/NH;Geografija;H;6;GZ18;Vrijeme i klima;Ne;;Ne;;Ne;;;1;NH-94-20.1a, NH-97-20.1b;;0;;;0;;;0;;
+21;FB/NH;Geografija;H;6;GZ18;Temperatura zraka i padaline;Ne;;Ne;;Ne;;;1;NH-98-21.1a, NH-101-21.1b;;1;FB-98-21.1;;0;;;0;;
+22;FB/NH;Geografija;H;6;GZ18;Tlak zraka i vjetar;Ne;;Ne;;Ne;;;1;NH-102-22.1a, NH-105-22.1b;;1;FB-102-22.1, FB-105-22.2;;0;;;0;;
+23;FB/NH;Geografija;H;6;GZ18;Tropske klime;Ne;;Ne;;Ne;;;1;FB-108-23.1, FB-110-23.2, FB-111-23.3, FB-111-23.4;;1;;;0;;;0;;
+24;FB/NH;Geografija;H;6;GZ18;Suhe klima;Ne;;Da;odgovornost FB-115-24.7;Ne;;;1;NH-112-24.1, NH-113-24.1b, NH-115-24.1c;;1;;;0;;;0;;
+25;FB/NH;Geografija;H;6;GZ18;Umjerene klime;Ne;;Da;odgovornost FB-117-25.2, FB-118-25.3, NH-119-25.2;Ne;;;1;FB-116-25.1, FB-119-25.4;;0;;;0;;;0;;
+26;FB/NH;Geografija;H;6;GZ18;Snježno-šumska i polarna klima;Ne;;Ne;;Ne;;;1;NH-120-26.1a, NH-123-26.1b;;1;FB-123-26.3;;0;;;0;;
+27;FB/NH;Geografija;H;6;GZ18;Tlo i biljni pokrov;Ne;;Da;odgovornost, zaštitaživotnesredine FB-125-27.1, FB-126-27.2, FB-126-27.3, FB-126-27.4, FB-127-27.6;Ne;;;0;;;0;;;0;;;0;;
+28;FB/NH;Geografija;H;6;GZ18;Stanovništvo svijeta;Ne;;Da;odgovornost, mir, saradnja FB-132-28.1, FB-132-28.3, FB-132-28.4, FB-133-28.9, FB-133-28.10;Ne;;;0;;;1;FB-133-28.5, FB-133-28.6;;2;;;0;;
+29;FB/NH;Geografija;H;6;GZ18;Ujedinjeni u različitostima;Ne;;Da;jednakost, pluralizam, saradnja NH-134-29.4a, NH-135-29.4b, NH-136-29.4c;Ne;;;1;NH-134-29.1, NH-137-29.1;;1;FB-137-29.5, FB-137-29.6;;2;;NH-136-29.7, NH-136-29.5a, NH-136-29.5b, NH-136-29.6a,NH-136-29.6b, NH-137-29.11;2;;NH-136-29.8
+30;FB/NH;Geografija;H;6;GZ18;Gospodarstvo u svijetu;Ne;;Da;solidarnost, saradnja FB-140-30.1, FB-140-30.2, FB-140-30.3;Ne;;;1;NH-138-30.1a, NH-141-30.1b;;1;fb-141-30.4;;0;;;0;;
+31;FB/NH;Geografija;H;6;GZ18;Prirodna bogatstva i izvori energije;Ne;;Da;odgovornost, mir, zaštitaživotnesredine FB-145-31.2, NH-145-31.2a, FB-146-31.3, FB-146-31.4, NH-146-31.2b, FB-147-31.6, FB-147-31.7;Ne;;;1;FB-144-31.1, FB-147-31.5;;1;FB-144-31.1, FB-147-31.5;;0;;;0;;
+32;FB/NH;Geografija;H;6;GZ18;Očuvanje okoliša ;Ne;;Da;odgovornost, život, zaštitaživotnesredine FB-148-32.2, FB-148-32.3, FB-148-32.4, FB-149-32.5, FB-149-32.6, FB-149-32.7, FB-150-32.8, FB-150-32.9, FB-150-32.10, FB-151-32.12, FB-151-32.13;Ne;;;1;NH-148-32.2a, NH-151-32.2b;;1;FB-151-32.11;;0;;;0;;
+33;FB/NH;Geografija;H;6;GZ18;Moj zavičaj - dio Bosne i Hercegovine;Ne;;Da;zaštitaživotnesredine, odgovornost, život NH-154-33.1a, NH-155-33.1b;Ne;;;1;;;1;;;0;;;0;;
+34;FB/NH;Geografija;H;6;GZ18;Moj je zavičaj Hercegovina;Ne;;Da;zaštitaživotnesredine, odgovornost, saradnja FB-157-34.3, FB-157-34.4;Ne;;;0;NH-156-34.1;;0;;;0;;;0;;
+35;FB/NH;Geografija;H;6;GZ18;Moj je zavičaj Jajački kraj;Ne;;Da;život,  odgovornost FB-158-1, FB-159-2;Da;teritorij, prošlost, pobožnost;relativizacija, redukcija;2;;;2;;;2;;;0;;
+36;FB/NH;Geografija;H;6;GZ18;Prirodna bogatstva i njihova zaštita;Ne;;Da;odgovornost, zaštitaživotnesredine NH-161-36.2a, NH-161-36.2b;Ne;;;0;;;0;;;0;;;0;;
+37;FB/NH;Geografija;H;6;GZ18;Zaštita šuma;Ne;;Da;odgovornost, saradnja NH-162-37.1;Ne;;;0;;;0;;;0;;;0;;
+1;FB/NH;Geografija;H;7;GZ24;Položaj i veličina Azije;Ne;;Ne;;Ne;;;2;;;0;;;0;;;0;;
+2;FB/NH;Geografija;H;7;GZ24;Reljef Azije;Ne;;Da;život FB-11-2.1;Ne;;;2;;;2;;;0;;;0;;
+3;FB/NH;Geografija;H;7;GZ24;Klima Azije;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+4;FB/NH;Geografija;H;7;GZ24;Stanovništvo Azije;Da;pluralizamkaoproblem FB-17-4.1, FB-18-4.2, FB-18-4.3;Ne;;Ne;;;2;;;2;;;0;;;2;;NH-18-4.1
+5;FB/NH;Geografija;H;7;GZ24;Jugozapadna Azija;Da;neprijateljstvo FB-20-5.3;Da;život, odgovornost str. 20, 21;Ne;;;2;;;2;;;2;;NH-20-5.1, FB-22-5.5;2;;FB-19-5.1
+6;FB/NH;Geografija;H;7;GZ24;Središnja Azija;Ne;;Ne;;Ne;;;2;;;2;;;0;; FB-25-6.3;0;;
+7;FB/NH;Geografija;H;7;GZ24;Južna Azija;Da;pluralizamkaoproblem FB-28-7.1;Ne;;Ne;;;2;;;2;;;0;;;0;;
+8;FB/NH;Geografija;H;7;GZ24;Indija;Ne;;Da;život, mir, odgovornost FB-31-8.1, FB-31-8.2, FB-32-8.3;Ne;;;2;;;2;;;2;;NH-31-8.1;0;;
+9;FB/NH;Geografija;H;7;GZ24;Jugoistočna Azija;Ne;;Ne;;Ne;;;2;;;2;;;2;;NH-34-9.1;0;;
+10;FB/NH;Geografija;H;7;GZ24;Istočna Azija;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+11;FB/NH;Geografija;H;7;GZ24;Kina;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+12;FB/NH;Geografija;H;7;GZ24;Japan;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+13;FB/NH;Geografija;H;7;GZ24;Položaj i reljef Afrike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+14;FB/NH;Geografija;H;7;GZ24;Klima Afrike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+15;FB/NH;Geografija;H;7;GZ24;Stanovništvo Afrike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+16;FB/NH;Geografija;H;7;GZ24;Gospodarstvo Afrike;Ne;;Ne;;Ne ;;;2;;;2;;;0;;;2;;NH-54-16.2
+17;FB/NH;Geografija;H;7;GZ24;Sjeverna Afrika;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+18;FB/NH;Geografija;H;7;GZ24;Egipat;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+19;FB/NH;Geografija;H;7;GZ24;Tropska Afrika;Ne;;Da;odgovornost, zaštitaživotnesredine FB-65-19.4;Ne;;;2;;;2;;;2;;NH-61-19.1;2;;NH-64-19.2
+20;FB/NH;Geografija;H;7;GZ24;Južna Afrika;Ne;;Da;jednakost NH-67-20.2a, NH-68-20.2b;Ne;;;2;;;2;;;0;;;2;;NH-67-20.3
+21;FB/NH;Geografija;H;7;GZ24;Južnoafrička Republika;Ne;;Da;jednakost FB-70-21.1;Ne;;;2;;;2;;;0;;;2;;NH-70-21.1
+22;FB/NH;Geografija;H;7;GZ24;Podjela Amerike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+23;FB/NH;Geografija;H;7;GZ24;Prirodna obilježja Amerike;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+24;FB/NH;Geografija;H;7;GZ24;Stanovništvo Angloamerike;Ne;;Da;jednakost NH-77-24.1;Ne;;;2;;;2;;;0;;;0;;
+25;FB/NH;Geografija;H;7;GZ24;Sjedinjene Američke Države;Ne;;Ne;;Ne;;;1;;NH-80-25.1;0;;;0;;;0;;
+26;FB/NH;Geografija;H;7;GZ24;Gospodarstvo SAD-a;Ne;;Ne;;Ne;;;2;;;2;;;0;; FB-86-26.2;0;;
+27;FB/NH;Geografija;H;7;GZ24;Kanada;Ne;;Ne;;Ne;;;2;;;2;;;0;; FB-89-27.3;0;;
+28;FB/NH;Geografija;H;7;GZ24;Amerikanci hrvatskog podrijetla;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+29;FB/NH;Geografija;H;7;GZ24;Srednja Amerika - dio Latinske Amerike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+30;FB/NH;Geografija;H;7;GZ24;Meksiko;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+31;FB/NH;Geografija;H;7;GZ24;Južna Amerika - dio Latinske Amerike;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+32;FB/NH;Geografija;H;7;GZ24;Brazil;Ne;;Ne;;Ne;;;2;;Pozitivan primjer NH-102-32.1;2;;;0;;;2;;NH-102-32.4a, NH-103-32.4b
+33;FB/NH;Geografija;H;7;GZ24;Argentina i Čile;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+34;FB/NH;Geografija;H;7;GZ24;Australija;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+35;FB/NH;Geografija;H;7;GZ24;Oceanija;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+36;FB/NH;Geografija;H;7;GZ24;Arktik i Antartik;Ne;;Ne;;Ne;;;2;;;2;;;0;;;0;;
+1;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Zemlja i ljudi - Stanovništvo svijeta;Ne;;Da;jednakost, život FB-9-1.2, FB-10-1.3, FB-10-1.4;Ne;;;0;NH-8-1.1a, NH-8-1.1b, NH-11-1.1c, NH-11-1.1d;;1;FB-11-1.7, FB-11-1.8;;0;;NH-9-1.3, NH-10-1.4;2;;NH-10-1.5
+2;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Gospodarstvo svijeta;Ne;;Ne;;Ne;;;0;;;1;FB-15-2.5;;0;;;0;;
+3;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Međunarodne organizacije;Ne;;Ne;;Ne;;;0;;;1;FB-19-3.17;;0;;;0;;
+4;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Azija - Geografski položaj i smještaj Azije;Ne;;Ne;;Ne;;;1;NH-24-4.1a, NH-24-4.1b, NH-24-4.1c, NH-25-4.1d;;0;;;2;;NH-25-4.2;0;;
+5;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Reljef u pokretu;Ne;;Da;život NH-28-5.2;Ne;;;2;;;1;FB-29-5.3;;2;;NH-27-5.1;0;;
+6;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Pustinje i nafta Azije;Ne;;Da;odgovornost, zaštitaživotnesredine NH-32-6.1, NH-32-6.2, NH-33-6.4;Ne;;;2;;;2;FB-33-6.5;;0;;;0;;
+7;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Tradicija i suvremenost Azije;Ne;;Ne;;Ne;;;2;;;1;FB-37-7.1;;0;;;2;;NH-34-7.1a
+8;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Monsunska Azija;Ne;;Da;odgovornost AM-40-1;Ne;;;0;;;1;NH-41-8.2;;0;;;0;;
+9;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Južna Azija - Indija;Ne;;Da;jednakost AM-43-2;Ne;;;1;FB-42-9.1, FB-43-9.2, FB-44-9.3;;1;FB-45-9.4;;0;;;0;;
+10;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Istočna Azija - Kina;Ne;;Ne;;Ne;;;1;NH-49-10.2, AM-46-3;;1;FB-49-10.2, FB-49-10.4, FB-49-10.5;;2;;NH-47-10.1;0;;
+11;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Japan;Ne;;Da;odgovornost FB-52-11.1, FB-52-11.2;Ne;;;0;;;1;FB-53-11.3;;0;;;0;;
+12;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Afrika - Položaj i prirodno-geografska obilježja;Ne;;Ne;;Ne;;;1;FB-56-12.1, FB-57-12.2, NH-59-12.1b;;2;;;0;;;0;;
+13;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Vode i život Afrike;Ne;;Ne;;Ne;;;1;NH-63-13.1;;1;;;0;;;0;;
+14;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Suvremena Afrika;Ne;;Ne;;Ne;;;1;NH-67-14.4;;1;;;0;;;2;;NH-65-14.2, NH-66-14.3
+15;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Turizam Afrike;Ne;;Da;odgovornost FB-69-15.1, FB-70-15.2;Ne;;;1;NH-71-15.3;;1;AM-71-15.3, AM-69-1;;0;;;0;;
+16;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Gana;Ne;;Ne;;Ne;;;1;NH-75-16.1;;1;AM-73-2, AM-75-2.2;;0;;;0;;
+17;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Južnoafrička Republika;Ne;;Da;jednakost FB-17.1, FB-77-17.2, FB-78-17.3, FB-78-17.4, FB-78-17.5, NH-79-17.1c;Ne;;;1;NH-79-17.2;;1;AM-77-3;;0;;;0;;
+18;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Amerika - Otkriće i podjela Amerike;Ne;;Da;odgovornost FB-84-18.4, FB-84-18.5;Ne;;;1;NH-85-18.2;;1;AM-83-4, FB-85-18.6;;0;;;0;;
+19;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Prirodno-geografska obilježja Amerike;Ne;;Ne;;Ne;;;1;19.1, FB-86-19.2, FB-86-19.3, FB-86-19.4, FB-86-19.5, HN-89-19.1b;;1;;;0;;;0;;
+20;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Stanovništvo i gospodarstvo Amerike;Ne;;Da;jednakost, sloboda FB-90-20.1, FB-90-20.2, FB-90-20.3, FB-90-20.4, FB-91-20.5, FB-92-20.7, FB-92-20.8, NH-93-20.3c;Ne;;;1;FB-93-20.9;;1;;;0;;;0;;
+21;FB/NH/AM;Geografija;H;7;GZ20/GZ22;SAD - Supersila suvremenog svijeta;Ne;;Da;odgovornost, zaštitaživotnesredine FB-95-21.1, FB-96-21.2, FB-96-21.3, FB-97-21.5, FB-99-21.9;Ne;;;1;FB-96-21.4, FB-97-21.5, FB-99-21.7;;1;FB-99-21.6;;0;;;0;;
+22;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Kanada - Velika, bogata zemlja rijetke naseljenosti;Ne;;Da;saradnja, jednakost FB-100-22.1, FB-100-22.3, FB-100-22.4, FB-102-22.5, FB-102-22.6, FB-103-22.8, FB-103-22.11;Ne;;;1;FB-100-22.2, FB-103-22.10;;1;FB-103-22.9;;0;;;0;;
+23;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Meksiko - Najprostranija i najmnogoljudnija zemlja Srednje Amerike;Ne;;Da;saradnja FB-104-23.2, FB-105-23.3, FB-107-23.5;Ne;;;1;NH-107-23.2;;1;FB-107-23.6;;0;;;0;;
+24;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Brazil - Najveća i najmnogoljudnija zemlja Latinske Amerike;Ne;;Da;odgovornost, život FB-109-24.3, FB-110-24.4;Ne;;;1;FB-108-24.1, FB-108-24.2;;1;AM-108-5, NH-111-24.3;;0;;;0;;
+25;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Argentina i Čile - Najjužnije države američkog kontinenta;Ne;;Ne;;Ne;;;1;NH-115-25.2;;1;;;2;;NH-112-25.1.a, NH-113-25.1b;0;;
+26;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Australija - Kontinent i država vodene polukugle zemlje;Ne;;Da;odgovornost, jednakost FB-119-26.6, FB-120-26.8, FB-120-26.9;Ne;;;1;NH-118-26.1a, NH-121-26.1b;;1;FB-120-26.7;;2;;NH-120-26.4;0;;
+27;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Suvremena država snažnog gospodarstva;Ne;;Da;život, odgovornost, zaštitaživotnesredine NH-123-26.3, FB-124-27.5, FB-124-27.7, FB-125-27.8, FB-125-27.10;Ne;;;1;FB-122-27.1, FB-123-27.3, FB-123-27.4, FB-124-27.6;;1;FB-125-27.9;;2;;NH-122-26.2;0;;
+28;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Oceanija - Otočni svijet  vodene polukugle sa središtem u tihom oceanu ;Ne;;Da;sloboda, saradnja, jednakost FB-127-28.4, FB-128-28.5, FB-128-28.6, FB-129-28.8;Ne;;;1;FB-126-28.1, FB-126-28.2, FB-126-28.3, NH-129-28.3;;1;FB-129-28.7;;0;;;0;;
+29;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Polarni prostor - Arktik i Antartika ;Ne;;Da;odgovornost, zaštitaživotnesredine NH-132-29.1, NH-134-29.2, NH-135-29.3;Ne;;;1;FB-132-29.1, FB-132-29.3, NH-135-29.4;;1;FB-135-29.8;;0;;;0;;
+30;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Izborne teme - Hrvatsko iseljeništvo u državama-kontinentima Novog svijeta;Ne;;Da;život, saradnja AM-136-6, AM-139-7;Da;porijeklo, prošlost;imputacija;1;NH-139-30.1;;1;;;0;;;0;;
+31;FB/NH/AM;Geografija;H;7;GZ20/GZ22;Onečišćenje i zaštita okoliša;Ne;;Da;odgovornost, zaštitaživotnesredine FB-140-31.1, FB-140-31.2, FB-140-31.3, FB-142-31.4, FB-142-31.5;Ne;;;1;NH-143-31.3;;1;FB-143-31.7, FB-143-31.8;;0;;;0;;
+1;AM/NH;Geografija;S;9;GZ15;Opšta geografska obilježja Jugoistočne Evrope (Balkanskog poluostrva);Ne;;Da;ravnopravnost, mir, život, saradnja NH-9-1.1, NH-10-1.2, NH-10-1.3a, NH-11-1.3b, NH-12-1.4;Ne;;;0;;;0;;;0;;;0;;
+2;AM/NH;Geografija;S;9;GZ15;Republika Hrvatska;Ne;;Ne;;Ne;;;1;AM-17-1;;0;;;0;;;0;;
+3;AM/NH;Geografija;S;9;GZ15;Fizičko geografska obilježja Hrvatske;Ne;;Da;odgovornost, zaštitaživotnesredine NH-15-3.1a,NH-17-3.1b;Ne;;;0;;;0;;;0;;;0;;
+4;AM/NH;Geografija;S;9;GZ15;Društveno geografska obilježja Hrvatske;Ne;;Ne;;Ne;;;1;AM-22-2;;0;;;2;;NH-18-4.1;0;;
+5;AM/NH;Geografija;S;9;GZ15;Geografske regije Hrvatske;Ne;;Da;odgovornost, zaštitaživotnesredine NH-26-5.1;Ne;;;0;;;0;;;0;;;0;;
+6;AM/NH;Geografija;S;9;GZ15;Republika Srbija;Ne;;Ne;;Ne;;;1;AM-28-3;;0;;;0;;;0;;
+7;AM/NH;Geografija;S;9;GZ15;Fizičko geografska obilježja  ;Ne;;Da;zaštitaživotnesredine, odgovornost NH-34-7.2;Ne;;;0;;;0;NH-32-7.1a, NH-33-7.1b;;0;;;0;;
+8;AM/NH;Geografija;S;9;GZ15;Društveno geografska obilježja  ;Ne;;Da;pluralizam AM-35-4;Ne;;;1;NH-42-1;;0;;;0;;;0;;
+9;AM/NH;Geografija;S;9;GZ15;Geografske regije Srbije;Ne;;Ne;;Ne;;;1;NH-48-2;;0;;;0;;;0;;
+10;AM/NH;Geografija;S;9;GZ15;Republika Crna Gora;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-50-10.1;0;;
+11;AM/NH;Geografija;S;9;GZ15;Fizičko geografska obilježja;Ne;;Da;odgovornost, zaštitaživotnesredine NH-52-11.1, NH-53-11.2, NH-53-11.3;Ne;;;0;;;0;;;0;;;0;;
+12;AM/NH;Geografija;S;9;GZ15;Društveno geografska obilježja Crne Gore;Ne;;Da;odgovornost, zaštitaživotnesredine NH-56-12.1;Ne;;;1;AM-56-7;;0;;;0;;;0;;
+13;AM/NH;Geografija;S;9;GZ15;Geografske regije Crne Gore;Ne;;Da;odgovornost, zaštitaživotnesredine NH-57-13.1;Ne;;;1;AM-58-8;;0;;;0;;;0;;
+14;AM/NH;Geografija;S;9;GZ15;Istorijsko-geografski i teritorijalni razvoj BiH;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-59-14.1a, NH-59-14.1b, NH-59-14.2, NH-59-14.3, NH-61-14.5;0;;
+15;AM/NH;Geografija;S;9;GZ15;Geografski položaj, granice i veličina BiH;Ne;;Ne;;Ne;;;1;NH-64-15.5;;0;;;2;;NH-63-15.3;2;;NH-62-15.1
+16;AM/NH;Geografija;S;9;GZ15;Položaj Republike Srpske u okviru BiH;Da;separatizam NH-65-16.1, NH-66-16.3, NH-67-16.4;Da;život, suvremenost AM-68-10;Da;teritorij, simboli;ignorancija, relativizacija;0;;;0;;;0;;;0;;
+17;AM/NH;Geografija;S;9;GZ15;Nastanak i stvaranje Republike Srpske;Da;separatizam NH-69-17.1, NH-70-17.2, NH-71-17.3;Da;ravnopravnost, jednakost AM-69-11, AM-69-12, AM-70-13, AM-71-14;Da;porijeklo, tlo, prošlost AM-70-12.1;ignorancija  ;0;;;0;;;0;;;0;;
+18;AM/NH;Geografija;S;9;GZ15;Prirodnogeografske odlike BiH;Ne;;Ne;;Ne;;;1;NH-72-18.1a, NH-73-18.1b, NH-74-18.1c, NH-75-18.1d, NH-75-18.1e ;;1;NH-73-18.1b, NH-74-18.1c, NH-75-18.1d, NH-75-18.1e;;0;;;0;;
+19;AM/NH;Geografija;S;9;GZ15;Podjela reljefa BiH na reljefne cjeline;Ne;;Ne;;Ne;;;1;NH-77-19.1a, NH-77-19.1b, NH-77-19.1c, NH-78-19.1d, NH-78-19.1e, NH-79-19.1f, NH-79-19.1g, NH-79-19.1h, NH-81-19.1i;;1;NH-77-19.1a, NH-77-19.1b, NH-77-19.1c, NH-78-19.1d, NH-78-19.1e, NH-79-19.1f, NH-79-19.1g, NH-79-19.1h, NH-81-19.1i;;0;;;0;;
+20;AM/NH;Geografija;S;9;GZ15;Klima BiH;Ne;;Da;odgovornost AM-82-15;Ne;;;1;NH-83-20.1a, NH-84-20.1b, NH-83-20.1c, NH-84-20.1d, NH-85-20.1e, NH-85-20.1f, NH-85-20.1h, NH-85-20.1g;;1;NH-83-20.1a, NH-84-20.1b, NH-83-20.1c;;0;;;0;;
+21;AM/NH;Geografija;S;9;GZ15;Tipovi klime i njihove karakteristike;Ne;;Da;odgovornost, zaštitaživotnesredine NH-88-21.2;Ne;;;1;NH-86-21.1a, NH-87-21.1b, NH-87-21.1c, NH-89-21.1d;;1;NH-86-20.1a, NH-87-20.1b, NH-87-20.1c, NH-89-20.1g;;0;;;0;;
+22;AM/NH;Geografija;S;9;GZ15;Vode BiH;Ne;;Da;odgovornost, zaštitaživotnesredine NH-91-22.3, NH-92-22.4;Ne;;;1;NH-90-22.1a, NH-90-22.1b, NH-91-22.1c, NH-91-22.1d, NH-91-22.1e, NH-91-22.1f, NH-92-22.1g;;1;NH-90-22.1a, NH-90-22.1b, NH-91-22.1c, NH-92-22.1g;;0;;;0;;
+23;AM/NH;Geografija;S;9;GZ15;Kopnene vode (rijeke i morski slivovi);Ne;;Da;odgovornost, zaštitaživotnesredine NH-95-23.2a, NH-97-23.2b;Ne;;;1;NH-93-23.1a, NH-94-23.1b, NH-94-23.1c, NH-95-23.1d, NH-95-23.1e, NH-97-23.1f, NH-97-23.1g;;1;NH-93-23.1a, NH-94-23.1b, NH-94-23.1c, NH-95-23.1e;;1;;AM-96-16;0;;
+24;AM/NH;Geografija;S;9;GZ15;Termalne i mineralne vode;Ne;;Da;odgovornost, život AM-99-17;Ne;;;1;NH-98-24.1a, NH-99-24.1b, NH-99-24.1c;;1;NH-98-24.1a, NH-99-24.1b, NH-99-24.1c;;0;;;0;;
+25;AM/NH;Geografija;S;9;GZ15;Tlo, biljni i životinjski svijet BiH;Ne;;Da;odgovornost, zaštitaživotnesredine NH-100-25.2;Ne;;;1;NH-100-25.1a, NH-100-25.1b, NH-100-25.1c, NH-101-25.1d, NH-101-25.1e, NH-101-25.1f, NH-102-25.1g;;1;NH-100-25.1a, NH-100-25.1b, NH-101-25.1d, NH-101-25.1f, NH-102-25.1g, NH-102-25.1h;;0;;;0;;
+26;AM/NH;Geografija;S;9;GZ15;Biljni i životinjski svijet BiH;Ne;;Da;odgovornost, zaštitaživotnesredine NH-104-26.2a, NH-105-26.2b;Ne;;;1;NH-104-26.1a, NH-104-26.1b, NH-104-26.1c, NH-105-26.1d, NH-105-26.1d;;1;NH-104-26.1a, NH-104-26.1b, NH-104-26.1c, NH-105-26.1d, NH-105-26.1e;;2;;NH-105-26.3;0;;
+27;AM/NH;Geografija;S;9;GZ15;Stanovništvo BiH;Ne;;Da;pluralizam, saradnja AM-107-19;Ne;;;0;;;0;;;1;;AM-109-20;2;;NH-107-27.1
+28;AM/NH;Geografija;S;9;GZ15;Naseljenost i migracije stanovništva;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-112-28.2a, NH-112-28.2b, NH-112-28.3, NH-111-28.1;0;;
+29;AM/NH;Geografija;S;9;GZ15;Strukturne odlike stanovništva BiH;Ne;;Da;ratkaozlo AM-114-21, AM-114-22;Ne;;;0;;;0;;;0;;;2;;NH-115-29.1
+30;AM/NH;Geografija;S;9;GZ15;Naselja  ;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+31;AM/NH;Geografija;S;9;GZ15;Gradska naselja i proces urbanizacije;Ne;;Da;ratkaozlo;Ne;;;0;;;0;;;0;;;0;;
+32;AM/NH;Geografija;S;9;GZ15;Privreda BiH;Ne;;Da;odgovornost, ratkaozlo AM-129-24, AM-130-25;Ne;;;0;;;0;;;0;;;0;;
+33;AM/NH;Geografija;S;9;GZ15;Poljoprivreda - primarna privredna grana;Ne;;Da;odgovornost AM-134-26, AM-135-27;Da;teritorij;imputacija;1;NH-133-33.1, NH-134-33.1;;1;NH-133-33.1, NH-134-33.1;;1;;NH-133-33.1, NH-134-33.1;0;;
+34;AM/NH;Geografija;S;9;GZ15;Grane poljoprivrede;Ne;;Da;život NH-138-34.2;Ne;;;0;;;0;;;0;;;0;;
+35;AM/NH;Geografija;S;9;GZ15;Stočarstvo, lov i ribolov, šumarstvo;Ne;;Da;zaštitaživotnesredine NH-142-35.2, NH-143-35.3;Ne;;;0;;;0;;;0;;;0;;
+36;AM/NH;Geografija;S;9;GZ15;Energetika i industrija;Ne;;Da;zaštitaživotnesredine, odgovornost NH-147-36.1;Ne;;;0;;;0;;;0;;;0;;
+37;AM/NH;Geografija;S;9;GZ15;Industrija - privredna snaga svake zemlje;Ne;;Da;ratkaozlo, odgovornost AM-150-29;Ne;;;0;;;0;;;0;;;0;;
+38;AM/NH;Geografija;S;9;GZ15;Grane teške i lake industrije;Ne;;Da;ratkaozlo AM-154-30;Ne;;;0;;;0;;;0;;;0;;
+39;AM/NH;Geografija;S;9;GZ15;Uslužne djelatnosti;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+40;AM/NH;Geografija;S;9;GZ15;Regionalno-geografska podjela BiH - regije Republike Srpske;Ne;;Ne;;Ne;;;1;NH-165-40.1a, NH-165-40.1b, NH-166-40.1c, NH-167-40.1d, NH-168-40.1e;;1;NH-165-40.1a, NH-165-40.1b, NH-166-40.1c, NH-167-40.1d, NH-168-40.1c;;0;;;0;;
+41;AM/NH;Geografija;S;9;GZ15;Nodalno-funkcionalne regije Republike Srpske-Banjalučka regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+42;AM/NH;Geografija;S;9;GZ15;Dobojsko-Bijeljinska regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+43;AM/NH;Geografija;S;9;GZ15;Istočnosarajevsko-Zvornička regija;Ne;;Da;ratkaozlo AM-176-31;Ne;;;0;;;0;;;0;;;0;;
+44;AM/NH;Geografija;S;9;GZ15;Trebinjsko-Fočanska regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+45;AM/NH;Geografija;S;9;GZ15;Brčko Distrikt;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+46;AM/NH;Geografija;S;9;GZ15;Regije Federacije BiH;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+47;AM/NH;Geografija;S;9;GZ15;Sarajevsko-Zenička regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+48;AM/NH;Geografija;S;9;GZ15;Tuzlanska regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+49;AM/NH;Geografija;S;9;GZ15;Mostarsko Livanjska regija;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+50;AM/NH;Geografija;S;9;GZ15;Bihaćka regija;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-197-50.1;0;;
+51;AM/NH;Geografija;S;9;GZ15;Mjesto i uloga geografije u zaštiti životne sredine;Ne;;Da;odgovornost, zaštitaživotnesredine NH-198-51.1;Ne;;;0;;;0;;;0;;;0;;
+52;AM/NH;Geografija;S;9;GZ15;Problemi zaštite životne sredine u Republici Srpskoj;Ne;;Da;odgovornost, zaštitaživotnesredine NH-202-52.1;Ne;;;0;;;0;;;0;;;0;;
+53;AM/NH;Geografija;S;9;GZ15;Geografija kraja u kojem živimo;Ne;;Ne;;Ne;;;1;NH-206-53.1;;1;NH-206-53.1;;0;;;0;;
+1;FB/AM;Geografija;H;6;GZ16;Uvod u geografiju (zemljopis);Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+2;FB/AM;Geografija;H;6;GZ16;Zemlja u svemiru ;Ne;;Ne;;Ne;;;0;;;2;;;0;;;0;;
+3;FB/AM;Geografija;H;6;GZ16;Mjesec ;Ne;;Ne;;Ne;;;0;;;1;FB-16-3.1, FB-21-3.2, FB-21-3.3;;0;;;0;;
+4;FB/AM;Geografija;H;6;GZ16;Oblik i veličina Zemlje;Ne;;Ne;;Ne;;;0;;;1;FB-24-4.1, FB-25-4.1;;0;;;0;;
+5;FB/AM;Geografija;H;6;GZ16;Kopno i more na Zemlji;Ne;;Ne;;Ne;;;1;FB-26-5.1;;0;;;0;;;0;;
+6;FB/AM;Geografija;H;6;GZ16;Dan i noć;Ne;;Ne;;Ne;;;1;FB-31-6;;1;FB-33-6.1, FB-31-6;;0;;;0;;
+7;FB/AM;Geografija;H;6;GZ16;Godišnja doba;Ne;;Ne;;Ne;;;1;FB-34-7.1;;1;FB-37-7.2;;0;;;0;;
+8;FB/AM;Geografija;H;6;GZ16;Toplinski pojasi;Ne;;Ne;;Ne;;;1;FB-38-8.1;;0;;;0;;;0;;
+9;FB/AM;Geografija;H;6;GZ16;Orijentacija;Ne;;Ne;;Ne;;;1;FB-46-9.1, FB-43-9;;1;FB-46-9.1;;0;;;0;;
+10;FB/AM;Geografija;H;6;GZ16;Zemljopisna mreža;Ne;;Ne;;Ne;;;0;;;1;FB-49-10.1, FB-50-10.2;;0;;;0;;
+11;FB/AM;Geografija;H;6;GZ16;Mjesno i pojasno vrijeme;Ne;;Ne;;Ne;;;1;FB-51-11.1;;1;FB-54-11.2;;0;;;0;;
+12;FB/AM;Geografija;H;6;GZ16;Mjerilo i vrste zemljovida;Ne;;Ne;;Ne;;;1;FB-55-12.1;;1;FB-55-12.1;;0;;;0;;
+13;FB/AM;Geografija;H;6;GZ16;Prikazivanje Zemljine površine;Ne;;Ne;;Ne;;;1;FB-58-13, FB-58-13.1;;1;FB-58-13, FB-62-13.1a, FB-63-13.2;;0;;;0;;
+14;FB/AM;Geografija;H;6;GZ16;Reljef i građa zemlje;Ne;;Ne;;Ne;;;1;FB-65-14.1;;0;;;0;;;0;;
+15;FB/AM;Geografija;H;6;GZ16;Vulkani, potresi i litosferne ploče;Ne;;Da;odgovornost FB-72-15.1;Ne;;;1;FB-69-15;;1;FB-73-15.2, FB-73-15.3;;0;;;0;;
+16;FB/AM;Geografija;H;6;GZ16;Preoblikovanje reljefa;Ne;;Da;odgovornost FB-16.1, FB-79-16.2;Ne;;;0;;;1;FB-80-16.3;;0;;;0;;
+17;FB/AM;Geografija;H;6;GZ16;Vode na Zemlji - more;Ne;;Da;odgovornost  FB-76-18.1;Ne;;;0;;;1;FB-87-17.2;;0;;;0;;
+18;FB/AM;Geografija;H;6;GZ16;Vode na kopnu;Ne;;Da;odgovornost FB-91-18.2;Ne;;;0;;;1;FB-89-18.1;;0;;;0;;
+19;FB/AM;Geografija;H;6;GZ16;Vrijeme i klima;Ne;;Ne;;Ne;;;0;;;1;FB-97-19.1;;0;;;0;;
+20;FB/AM;Geografija;H;6;GZ16;Temperatura zraka i padaline;Ne;;Ne;;Ne;;;0;;;1;FB-102-20.1;;0;;;0;;
+21;FB/AM;Geografija;H;6;GZ16;Tlak zraka i vjetar;Ne;;Ne;;Ne;;;0;;;1;FB-107-21.1;;0;;;0;;
+22;FB/AM;Geografija;H;6;GZ16;Tropske klime;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+23;FB/AM;Geografija;H;6;GZ16;Suhe klime;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+24;FB/AM;Geografija;H;6;GZ16;Umjerene klime;Ne;;Da;odgovornost AM-116-1;Ne;;;0;;;0;;;0;;;0;;
+25;FB/AM;Geografija;H;6;GZ16;Snježno-šumske i polarna klima;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+26;FB/AM;Geografija;H;6;GZ16;Tlo;Ne;;Da;odgovornost FB-123-26.1;Ne;;;0;;;1;FB-123-26.2;;0;;;0;;
+27;FB/AM;Geografija;H;6;GZ16;Naseljenost u svijetu;Ne;;Ne;;Ne;;;1;FB-125-27.1;;0;;;0;;;0;;
+28;FB/AM;Geografija;H;6;GZ16;Kretanje stanovništva;Ne;;Ne;;Ne;;;0;;;0;;;0;;;2;;AM-128-2, AM-132-2.1
+29;FB/AM;Geografija;H;6;GZ16;Obilježja ljudi;Ne;;Da;jednakost, sloboda FB-134-29.2, FB-132-29.3;Ne;;;1;FB-133-29.1;;0;;;0;;;0;;
+30;FB/AM;Geografija;H;6;GZ16;Gospodarske razlike;Ne;;Da;saradnja, odgovornost FB-137-30.1;Ne;;;1;FB-137-30;;0;;;0;;;0;;
+31;FB/AM;Geografija;H;6;GZ16;Prirodna bogatstva i izvori energije;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+32;FB/AM;Geografija;H;6;GZ16;Problemi okoliša;Ne;;Da;saradnja FB-146-32.2;Ne;;;1;FB-146-32.1;;0;;;0;;;0;;
+33;FB/AM;Geografija;H;6;GZ16;Moj zavičaj  ;Ne;;Da;odgovornost, zaštitaživotnesredine FB-151-33.1;Ne;;;1;FB-149-33;;1;FB-149-33;;1;AM-149-3;;1;AM-149-3;
+34;FB/AM;Geografija;H;6;GZ16;Moja Herzegovina;Ne;;Ne;;Ne;;;0;;;0;;;2;;FB-155-34.1, FB-156-24.2;2;;FB-156-34.2
+35;FB/AM;Geografija;H;6;GZ16;Ljepote središnje Bosne;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+36;FB/AM;Geografija;H;6;GZ16;Zaštita šuma;Ne;;Da;odgovornost, saradnja FB-161-36.2, FB-162-36.3;Ne;;;1;FB-160-36.1;;1;FB-161-36.2;;0;;;0;;
+37;FB/AM;Geografija;H;6;GZ16;Vode;Ne;;Da;odgovornost, život FB-163-37.2, FB-164-37.3;Ne;;;1;FB-163-37.1;;1;FB-163-37.2;;0;;;0;;
+1;AM/NH;Geografija;H;8;GZ25;Geografski i prometni položaj Republike Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;2;;NH-9-1.1, NH-10-1.2
+2;AM/NH;Geografija;H;8;GZ25;Veličina, granice i oblik teritorija Republike Hrvatske;Ne;;Ne;;Ne;;;0;;;1;NH-15-2.2, NH-12-2;;0;;;0;;NH-14-2.1
+3;AM/NH;Geografija;H;8;GZ25;Reljef Republike Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+4;AM/NH;Geografija;H;8;GZ25;Nizine i pobrđa Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+5;AM/NH;Geografija;H;8;GZ25;Klima, tlo i biljni pokrov Republike Hrvatske;Ne;;Da;odgovornost, zaštitaživotnesredine NH-28-5.1;Ne;;;0;;;0;;;0;;;0;;
+6;AM/NH;Geografija;H;8;GZ25;Rijeke i jezera Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+7;AM/NH;Geografija;H;8;GZ25;Broj stanovnika Republike Hrvatske i njegov razmještaj;Ne;;Ne;;Ne;;;0;;;1;AM-36-1.1;;0;;;0;;
+8;AM/NH;Geografija;H;8;GZ25;Strukture stanovništva Republike Hrvatske;Da;rat, neprijateljstvo, represija AM-41-1.2;Da;saradnja, suživot, odgovornost NH-41-8.1;Ne;;;0;;;0;;;0;;;0;;
+9;AM/NH;Geografija;H;8;GZ25;Prirodno i prostorno kretanje stanovništva Republike Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+10;AM/NH;Geografija;H;8;GZ25;Geografska raznolikost Republike Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+11;AM/NH;Geografija;H;8;GZ25;Jadransko more i otoci;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-57-11.3;0;;
+12;AM/NH;Geografija;H;8;GZ25;Gospodarstvo Primorske Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+13;AM/NH;Geografija;H;8;GZ25;Prirodna i kulturna baština, naselja Primorske Hrvatske;Ne;;Da;zaštitaživotnesredine, odgovornost NH-62-13.1;Ne;;;0;;;0;;;0;;;0;;
+14;AM/NH;Geografija;H;8;GZ25;Gospodarstvo i naselja Gorske Hrvatske;Ne;;Ne;zaštita prirode, odgovornost NH-62-13.1;Ne;;;0;;;0;;;0;;;0;;
+15;AM/NH;Geografija;H;8;GZ25;Prirodna i kulturna baština Gorske Hrvatske;Ne;;Da;zaštitaživotnesredine, odgovornost NH-72-15.1;Ne;;;1;NH-75-15.2;;0;;;0;;;0;;
+16;AM/NH;Geografija;H;8;GZ25;Gospodarstvo i naselja Nizinske Hrvatske;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+17;AM/NH;Geografija;H;8;GZ25;Prirodna i kulturna baština Nizinske Hrvatske;Ne;;Da;odgovornost NH-82-17.1;Ne;;;0;;;0;;;0;;;0;;
+18;AM/NH;Geografija;H;8;GZ25;Bosna i Hercegovina - podrijetlo imena i povijesno-teritorijalni razvoj;Ne;;Ne;;Ne;;;0;;;0;;;1;NH-88-18.1;;0;;
+19;AM/NH;Geografija;H;8;GZ25;Od dolaska Slavena do danas;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-92-19.2a, NH-92-19.2b, NH-93-19.3b, NH-92-19.3a, NH-95-19.7, NH-95-19.8;0;;
+20;AM/NH;Geografija;H;8;GZ25;Veličina, granice i oblik teritorija Bosne i Hercegovine;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+21;AM/NH;Geografija;H;8;GZ25;Reljef Bosne i Hercegovine;Ne;;Da;odgovornost, zaštitaživotnesredine AM-104-3;Ne;;;0;;;0;;;0;;;0;;
+22;AM/NH;Geografija;H;8;GZ25;Klima Bosne i Hercegovine;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+23;AM/NH;Geografija;H;8;GZ25;Tla Bosne i Hercegovine;Ne;;Da;odgovornost AM-113-4;Ne;;;0;;;0;;;0;;;0;;
+24;AM/NH;Geografija;H;8;GZ25;Biljni i životinjski svijet te ekološki problemi;Ne;;Da;odgovornost, zaštitaživotnesredine NH-117-24.1, NH-117-24.2, MH-117-24.3;Ne;;;0;;;0;;;0;;;0;;
+25;AM/NH;Geografija;H;8;GZ25;Vode Bosne i Hercegovine;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+26;AM/NH;Geografija;H;8;GZ25;Stanovništvo Bosne i Hercegovine - broj i razmještaj;Ne;;Da;ratkaozlo NH-125-26.3;Ne;;;0;;;0;;;2;;NH-122-26.1, NH-124-26.2;0;;
+27;AM/NH;Geografija;H;8;GZ25;Struktura stanovništva Bosne i Hercegovine;Ne;;Da;pluralizam, ratkaozlo NH-128-27.5, NH-131-27.7;Ne;;;0;;;0;;;2;;NH-128-27.1, NH-129-27.2, NH-128-27.4;2;;NH-128-27.3
+28;AM/NH;Geografija;H;8;GZ25;Prirodno i prostorno kretanje stanovništva  ;Ne;;Da;ratkaozlo AM-133-1.3;Ne;;;0;;;0;;;2;;NH-132-28.1, NH-132-28.2, NH-133-28.3, NH-133-28.4, NH-134-28.5;0;;
+29;AM/NH;Geografija;H;8;GZ25;Tipovi naselja Bosne i Hercegovine - seoska i gradska;Ne;;Ne;;Ne;;;0;;;0;;;2;;NH-136-29.1;0;;
+30;AM/NH;Geografija;H;8;GZ25;Gospodarstvo Bosne i Hercegovine;Ne;;Da;ratkaozlo, odgovornost, život NH-140-30.1, AM-143-6;Ne;;;0;;;0;;;2;;NH-142-30.2a, NH-142-30.2b, NH-142-30.2c, NH-143-30.3;0;;
+31;AM/NH;Geografija;H;8;GZ25;Prirodno-geografske cjeline Bosne i Hercegovine - Sjeverna Bosna;Da;pluralizamkaoproblem NH-147-31.3;Da;saradnja NH-147-31.3, AM-148-8;Da;porijeklo, tlo, prošlost AM-147-7;insinuacija;0;;;0;;;2;;NH-147-31.2;0;;
+32;AM/NH;Geografija;H;8;GZ25;Srednja Bosna;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+33;AM/NH;Geografija;H;8;GZ25;Regija visokog krša;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+34;AM/NH;Geografija;H;8;GZ25;Niska Hercegovina;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+35;AM/NH;Geografija;H;8;GZ25;Onečišćenje i zaštita prirodnog okoliša;Ne;;Da;odgovornost, zaštitaživotnesredine NH-164-35.1, NH-165-35.1;Ne;;;0;;;0;;;0;;;0;;
+36;AM/NH;Geografija;H;8;GZ25;Republika Crna Gora;Ne;;Da;odgovornost, zaštitaživotnesredine NH-169-36.2, NH-170-36.3;Ne;;;0;;;0;;;0;;;0;;
+37;AM/NH;Geografija;H;8;GZ25;Republika Srbija;Ne;;Da;odgovornost, zaštitaživotnesredine NH-175-37.2;Ne;;;0;;;0;;;0;;;0;;
+38;AM/NH;Geografija;H;8;GZ25;Povijesni razvoj, stanovništvo i gospodarstvo Srbije;Ne;;Da;ratkaozlo AM-178-1;Ne;;;0;;;0;;;0;;;0;;
+1;FB/AM;Geografija;H;8;GZ27;Položaj i prirodna obilježja Jugoistočne Evrope;Ne;;Ne;;Ne;;;2;;;0;;;2;;FB-9-1.1, FB-12-1.2;0;;
+2;FB/AM;Geografija;H;8;GZ27;Stanovništvo i gospodarstvo  ;Ne;;Ne;;Ne;;;0;;;0;;;2;;FB-14-2.2;0;;
+3;FB/AM;Geografija;H;8;GZ27;Položaj, veličina i granice Republike Hrvatske;Da;neravnopravnost, neprijateljstvo FB-18-3.1;Ne;;Ne;;;1;FB-16-1.1, FB-16-1.2, FB-16-1.3, FB-16-1.4, FB-18-1.5;;0;;;0;;;0;;
+4;FB/AM;Geografija;H;8;GZ27;Prirodna osnovica Hrvatske;Ne;;Da;odgovornost FB-22-4.1, FB-22-4.2;Ne;;;1;FB-20-4.1a, FB-20-4.1b, FB-20-4.1c, FB-21-4.1d, FB-21-4.1e, FB-21-4.1f;;0;;;0;;;0;;
+5;FB/AM;Geografija;H;8;GZ27;Stanovništvo Hrvatske;Ne;;Da;odgovornost AM-23-1.1;Ne;;;1;FB-23-5.1a, FB-24-5.1b, FB-25-5.1c, FB-25-5.1d, FB-26-5.1e;;0;;;0;;;2;;FB-26-5.1, FB-27-5.2
+6;FB/AM;Geografija;H;8;GZ27;Gospodarstvo Hrvatske;Da;neprijateljstvo FB-29-6.2, FB-29-6.3;Da;ratkaozlo AM-29-2.1;Da;teritorij;redukcija, imputacija, insinuacija;0;;;0;;;2;;FB-29-6.2, FB-29-6.3;2;;FB-28-6.1
+7;FB/AM;Geografija;H;8;GZ27;Zemljopisne raznolikosti;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+8;FB/AM;Geografija;H;8;GZ27;Srbija i Crna Gora - Položaj, veličina i granice;Da;neprijateljstvo FB-34-8.1, FB-35-8.4, FB-35-8.5;Ne;;Ne;;;1;FB-35-8.2a, FB-35-8.2b;;0;;;2;;FB-35-8.3a;2;;FB-34-8.2, FB-34-8.3
+9;FB/AM;Geografija;H;8;GZ27;Prirodna osnovica  ;Ne;;Ne;;Ne;;;1;FB-37-9.1, FB-37-9.2, FB-38-9.3, FB-38-9.4. FB-38-9.5;;0;;;0;;;0;;
+10;FB/AM;Geografija;H;8;GZ27;Stanovništvo;Ne;;Da;odgovornost FB-39-10.1;Ne;;;0;;;0;;;2;;FB-39-10.2, FB-40-10.3;0;;
+11;FB/AM;Geografija;H;8;GZ27;Zemlja gospodarske raznolikosti i pejzaža;Da;rat, neprijateljstvo FB-41-11.1, FB-42-11.2;Ne;;Ne;;;1;FB-41-11.3, FB-42-11.4;;0;;;2;;FB-41-11.1;2;;FB-41-11.1
+12;FB/AM;Geografija;H;8;GZ27;Bosna i Hercegovina - Moja, tvoja i njegova domovina - Naša država Bosna i Hercegovina;Da;neravnopravnost FB-45-12.3;Ne;;Ne;;;0;;;0;;;2;;FB-43-12.2, FB-45-12.3, FB-45-12.4, FB-45-12.5;2;;FB-43-12.2, FB-45-12.4
+13;FB/AM;Geografija;H;8;GZ27;Slavensko razdoblje;Da;neravnopravnost FB-46-13.1, FB-48-13.7, FB-48-13.8, FB-48-13.9;Ne;;Ne;;;0;;;0;;;2;;FB-46-13.2, FB-47-13.3, FB-48-13.6, FB-48-13.7;0;;
+14;FB/AM;Geografija;H;8;GZ27;Položaj, veličina i granice Bosne i Hercegovine;Da;negativanodnospremaBiH FB-51-14.1, FB-51-14.3, FB-51-14.4;Da;saradnja, pluralizam FB-51-14.3, FB-51-14.4;Da;teritorij, prošlost;imputacija;1;FB-50-14.1a, FB-51-14.1b, FB-51-14.1c, FB-52-14.1d;;0;;;2;;FB-51-14.1, FB-51-14.2;2;;FB-51-14.2
+15;FB/AM;Geografija;H;8;GZ27;Prirodno-zemljopisne obilježbe Bosne i Hercegovine;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+16;FB/AM;Geografija;H;8;GZ27;Reljef Bosne i Hercegovine;Da;prisvajanjeteritorijapoetničkojosnovi FB-58-16.1;Ne;;Ne;;;1;FB-57-16.2, FB-57-16.3, FB-58-16.4, FB-59-16.5;;0;;;0;;;0;;
+17;FB/AM;Geografija;H;8;GZ27;Klima i podenblje Bosne i Hercegovine;Ne;;Ne;;Ne;;;1;FB-60-17.1a, FB-61-17.1b, FB-62-17.1C, FB-63-17.1e, FB-63-17.1d, FB-64-17.1f ;;0;;;0;;;0;;
+18;FB/AM;Geografija;H;8;GZ27;Vode Bosne i Hercegovine;Ne;;Da;odgovornost FB-69-18.3;Ne;;;1;FB-66-18.1a, FB-67-18.2b;;0;;;0;;;2;;FB-67-18.1, FB-68-18.2
+19;FB/AM;Geografija;H;8;GZ27;Tla Bosne i Hercegovine;Ne;;Da;odgovornost FB-72-19.1;Ne;;;0;;;0;;;0;;;0;;
+20;FB/AM;Geografija;H;8;GZ27;Biljni i životinjski svijet Bosne i Hercegovine;Ne;;Da;odgovornost FB-75-20.1, FB-75-20.2;Da;tradicija, pobožnost;ignorancija;0;;;0;;;0;;;0;;
+21;FB/AM;Geografija;H;8;GZ27;Stanovništvo, naselja i gospodarstvo Bosne i Hercegovine;Da;pluralizamkaoproblem FB-76-21.1, FB-77-21.4, FB-77-21.5, FB-77-21.6;Da;ratkaozlo FB-77-21.8;Ne;;;0;;;0;;;2;;FB-77-21.4, FB-77-21.5, FB-77-21.6, FB-77-21.7, FB-77-21.9;2;;FB-77-21.3
+22;FB/AM;Geografija;H;8;GZ27;Prirodno kretanje i razmještaj stanovništva;Ne;;Ne;;Ne;;;0;;;0;;;2;;FB-80-22.5;2;;FB-79-22.1, FB-79-22.2, FB-79-22.3, FB-80-22.4, FB-82-22.6
+23;FB/AM;Geografija;H;8;GZ27;Biološki, gospodarski i obrazovni sastav stanovništva;Da;neodgovornost FB-85-23.1a, FB-85-23.1;Ne;;Ne;;;0;;;0;;;0;;;0;;
+24;FB/AM;Geografija;H;8;GZ27;Narodnosni i vjeroispovjedni sastav stanovništva;Da;negativanodnospremaBiH FB-88-24.6;Da;saradnja FB-87-24.4;Da;prošlost ;insinuacija FB-88-24.6;0;;;0;;;2;;FB-87-24.3, FB-87-24.5, FB-89-24.9, FB-89-24.11;2;;FB-87-24.1, FB-87-24.2
+25;FB/AM;Geografija;H;8;GZ27;Migracije stanovništva;Ne;;Ne;;Ne;;;1;FB-91-25.1a, FB-91-25.1b;;0;;;2;;FB-90-25.1, FB-91-25.3, FB-92-25.5;2;;FB-91-25.4
+26;FB/AM;Geografija;H;8;GZ27;Naselja Bosne i Hercegovine;Ne;;Ne;;Ne;;;1;FB-94-26.1a, FB-95-26.1b, FB-96-21.1c;;0;;;0;;;0;;
+27;FB/AM;Geografija;H;8;GZ27;Gospodarstvo Bosne i Hercegovine;Ne;;Ne;;Ne;;;1;FB-99-27.1a, FB-99-27.1b, FB-100-27.1c;;0;;;0;;;0;;
+28;FB/AM;Geografija;H;8;GZ27;Poljoprivreda  ;Ne;;Ne;;Ne;;;1;FB-102-28.1a, FB-103-28.1b, FB-104-28.1c;;0;;;0;;;0;;
+29;FB/AM;Geografija;H;8;GZ27;Energetika i rudarstvo - osnova industrijskog razvoja i napretka;Ne;;Ne;;Ne;;;0;FB-105-29.1, FB-106-29.2;;0;;;0;;;0;;
+30;FB/AM;Geografija;H;8;GZ27;Industrija  ;Ne;;Ne;;Ne;;;1;FB-108-30.1a, FB-109-30.1b, FB-109-30.1c, FB-110-30.1d, FB-110-30.1e;;0;;;0;;;2;;FB-109-30.1
+31;FB/AM;Geografija;H;8;GZ27;Trgovina i turizam;Ne;;Ne;;Ne;;;1;FB-111-31.1a, FB-113-31.1b;;0;;;0;;;0;;
+32;FB/AM;Geografija;H;8;GZ27;Promet;Ne;;Ne;;Ne;;;1;FB-114-32.1, FB-115-32.2, FB-115-32.3, FB-116-32.4;;0;;;0;;;0;;
+33;FB/AM;Geografija;H;8;GZ27;Zemljopisne regije Bosne i Hercegovine - Sjeverna Bosna;Da;rat, neravnopravnost, neprijateljstvo FB-121-33.3, FB-121-33.4;Ne;;Ne;;;1;FB-118-33.1, FB-119-33.1b, FB-120-33.1c, FB-122-33.1e;;0;;;2;;FB-121-33.3, FB-121-33.4;2;;FB-120-33.2, FB-119-33.1
+34;FB/AM;Geografija;H;8;GZ27;Srednja Bosna;Da;pluralizamkaoproblem FB-124-34.2, FB-127-34.5;Ne;;Ne;;;1;FB-123-34.6, FB-123-34.7, FB-124-34.8, FB-124-34.9, FB-125-34.10, FB-126-34.11, FB-126-34.12, FB-126-34.13, FB-127-34.14, FB-127-34.14a;;0;;;0;;;0;;
+35;FB/AM;Geografija;H;8;GZ27;Regija visokog krša;Ne;;Ne;;Ne;;;1;FB-130-35.2, FB-131-35.3, FB-131-35.4;;0;;;2;;FB-130-35.1;0;;
+36;FB/AM;Geografija;H;8;GZ27;Niska Hercegovina;Ne;;Ne;;Ne;;;1;FB-133-36.1, FB-134-36.2, FB-135-36.3, FB-135-36.4, FB-136-36.5;;0;;;0;;;0;;
+37;FB/AM;Geografija;H;8;GZ27;Okoliš i njegovo čuvanje;Ne;;Da;zaštitaživotnesredine, odgovornost FB-139-37.1, FB-139-37.2, FB-141-37.3;Ne;;;1;FB-138-37.1a, FB-138-37.1d, FB-139-37.1c, FB-139-37.1b, ;;0;;;0;;;0;;
+38;FB/AM;Geografija;H;8;GZ27;Kako čuvati čovjekov okoliš?;Ne;;Da;odgovornost, život FB-142-38.1, FB-143-38.3, FB-143-38.4;Ne;;;0;;;0;;;0;;;2;;FB-142-38.2
+39;FB/AM;Geografija;H;8;GZ27;Bosna i Hercegovina i međunarodne integracije;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+1;FB/NH;Geografija;B;8;GZ7;Geografski smješta, položaj i reljef Azije;Ne;;Ne;;Ne;;;1;FB-9-1.1, FB-10-1.2, FB-11-1.3, FB-12-1.4, FB-13-1.5, FB-13-1.6, FB-14-1.7, FB-14-1.9;;1;;;0;; FB-14-1.9;0;;
+2;FB/NH;Geografija;B;8;GZ7;Klima, vegetacija i vode Azije;Ne;;Ne;;Ne;;;1;NH-16-2.1a, NH-16-2.1b, NH-17-2.1c, NH-18-2.1d, NH-19-2.1e;;1;;;0;;FB-20-2.1;0;;
+3;FB/NH;Geografija;B;8;GZ7;Stanovništvo i privredna obilježja Azije;Ne;;Da;odgovornost, jednakost, multikulturalnost, suživot NH-23-3.2, NH-23-3.3, NH-26-3.7a, NH-25-3.4, NH-26-3.6;Ne;;;1;NH-21-3.1a, NH-21-3.1b, NH-23-3.1c, NH-23-3.1d, NH-25-3.1e;;1;;;0;; FB-26-3.5;0;;
+4;FB/NH;Geografija;B;8;GZ7;Srednja Azija - Prirodna i društvena obilježja;Ne;;Ne;;Ne;;;1;NH-27-4.1a, NH-28-4.1b, NH-28-4.1c, NH-30-4.1d, NH-31-4.1e;;1;;;0;;FB-32-4.2;0;;
+5;FB/NH;Geografija;B;8;GZ7;Zakavkazje;Ne;;Ne;;Ne;;;1;NH-33-5.1a, NH-34-5.1b, NH-35-5.1c, NH-35-5.1d, NH-37-5.1e;;1;;;0;; FB-37-5.3;0;;
+6;FB/NH;Geografija;B;8;GZ7;Srednji istok;Ne;;Ne;;Ne;;;1;NH-38-6.1a, NH-39-6.1b, NH-40-6.1c, NH-41-6.1d;;1;;;0;; FB-41-6.1;0;;
+7;FB/NH;Geografija;B;8;GZ7;Monsunska Azija;Ne;;Ne;;Ne;;;1;NH-42-7.1a, NH-42-7.1b, NH-43-7.1c, NH-43-7.1d, NH-43-7.1e, NH-45-7.1f;;1;;;2;;NH-43-7.2, NH-46-7.3, NH-46-7.4;0;;
+8;FB/NH;Geografija;B;8;GZ7;Indija - Najveća država južne Azije;Ne;;Ne;;Ne;;;1;NH-48-8.1a, NH-49-8.1b, NH-50-8.1c, NH-50-8.1d, NH-50-8.1e, NH-52-8.1f;;1;;;0;; FB-53-8.1;0;;
+9;FB/NH;Geografija;B;8;GZ7;Indonezija i Malezija - Države jugoistoistočne Azije;Ne;;Ne;;Ne;;;1;NH-54-9.1a, NH-55-9.1b, NH-56-9.1c, NH-56-9.1d, NH-57-9.1e, NH-57-9.1f;;1;;;2;;NH-55-9.3;0;;
+10;FB/NH;Geografija;B;8;GZ7;Kina - Div istočne Azije;Ne;;Da;odgovornost, saradnja NH-63-10.2, NH-63-10.3;Ne;;;1;NH-61-10.1a, NH-62-10.1b, NH-62-10.1c, NH-63-10.1d;;1;;;0;;;0;;
+11;FB/NH;Geografija;B;8;GZ7;Japan - Nippon ili Nihon;Ne;;Da;odgovornost, život;Ne;;;1;NH-68-11.1a, NH-69-11.1b, NH-69-11.1c;;1;;;0;; FB-70-11.1;0;;
+12;FB/NH;Geografija;B;8;GZ7;Geografski položaj i prirodno-geografska obilježja Afrike;Ne;;Ne;;Ne;;;1;NH-74-12.2a, NH-75-12.1b, NH-75-12.1c, NH-76-12.1d, NH-77-12.1e, NH-77-12.1f, NH-78-12.1g, NH-78-12.1h;;1;;;0;; FB-79-12.1;0;;
+13;FB/NH;Geografija;B;8;GZ7;Stanovništvo i privredna obilježja Afrike;Ne;;Da;solidarnost, odgovornost, humanost, jednakost, pravda, sloboda NH-82-13.4, NH-82-13.5, NH-85-13.7, NH-81-13.3;Ne;;;1;NH-80-13.1a, NH-80-13.1b, NH-82-13.1c;;1;;;0;;;2;;NH-81-13.2, NH-83-13.6
+14;FB/NH;Geografija;B;8;GZ7;Nigerija, Kongo, Etiopija i Južnoafrička Republika;Ne;;Da;odgovornost, humanost, solidarnost NH-89-14.2, NH-91-14.3;Ne;;;1;NH-86-14.1a, NH-86-14.1b, NH-87-14.1c, NH-88-14.1d, NH-90-14.1e, NH-91-14.1f, NH-91-14.1g, NH-92-14.1h;;1;;;0;;;0;;
+15;FB/NH;Geografija;B;8;GZ7;Geografski položaj, smještaj i podjela Amerike;Ne;;Ne;;Ne;;;1;FB-96-15.1, NH-96-15.1a, NH-97-15.1b, NH-97-15.1c, NH-97-15.1d, NH-98-15.1e, NH-98-15.1f, NH-99-15.1g;;1;;;0;; FB-99-15.2;0;;
+16;FB/NH;Geografija;B;8;GZ7;Prirodno-geografska obilježja Amerike (Amerika);Ne;;Ne;;Ne;;;1;FB-100-16.1, NH-100-16.1a, NH-101-16.1b, NH-102-16.1c, NH-103-16.1d, NH-104-16.1e;;1;;;0;; FB-105-16.2;0;;
+17;FB/NH;Geografija;B;8;GZ7;Stanovništvo i privredna obilježja Amerike;Ne;;Da;sloboda, jednakost, pravda, ratkaozlo, zaštitaživotnesredine  FB-110-17.6, FB-108-17.3, NH-NH-106-17.1, NH-107-17.2, NH-107-17.3, NH-110-17.7, ;Ne;;;1;NH-108-17.6a, NH-109-17.6b;;1;;;2;;NH-108-17.5, FB-111-17.6a;0;;
+18;FB/NH;Geografija;B;8;GZ7;SAD - Svjetska privredna velesila;Ne;;Da;odgovornost, zaštitaživotnesredine FB-115-18.1, FB-117-18.2;Ne;;;1;FB-112-18.1a, FB-113-18.1b, FB-115-18.1c, FB-115-18.1d, FB-117-18.1e, FB-118-18.1f;;1;;;0;; FB-118-18.3;0;;
+19;FB/NH;Geografija;B;8;GZ7;Kanada ili Canata;Ne;;Ne;;Ne;;;1;FB-119-19.1a, FB-119-19.1b, FB-119-19.1c, FB-121-19.1d, FB-122-19.1e, FB-123-19.1f;;1;;;0;; FB-124-19.2;0;;
+20;FB/NH;Geografija;B;8;GZ7;Brazil, Argentina i Čile;Ne;;Ne;;Ne;;;1;FB-125-20.1a, FB-125-20.1b, FB-126-20.1c, FB-126-20.1d, FB-127-20.1e, FB-128-20.1f, FB-128-20.1g, FB-129-20.1h, FB-130-20.1i, FB-131-20.1k, FB-131-20.1l;;1;;;0;; FB-131-20.3;0;;
+21;FB/NH;Geografija;B;8;GZ7;Australija - Kontinent na drugom kraju svijeta;Ne;;Da;zaštitaživotnesredine, pravda NH-134-21.2, NH-135-21.3, NH-142-21.5, NH-138-21.4;Ne;;;1;NH-134-21.1a, NH-135-21.1b, NH-136-21.1c, NH-138-21.1d, NH-140-21.1e, FB-134-21.1;;1;;;0;; FB-142-21.7;0;;
+22;FB/NH;Geografija;B;8;GZ7;Okeanija (Oceanija) - Brojni otoci u Tihom okeanu;Ne;;Da;zaštitaživotnesredine, odgovornost FB-146-22.1, FB-146-22.2, NH-147-22.5, NH-148-22.6;Ne;;;1;NH-143-22.1a, NH-146-22.1b;;1;;;0;; FB-148-22.4;0;;
+23;FB/NH;Geografija;B;8;GZ7;Polarna područja;Ne;;Ne;;Ne;;;1;NH-150-23.1a, NH-152-23.1b, NH-152-23.1c, NH-153-23.1d;;1;;;0;; FB-155-23.4;0;;
+1;FB/NH;Geografija;S;8;GZ13;Azija - Opšti geografski podaci o kontinentu;Ne;;Ne;;Ne;;;1;FB-10-1.1, FB-11-1.2, FB-11-1.3, FB-11-1.4;;1;;;0;;;0;;
+2;FB/NH;Geografija;S;8;GZ13;Reljef i klima Azije;Ne;;Ne;;Ne;;;1;FB-13-2.1, FB-15-2.2;;1;;;0;;;0;;
+3;FB/NH;Geografija;S;8;GZ13;Hidrografske i biogeografske osobine Azije;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+4;FB/NH;Geografija;S;8;GZ13;Stanovništvo, politička i regionalna podjela;Da;sukob FB-22-4.2;Da;odgovornost FB-21-4.1;Ne;;;0;;;0;;;2;;FB-22-4.2, NH-22-4.4;2;;NH-21-4.1
+5;FB/NH;Geografija;S;8;GZ13;Prirodnogeografske osobine jugozapadne Azije;Da;sukob NH-26-5.3;Ne;;Ne;;;0;;;0;;;0;;;2;;NH-26-5.3
+6;FB/NH;Geografija;S;8;GZ13;Stanovništvo, privreda i politička podjela;Da;sukob FB-29-6.5, FB-29-6.6, FB-30-6.7;Ne;;Ne;;;0;;;0;;;2;;NH-31-6.8;2;;NH-28-6.1
+7;FB/NH;Geografija;S;8;GZ13;Geografski položaj i prirodne karakteristike južne Azije;Ne;;Ne;;Ne;;;1;FB-34-7.1, FB-35-7.2, FB-36-7.3;;1;NH-35-7.1a, NH-36-7.1b;;0;;;0;;
+8;FB/NH;Geografija;S;8;GZ13;Stanovništvo, privredne karakteristike i politička podjela južne Azije;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+9;FB/NH;Geografija;S;8;GZ13;Specifičnosti geografskog položaja i prirodne sredine;Ne;;Ne;;Ne;;;1;NH-40-9.1a, NH-42-9.1b;;1;FB-40-9.1, FB-41-9.2, FB-42-9.3;;0;;;0;;
+10;FB/NH;Geografija;S;8;GZ13;Stanovništvo, privreda i politička podjela jugoistočne Azije;Ne;;Ne;;Ne;;;1;NH-43-10.1a, NH-46-10.1b;;1;FB-43-10.1a, FB-46-10.1b;;0;;;0;;
+11;FB/NH;Geografija;S;8;GZ13;Geografski pregled istočne Azije;Ne;;Ne;;Ne;;;1;NH-48-11.1a, NH-49-11.1b, NH-50-11.1c, NH-50-11.1d;;1;NH-48-11.1a, NH-49-11.1b, NH-50-11.1c, NH-50-11.1d;;0;;;0;;
+12;FB/NH;Geografija;S;8;GZ13;NR Kina - geografski položaj, podjela, demografska obilježja, društveno i državno uređenje;Ne;;Da;odgovornost FB-54-12.1;Ne;;;1;NH-51-12.1a;;1;NH-51-12.1a;;0;;;0;;
+13;FB/NH;Geografija;S;8;GZ13;Privredne odlike Kine;Ne;;Da;život, saradnja FB-58-13.1;Ne;;;0;;;0;NH-57-13.1a;;0;;;2;;NH-58-13.2
+14;FB/NH;Geografija;S;8;GZ13;Japan - osnovna obilježja prirodne sredine;Ne;;Ne;;Ne;;;1;NH-61-14.1a, NH-61-14.1b, NH-63-14.1c;;1;NH-61-14.1a, NH-61-14.1b, NH-63-14.1c;;0;;;0;;
+15;FB/NH;Geografija;S;8;GZ13;Geografske osobine srednje Azije;Ne;;Ne;;Ne;;;1;NH-66-15.1a, NH-68-15.1b;;1;NH-66-15.1a, NH-68-15.1b;;0;;;0;;
+16;FB/NH;Geografija;S;8;GZ13;Afrika - osnovni geografski podaci o kontinentu;Ne;;Ne;;Ne;;;1;NH-72-16.1a, NH-74-16.1b, NH-74-16.1c;;1;NH-72-16.1a, NH-74-16.1b, NH-74-16.1c;;0;;;0;;
+17;FB/NH;Geografija;S;8;GZ13;Osnovna obilježja prirodne sredine;Ne;;Ne;;Ne ;;;1;NH-76-17.1a, NH-79-17.1b, NH-79-17.1c;;1;NH-76-17.1a, NH-79-17.1b, NH-79-17.1c;;0;;;0;;
+18;FB/NH;Geografija;S;8;GZ13;Stanovništvo, kolonijalizam, dekolonizacija i regionalna podjela Afrike;Ne;;Ne;;Ne;;;0;;;0;;;0;;;2;;NH-81-18.1a, NH-81-18.1b
+19;FB/NH;Geografija;S;8;GZ13;Geografski položaj i prirodne osobine sjeverne Afrike;Ne;;Ne;;Ne;;;1;NH-86-19.1a, NH-87-19.1b, NH-88-19.1c, NH-89-19.1c;;1;NH-86-19.1a, NH-87-19.1b, NH-88-19.1c, NH-89-19.1c;;0;;;0;;
+20;FB/NH;Geografija;S;8;GZ13;Društveno-geografske karakteristike i politička podjela;Ne;;Ne;;Ne;;;1;NH-90-20.1a, NH-91-20.1b, NH-92-20.1c, NH-91-20.1d;;1;NH-90-20.1a, NH-91-20.1b, NH-92-20.1c, NH-91-20.1d;;2;;NH-90-20.2;0;;
+21;FB/NH;Geografija;S;8;GZ13;Geografski položaj i prirodna obilježja istočne Afrike;Ne;;Ne;;Ne;;;1;NH-95-21.1a, NH-95-21.1b, NH-96-21.1c, FB-97-21.4;;1;FB-95-21.1, FB-95-21.2, FB-96-21.3, FB-97-21.4;;0;;;0;;
+22;FB/NH;Geografija;S;8;GZ13;Stanovništvo, privredne karakteristike i politička podjela  ;Ne;;Ne;;Ne;;;1;NH-100-22.1a, NH-100-22.b;;1;NH-100-22.1a, NH-100-22.b;;0;;;0;;
+23;FB/NH;Geografija;S;8;GZ13;Gvinejske zemlje - opšte geografske osobine;Ne;;Ne;;Ne;;;1;NH-102-23.1a, NH-102-23.1b, NH-103-23.1c, NH-103-23.1d, NH-104-23.1e, NH-106-23.1f;;1;NH-102-23.1a, NH-102-23.1b, NH-103-23.1c, NH-103-23.1d, NH-104-23.1e, NH-106-23.1f;;0;;;0;;
+24;FB/NH;Geografija;S;8;GZ13;Centralna Afrika - opšte geografske odlike;Ne;;Ne;;Ne;;;1;NH-108-24.1a, NH-108-24.1b, NH-109-24.1c ;;1;NH-108-24.1a, NH-108-24.1b, NH-109-24.1c;;0;;;0;;
+25;FB/NH;Geografija;S;8;GZ13;Južna Afrika - opšte geografske odlike;Ne;;Da;ravnopravnost FB-114-25.1;Ne;;;1;NH-112-25.1a, NH-112-25.1b, NH-113-25.1c, NH-113-25.1d;;1;NH-112-25.1a, NH-112-25.1b, NH-113-25.1c, NH-113-25.1d;;0;;;0;;
+26;FB/NH;Geografija;S;8;GZ13;Amerika - opšti geografski pregled;Ne;;Ne;;Ne;;;1;NH-118-26.1a, NH-119-26.1b;;1;NH-118-26.1a, NH-119-26.1b;;0;;;0;;
+27;FB/NH;Geografija;S;8;GZ13;Raznolikost prirodnogeografskih faktora;Ne;;Ne;;Ne;;;1;NH-125-27.1a, NH-126-27.1b, NH-126-27.1c, NH-127-27.1d, NH-128-27.1e, NH-129-27.1e;;1;NH-125-27.1a, NH-126-27.1b, NH-126-27.1c, NH-127-27.1d, NH-128-27.1e, NH-129-27.1e;;0;;;0;;
+28;FB/NH;Geografija;S;8;GZ13;SAD - prirodna i demografska obilježja;Ne;;Da;jednakost, ravnopravnost, život FB-134-28.1, FB-135-28.2, FB-135-28.3;Ne;;;1;NH-132-28.1a, NH-133-28.1b, NH-135-28.1c;;1;NH-132-28.1a, NH-133-28.1b, NH-135-28.1c;;0;;;0;;
+29;FB/NH;Geografija;S;8;GZ13;Razvoj i privredne karakteristike SAD;Ne;;Ne;;Ne;;;1;NH-136-29.1a, NH-137-29.1b, NH-138-29.1c;;1;NH-136-29.1a, NH-137-29.1b, NH-138-29.1c;;0;;;0;;
+30;FB/NH;Geografija;S;8;GZ13;Kanada - zemlja širokih prostranstava, rijetke naseljenosti i velikih privrednih mogućnosti;Ne;;Da;odgovornost, zaštitaživotnesredine FB-144-30.2;Ne;;;1;NH-141-30.1a, NH-143-30.1b;;1;NH-141-30.1a, NH-143-30.1b;;0;;;0;;
+31;FB/NH;Geografija;S;8;GZ13;Geografski pregled srednje Amerike;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+32;FB/NH;Geografija;S;8;GZ13;Meksiko - zemlja konstrasta;Ne;;Ne;;Ne;;;1;NH-150-32.1a, NH-150-32.1b, NH-152-32.1c;;1;NH-150-32.1a, NH-150-32.1b, NH-152-32.1c;;0;;;0;;
+33;FB/NH;Geografija;S;8;GZ13;Prirodna osnova, stanovništvo, privredne karakteristike i politička podjela;Ne;;Ne;;Ne;;;1;NH-155-33.1a, NH-157-33.1b, NH-158-33.1c;;1;NH-155-33.1a, NH-157-33.1b, NH-158-33.1c;;0;;;0;;
+34;FB/NH;Geografija;S;8;GZ13;Brazil - zemlja velikog privrednog uspona;Ne;;Ne;;Ne;;;1;NH-163-34.1a, NH-163-34.1b;;1;NH-163-34.1a, NH-163-34.1b;;0;;;0;;
+35;FB/NH;Geografija;S;8;GZ13;Argentina - kontrast prirodnih oblasti;Ne;;Ne;;Ne;;;1;NH-165-35.1a, NH-166-35.1b, NH-166-35.1c, FB-165-35.1;;1;NH-165-35.1a, NH-166-35.1b, NH-166-35.1c, FB-165-35.1;;0;;;0;;
+36;FB/NH;Geografija;S;8;GZ13;Australije - otkriće i osnovne prirodno-geografske osobine;Ne;;Da;jednakost, život, zaštitaživotnesredine FB-175-36.1, FB-177-36.2, FB-177-36.3;Ne;;;1;NH-170-36.1a, NH-170-36.1b, NH-172-36.1c, NH-174-36.1d;;1;NH-170-36.1a, NH-170-36.1b, NH-172-36.1c, NH-174-36.1d;;2;;NH-175-36.3;0;;
+37;FB/NH;Geografija;S;8;GZ13;Novi Zeland - osnovne prirodne i društvene osobine;Ne;;Da;jednakost FB-180-37.1;Ne;;;0;;;0;;;0;;;0;;
+38;FB/NH;Geografija;S;8;GZ13;Okeanija - položaj, klima i stanovništvo;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+39;FB/NH;Geografija;S;8;GZ13;Arktik - oblasti surove klime;Ne;;Ne;;Ne;;;0;;;0;;;0;;;0;;
+40;FB/NH;Geografija;S;8;GZ13;Antarktik;Ne;;Da;odgovornost, zaštitaživotnesredine, život NH-190-40.1, NH-190-40.2, NH-143-40.3;Ne;;;0;;;0;;;0;;;0;;
